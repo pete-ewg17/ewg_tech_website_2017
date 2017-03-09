@@ -348,7 +348,8 @@ content{
     }
     
     .rw-words {
-        text-indent: 0.2em;
+        display: block;
+        text-indent: 0;
     }
 }
 
