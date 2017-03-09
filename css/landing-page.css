@@ -328,6 +328,7 @@ content{
     
     .intro-header {
         min-height: 50%;
+        width: 100%;
     }
     
     .intro-message {
@@ -341,11 +342,13 @@ content{
     }
     
     .rw-wrapper {
-        max-width: 78%;
+        max-width: 80%;
+        padding-left: auto;
+        padding-right: auto;
     }
     
     .rw-words {
-        text-indent: 0;
+        text-indent: 0.2em;
     }
 }
 
