@@ -349,6 +349,36 @@ content{
     }
 }
 
+/*================
+
+ BIG QUOTE
+
+================*/
+
+.big-quote {
+    border-left: none;
+    padding: 4em 0;
+}
+
+.big-quote p {
+    font-weight: 300;
+    font-size: 2em;
+    color: #e4e4e4;
+}
+
+.big-quote cite {
+    font-style: normal;
+}
+
+/*================
+
+ THUMBS 
+
+================*/
+
+.thumbs {
+    padding: 8em 0;
+}
 
 /*================
 
@@ -357,7 +387,7 @@ content{
 ================*/
 
 .content-section-a {
-    padding: 20px 0;
+    padding: 2em 0;
 }
 
 .content-section-b {
@@ -470,6 +500,7 @@ Placement With Purpose
 }
 
 .thumbnail {
+    padding: 4em 0;
     border: none;
     box-shadow: 0px 3px 38px 1px rgba(0, 0, 0, 0.2); 
 }
@@ -486,7 +517,15 @@ Placement With Purpose
 ================*/
 
 ol.carousel-indicators {
-    bottom: -2.5em;
+    bottom: -4.5em;
+}
+
+.quotes {
+    padding: 6em 0;
+}
+
+.carousel-inner cite {
+    font-style: normal;
 }
 
 /*================
@@ -554,14 +593,6 @@ ol.carousel-indicators {
     color: #fff;
 }
 
-
-
-
-
-
-
-
-
 /*================
 
  Footer Styles
@@ -574,7 +605,7 @@ footer {
 
 .footer-img {
     max-width: 100%;
-    background: url(../images/footer-3.jpg) no-repeat center center;
+    background: url("../assets/images/footer-3.jpg") no-repeat center center;
     background-size: cover;
     background-position: fixed;
 }
