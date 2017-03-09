@@ -66,7 +66,7 @@ $(function () {
             return false;
         }
     })
-});
+}); /* @Chris -- DOES IT GO AFTER THIS validation? */
 
 /*===========
   Counter 
