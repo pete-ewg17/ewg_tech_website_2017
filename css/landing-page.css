@@ -33,6 +33,11 @@ h3 {
     color: #444;
 }
 
+cite,
+content{
+    color: #fff;
+}
+
 .tagline {
     font-weight: bold;
     letter-spacing: .2rem;
@@ -59,6 +64,22 @@ h3 {
 }
 
 .btn-form:hover{
+    background-color: #555;
+    border-color: #555;
+}
+
+.btn-send,
+.btn-success,
+.btn.disabled,
+.btn.disabled:hover{
+    color: #555;
+    background-color: #e4e4e4;
+    border-color: #e4e4e4;
+}
+
+.btn-success:hover,
+.btn-success:focus{
+    color: #fff;
     background-color: #555;
     border-color: #555;
 }
@@ -331,7 +352,7 @@ h3 {
 
 /*================
 
- Clients
+ BLOCK STYLES
 
 ================*/
 
@@ -341,15 +362,15 @@ h3 {
 
 .content-section-b {
     padding: 50px 0;
-    border-top: 1px solid #e7e7e7;
-    border-bottom: 1px solid #e7e7e7;
-    background-color: #e6e6e6;
+    background: -webkit-linear-gradient(top, rgba(34, 99, 157,1) 0%, rgba(4,190,242,1) 100%);
+    background: linear-gradient(to bottom, rgba(34, 99, 157,1) 0%, rgba(4,190,242,1) 100%);
 }
 
 .section-heading  {
-    margin-top: 0;
-    margin-bottom: 30px;
+    margin-top: 2em;
+    margin-bottom: 2em;
     font-weight: 600;
+    color: #fff;
     
 }
 
@@ -369,10 +390,6 @@ Placement With Purpose
         margin-top: 1.2em;
     }
     
-    
-    .video-container {
-        margin-top: 2.6em;
-        }
 }
 
 .banner {
@@ -430,32 +447,10 @@ Placement With Purpose
     }
 }
 
-/*================
-
- YOUTUBE Responsive Styles
-
-================*/
-
-
-.video-container{
-    position:relative;
-	padding-bottom:56.25%;
-	padding-top:30px;
-	height:0;
-	overflow:hidden;
-}
-
-.embed-responsive-item {
-    position:absolute;
-	top:0;
-	left:0;
-	width:100%;
-	height:100%;
-}
 
 /*================
 
- EWG GROUP STYLES
+ EWG Tech Styles
 
 ================*/
 
@@ -482,6 +477,88 @@ Placement With Purpose
 .th-logo {
     margin: 1em 2em;
 }
+
+
+/*================
+
+ CAROUSEL Styles
+
+================*/
+
+ol.carousel-indicators {
+    bottom: -2.5em;
+}
+
+/*================
+
+ STATS Styles
+
+================*/
+
+.stats {
+    padding-top: 7.5em;
+    padding-bottom: 7.5em;
+}
+
+.counter-item i {
+    color: #555;
+    font-size: 3.75em;
+}
+
+.counter-item h2 {
+    font-family: 'Open Sans', Helvetica;
+    color: #555;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 2.18em;
+    margin-top: 0.938em;
+}
+
+.counter-item p {
+    color: #555;
+    font-size: 2em;
+    margin-top: 0;
+    font-weight: 300;
+}
+
+/*================
+
+ Contact Form
+
+================*/
+
+.form-container {
+    padding-top: 2em;
+}
+
+.form-container h2{
+    color: #fff;
+    margin-bottom: 1.8em;
+    font-weight: 700;
+}
+
+.form-container label {
+    color: #fff;
+    
+}
+
+.iphone-photo{
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+   width: 50%;
+   padding-top: 3.5em;
+}
+
+.text-muted {
+    color: #fff;
+}
+
+
+
+
+
+
 
 
 
@@ -600,10 +677,3 @@ p.copyright {
   -webkit-transform: rotate(0);
   transform: rotate(0);
 }
-
-
-
-
-
-
-
