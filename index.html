@@ -255,28 +255,28 @@
                                     <div class="col-md-6">
                                         <div class="form-group" data-toggle="validator" role="form">
                                             <label for="form_name">Name*</label>
-                                            <input id="form_name" type="text" name="name" class="form-control" placeholder="Please enter your name" required="required" data-error="Name is required." >
+                                            <input id="contact_name" type="text" name="name" class="form-control" placeholder="Please enter your name" required="required" data-error="Name is required.">
                                             <div class="help-block with-errors"></div>
                                         </div>
                                     </div>
 
                                     <div class="col-md-6">
                                         <div class="form-group">
-                                            <label for="form_name">Company</label>
-                                            <input id="form_name" type="name" name="email" class="form-control" placeholder="Please enter your company name"> </div>
+                                            <label for="form_email">Email*</label>
+                                            <input id="contact_email" type="email" name="email" class="form-control" placeholder="Please enter your email"> </div>
                                     </div>
                                 </div> 
                                     <div class="row">
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <label for="form_phone">Phone*</label>
-                                            <input id="form_phone" type="tel" name="phone" class="form-control" placeholder="Please enter your number" required="required">
+                                            <input id="contact_phone" type="tel" name="phone" class="form-control" placeholder="Please enter your number" required="required">
                                             <div class="help-block with-errors"></div>
                                         </div>
                                     </div>
                                 
                                     <div class="col-md-6">
-                                        <div class="form-group">
+                                        <div class="form-group dropdown">
                                             <label for="sel1">Why are you contacting us?*</label>
                                             <select>
                                                 <option>Looking for work?</option>
@@ -291,14 +291,14 @@
                                     <div class="col-md-12">
                                         <div class="form-group">
                                             <label for="form_message">Message*</label>
-                                            <textarea id="form_message" name="message" class="form-control" placeholder="Message for me *" rows="4" required="required" data-error="Please, leave us a message."></textarea>
+                                            <textarea id="contact_message" name="message" class="form-control" placeholder="Message for me *" rows="4" required="required" data-error="Please, leave us a message."></textarea>
                                             <div class="help-block with-errors"></div>
                                         </div>
                                     </div>
                                 </div>
                                    <div class="row">    
                                         <div class="col-md-6">
-                                            <input type="submit" class="btn btn-success btn-send" value="Send message">
+                                            <a class="btn btn-success btn-send" id="submit.button" href="">Send Message</a>
                                             <br></br>
                                         </div>
                                     </div>
