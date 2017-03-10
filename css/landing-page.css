@@ -56,6 +56,13 @@ content{
     border-color: #555;
 }
 
+.btn-outline {
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 0.5em 2em;
+}
+
 .btn-form {
     background-color: #fff;
     border-color: #444;
@@ -350,6 +357,7 @@ content{
     .rw-words {
         display: block;
         text-indent: 0;
+        margin-bottom: 1.5em;
     }
 }
 
