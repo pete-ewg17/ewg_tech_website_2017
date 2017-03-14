@@ -458,7 +458,7 @@ content{
 }
 
 /*===============
-Placement With Purpose
+Banner
 =================*/
 
 @media(max-width:767px) {
@@ -621,6 +621,47 @@ ol.carousel-indicators {
     font-size: 2em;
     margin-top: 0;
     font-weight: 300;
+}
+
+/*================
+
+ Featurette Styles 
+
+================*/
+
+.featurette-heading {
+    color: #fff;
+}
+
+.tech-lead {
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+/*================
+
+ Request a Demo
+
+================*/
+
+.content-section-c h2 {
+    padding: 1.2em 0;
+    color: #525252;
+    font-weight: 700;
+    
+}
+
+.content-section-c p {
+    color: #525252;
+    
 }
 
 /*================
