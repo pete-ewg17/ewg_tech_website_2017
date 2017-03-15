@@ -644,14 +644,82 @@ ol.carousel-indicators {
     margin-bottom: 0.9em;
 }
 
+/*================
 
+ PRICING Styles 
 
+================*/
 
+.panel, 
+.panel-primary, 
+.panel-pricing {
+    border: 3px solid #fff;
+    background-color: #fff;
+    box-shadow: 0px 3px 38px 1px rgba(0, 0, 0, 0.2); 
+}
 
+.panel-body {
+    padding: 0 15px;
+}
 
+.most-pop-space {
+    margin: 2em 0;
+}
 
+.panel-heading h3 {
+    font-weight: 700;
+    font-size: 2.25em;
+}
 
+.price {
+    font-size: 4.5em;
+    color: #0082c2;
+}
 
+.tag-mute {
+    font-size:0.9em;
+    color: #555555;
+    opacity: 0.6;
+}
+
+.most-pop p {
+    color: #0082c2;
+    margin: 0;
+}
+
+.panel-primary > .panel-heading {
+    background: #fff;
+    border: none;
+}
+
+.list-group-item {
+    border: none;
+}
+
+.panel-primary,
+.panel-heading {
+    background-color: #fff;
+}
+
+.panel-footer {
+    background-color: #fff;
+}
+
+.premium {
+    border: 3px solid #04bef2;
+    
+}
+
+/*================
+
+ Pricing Page
+
+================*/
+.price-tag {
+    padding: 2em 0em;
+    color: #525252;
+    font-weight: 700;
+}
 
 /*================
 
@@ -713,6 +781,19 @@ select {
     border: 0;
     font-size: 1.3em;
 }
+
+.mail-link {
+    color: #0082c2;
+}
+
+.mail-link:focus,
+.mail-link:hover {
+    text-decoration: none;
+    color: #04639d;
+}
+
+
+
 
 /*================
 
