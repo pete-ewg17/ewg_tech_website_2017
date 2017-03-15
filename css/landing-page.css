@@ -416,47 +416,6 @@ content{
     
 }
 
-.clients {
-    /*width: 100%;
-    text-align: center;
-    vertical-align: middle;*/
-}
-
-.client-2 {
-    padding-left:2.5em;
-}
-
-.client-3 {
-    padding-left: 0;
-}
-
-.client-4,
-.client-5 {
-    padding-top: 4.5em;
-}
-
-.client-6 {
-    padding-top: 1em;
-}
-
-@media(max-width:767px){
-   
-    .client-2 {
-        padding-right: 2.5em;
-    }
-    
-    .client-4,
-    .client-5 {
-        float: right;
-    }
-    
-    .client-6{
-        padding-top: 3em;
-    }
-    
-    
-}
-
 /*===============
 Banner
 =================*/
