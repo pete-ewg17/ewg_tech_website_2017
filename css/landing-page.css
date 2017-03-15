@@ -631,10 +631,17 @@ ol.carousel-indicators {
 
 .featurette-heading {
     color: #fff;
+    font-weight: 700;
+    margin-bottom: 0.9em;
 }
 
 .tech-lead {
     color: #fff;
+}
+
+.featurette h2 {
+    font-weight: 700;
+    margin-bottom: 0.9em;
 }
 
 
