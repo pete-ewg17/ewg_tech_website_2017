@@ -650,6 +650,10 @@ ol.carousel-indicators {
 
 ================*/
 
+.pricing {
+    padding: 1em 0;
+}
+
 .panel, 
 .panel-primary, 
 .panel-pricing {
