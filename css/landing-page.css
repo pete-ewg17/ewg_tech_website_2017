@@ -189,7 +189,9 @@ content{
 	font-family: 'Open Sans', helvetica;
     font-size: 2.1em;
     padding-left: 0;
+    padding-bottom: 1em;
 	line-height: 1.5;
+    top: 0.5em;
 }
 
 .rw-sentence{
@@ -309,12 +311,12 @@ content{
     font-size: 4em;
     font-weight: 600;
     letter-spacing: 0.1rem;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.8);
+    text-shadow: 2px 2px 16px rgba(0,0,0,0.8);
 }
 
- .intro-message > h3 {
+ .intro-message h3 {
     margin: 0;
-    font-size: 1.2em;
+    font-size: 1.5em;
     font-weight: 300;
     letter-spacing: 0.1em;
     color: #fff;
@@ -358,6 +360,7 @@ content{
         display: block;
         text-indent: 0;
         margin-bottom: 1.5em;
+        top: 2em;
     }
 }
 
@@ -408,12 +411,56 @@ content{
     background: linear-gradient(to bottom, rgba(34, 99, 157,1) 0%, rgba(4,190,242,1) 100%);
 }
 
+
+.blue,
+.white{
+    padding-bottom: 0;
+    
+}
+
+.left {
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.right {
+    padding-right: 0;
+    margin-right: 0;
+}
+
+@media(max-width:992px) {
+    .blue,
+    .white {
+    padding-bottom: 0;
+    
+}
+
+.left {
+    padding-left: 0;
+    margin-left: 0;
+    }
+
+.right {
+    padding-right: 0;
+    margin-right: 0;
+}  
+    
+    .featurette-image {
+        margin-left: 0;
+    }
+    
+    
+}
+
+
+
+
+
 .section-heading  {
     margin-top: 2em;
     margin-bottom: 2em;
     font-weight: 600;
     color: #fff;
-    
 }
 
 /*===============
