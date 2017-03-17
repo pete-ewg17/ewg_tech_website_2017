@@ -426,13 +426,13 @@ content{
 
 .blue,
 .white {
-    padding-top: 10em;
+    padding-top: 5em;
     padding-bottom: 0;
 }
 
 .white-top {
     padding-top: 10em;
-    padding-bottom: 5em;    
+    padding-bottom: 1em;    
 }
 
 .left {
