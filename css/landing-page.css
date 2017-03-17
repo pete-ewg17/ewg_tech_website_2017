@@ -155,7 +155,7 @@ content{
 ================*/
 
 .navbar {
-    box-shadow: 0px 6px 49px 0px rgba(0,0,0,0.56);
+    box-shadow: 0px 3px 17px 0px rgba(0,0,0,0.16);
 }
 
 .topnav {
@@ -251,6 +251,14 @@ content{
 	-webkit-animation-delay: 15s;  
 	animation-delay: 15s; 
 	color: #00bef2;
+}
+
+    -webkit-keyframes rotateWordsFirst {
+    0% { opacity: 1; -webkit-animation-timing-function: ease-in; animation-timing-function: ease-in; height: 0px; }
+    8% { opacity: 1; height: 60px; }
+    19% { opacity: 1; height: 60px; }
+	25% { opacity: 0; height: 60px; }
+    100% { opacity: 0; }
 }
 
 @-webkit-keyframes rotateWordsFirst {
@@ -412,7 +420,7 @@ content{
 }
 
 .content-section-c {
-    padding-top: 10em;
+    padding-top: 5em;
 }
 
 
@@ -424,6 +432,7 @@ content{
 
 .white-top {
     padding-top: 10em;
+    padding-bottom: 5em;    
 }
 
 .left {
@@ -459,10 +468,6 @@ content{
     
     
 }
-
-
-
-
 
 .section-heading  {
     margin-top: 2em;
@@ -586,6 +591,14 @@ Banner
 .th-logo img{
     height: 50%;
 }
+
+/*================
+
+ CAROUSEL Styles
+
+================*/
+
+
 
 /*================
 
@@ -773,9 +786,12 @@ ol.carousel-indicators {
     font-weight: 700;
 }
 
+.blackHeading {
+    color: #525252;
+}
+
 .form-container label {
     color: #fff;
-    
 }
 
 .iphone-photo{
@@ -809,9 +825,6 @@ select {
     text-decoration: none;
     color: #04639d;
 }
-
-
-
 
 /*================
 

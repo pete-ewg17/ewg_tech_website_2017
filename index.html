@@ -14,7 +14,8 @@
     <meta property="og:url" content="http://eventworkforcegroup.com">
     <title>Welcome | EWG Technology</title>
     <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <!--<link href="css/bootstrap.min.css" rel="stylesheet">-->
     <!-- Custom CSS -->
     <link href="css/landing-page.css" rel="stylesheet">
     <link href="css/hover.css" rel="stylesheet">
@@ -288,8 +289,8 @@
     <div class="content-section-b">
         <div class="container">
             <div class="row">
-               <div id="loading_div" style="display:none">LOADING</div>
-               <div id="submitted_div" style="display:none">Submitted</div>
+               <div id= "loading_div" style= "display:none">LOADING</div>
+               <div id= "submitted_div" style= "display:none">Submitted</div>
                 <div class="col-md-6" data-aos="fade-right" data-aos-once="true">
                    <!--FORM-->
                    <div class="form-container">
@@ -323,6 +324,7 @@
                                         </div>
                                     </div>
                                     </div>
+                                    <input type="hidden" id="form_description" value="contact_us">
                                     <div class="row">
                                     <div class="col-md-12">
                                         <div class="form-group">
@@ -336,18 +338,19 @@
                                         <div class="col-md-6">
                                             <input class="btn btn-success btn-send" id="submitButton" value="Send Message" type="submit"/>
                                             <br>
-                                            <br>
                                         </div>
                                     </div>
                                     <div class="row">
                                         <div class="col-md-12">
                                             <p class="text-muted"><strong>*</strong> These fields are required.</p>
+                                            <br>
                                         </div>
                                     </div>
                                 </div>
                         </form>
                     </div>
-                </div>
+                </div><!-- END CONTACT FORM-->
+
                 <!--IMAGE-->    
                     <div class="col-md-6" data-aos="fade-left" data-aos-once="true">
                         <img src="assets/images/iphone_photo.png" class="iphone-photo">
@@ -392,83 +395,6 @@
             </div>
         </div>
     </footer>
-    <!-- MODAL FOR CONTACT -->
-    <!-- Modal -->
-    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                    <h4 class="modal-title" id="myModalLabel">Contact Us</h4> </div>
-                <div class="modal-body">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <form id="contact-form" method="post" action="contact.php" role="form">
-                            <div class="messages"></div>
-                            <div class="controls">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="form-group" data-toggle="validator" role="form">
-                                            <label for="form_name">Name*</label>
-                                            <input id="form_name" type="text" name="name" class="form-control" placeholder="Please enter your name" required="required" data-error="Name is required." >
-                                            <div class="help-block with-errors"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="form-group">
-                                            <label for="form_name">Company</label>
-                                            <input id="form_name" type="name" name="email" class="form-control" placeholder="Please enter your company name"> </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="form-group">
-                                            <label for="form_phone">Phone</label>
-                                            <input id="form_phone" type="tel" name="phone" class="form-control" placeholder="Please enter your phone number" required="required">
-                                            <div class="help-block with-errors"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="form-group">
-                                            <label for="sel1">Why are you contacting us?*</label>
-                                            <select>
-                                                <option>Looking for work?</option>
-                                                <option>Looking for staff?</option>
-                                                <option>Looking for software?</option>
-                                            </select>
-                                            <div class="help-block with-errors"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="form-group">
-                                            <label for="form_message">Message*</label>
-                                            <textarea id="form_message" name="message" class="form-control" placeholder="Message for me *" rows="4" required="required" data-error="Please, leave us a message."></textarea>
-                                            <div class="help-block with-errors"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <input type="submit" class="btn btn-success btn-send" value="Send message">
-                                        <br>
-                                        <br>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <p class="text-muted"><strong>*</strong> These fields are required.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                          </div>                                
-                        </form>
-                        
-                    </div>
-                    <div class="modal-footer"></div>
-                </div>
-                <!-- /.modal-content -->
-            </div>
-            <!-- /.modal-dialog -->
-        </div>
-        <!-- /.modal -->
         
         <!-- jQuery -->
         <script src="js/jquery.js"></script>
