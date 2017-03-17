@@ -61,7 +61,7 @@ $(document).ready(function(){
 =================*/
     AOS.init({
     duration: 1200
-, });
+    });
     AOS.init({
     disable: 'mobile'
 });
@@ -80,10 +80,7 @@ $(function () {
             var email = $("#contact_email").val();
             $("#loading_div").css('display', 'block');
             $.post('contact.php', {
-                n: name
-                , p: phone
-                , m: message
-                , e: email
+                n: name, p: phone, m: message, e: email
             }, function (result) {
                 console.log(result);
                 var j = $.parseJSON(result);
@@ -101,14 +98,14 @@ $(function () {
             });
             return false;
         }
-    })
+    });
 }); /* @Chris -- DOES IT GO AFTER THIS validation? */
 /*===========
   Counter 
 =============*/
 $(document).ready(function () {
     $('.counter-num').counterUp({
-        delay: 10
-        , time: 1000
+        delay: 10,
+        time: 1000
     });
 });
