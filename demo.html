@@ -145,21 +145,34 @@
                                 <div class="row">
                                     <div class="col-md-8">
                                         <div class="form-group">
-                                            <label for="sel1">Within the next 12 months how many events would you like our solution to help you with?</label>
+                                            <label for="sel2">Within the next 12 months how many events would you like our solution to help you with?</label>
                                             <select>
                                                 <option value="1">1-2</option>
                                                 <option value="2">3-4</option>
                                                 <option value="3">4+</option>
+                                                <option vales="4">Our requirements are not event by event related</option>
                                             </select>
                                             <div class="help-block with-errors"></div>
                                         </div>
                                     </div>
-                                </div>        
+                                </div>
+                                <div class="row">
                                     <div class="col-md-8">
                                         <div class="form-group">
-                                            <label for="form_message">Message*</label>
-                                            <textarea id="contact_message" name="message" class="form-control" placeholder="Message for me *" rows="4" required="required" data-error="Please, leave us a message."></textarea>
+                                            <label>Which EWG Tech product are you interested in finding out more about?</label>
+                                            <input type="checkbox" id="checkbox_type1" name="checkbox_type"><label for="checkbox_type1"> Rosterfy Workforce Management System
+                                            </label><br>
+                                            <input type="checkbox" id="checkbox_type2" name="checkbox_type"><label for="checkbox_type2" class="light">Accreditation Platform</label><br>
+                                            <input type="checkbox" id="checkbox_type3" name="checkbox_type"><label for="checkbox_type3">Training Modules</label>
                                             <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+                                </div>              
+                                    <div class="col-md-8">
+                                        <div class="form-group">
+                                            <label for="form_message">If you have the energy, please provide a more detailed description of your needs, we would be very grateful.</label>
+                                            <textarea id="contact_message" name="message" class="form-control" placeholder="Message for me *" rows="4" required="not-required" data-error="Please, leave us a message."></textarea>
+                                            
                                         </div>
                                     </div>
                                     <div class="col-md-8"> <a class="btn btn-success btn-send" id="submitButton" href="">Send Message</a> </div>
