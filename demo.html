@@ -65,7 +65,7 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="hvr-underline-from-center"> <a href="index.html">Home</a> </li>
-                    <li class="hvr-underline-from-center"> <a href="sign_up.html">Sign Up</a> </li>
+                    <li class="hvr-underline-from-center"><a class="" href="demo.html"><span class="text-info">Request a Demo</span></a></li>
                     
                        <!--DROP DOWN NAV-->
                         <li class="dropdown">
@@ -85,32 +85,34 @@
         </div>
         <!-- /.container -->
     </nav>
-    
-    <!-- Header -->
-    <a name="about"></a>
-    <div class="intro-header">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8" data-aos="fade-right" data-aos-once="true">
-                    <div class="intro-message text-left">
-                       <h1>Why not try our free 7 day trial?</h1>
-                        <div class="button">
-                           <a href="#whatwedo" class="btn btn-primary btn-outline hvr-fade">Sign Up Now</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /.container -->
 
-    </div><!-- /.intro-header -->   
-    
-     
-    <!-- PRICING -->
+       
+   <!--REQUEST A Demo-->                                             
+   <div id="prices"></div>      
+    <div class="content-section-c">
+        <div class="container" >
+          <div class="row featurette" data-aos="fade-up" data-aos-once="true">
+            <div class="col-md-6 text-center">
+              <h2>Request A Demo</h2>
+              <p class="lead">Request a free demo of Rosterfy Today.</p>
+              
+              <button input="button" class="btn btn-primary hvr-fade">Request a Demo</button>
+            </div>
+            <div class="col-md-6 text-center">
+              <img class="img-responsive" src="assets/images/Responsive-Rosterfy_Mockup.png" alt="Responsive Rosterfy">
+            </div>
+          </div>
+      </div>
+    </div><!-- END OF REQUEST A TRIAL-->         
+        
+        
+            
+   <!-- Plans -->
+   
    <div class="content-section-a">
     <section id="plans">
         <div class="container">
-            <div class="row pricing">
+            <div class="row">
                 <!-- item -->
                 <div class="col-md-4 text-center">
                     <div class="panel panel-primary panel-pricing">
@@ -187,10 +189,98 @@
           </div>
         </div>            
      </section>
-  </div><!-- END OF PRICING--> 
-   
+  </div><!-- END OF PRICING-->           
+
+    <!--CONTACT FORM-->
+    <div class="content-section-b">
+        <div class="container">
+            <div class="row">
+               <div id="loading_div" style="display:none">LOADING</div>
+               <div id="submitted_div" style="display:none">Submitted</div>
+                <div class="col-md-6" data-aos="fade-right" data-aos-once="true">
+                   <!--FORM-->
+                   <div class="form-container">
+                       <h2>Get In Touch</h2>
+                    <form id="contact-form" method="post" action="contact.php" role="form">
+                            <div class="messages"></div>
+                            <div class="controls">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="form-group" data-toggle="validator" role="form">
+                                            <label for="form_name">Name*</label>
+                                            <input id="contact_name" type="text" name="name" class="form-control" placeholder="Please enter your name" required="required" data-error="Name is required.">
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <label for="form_email">Email*</label>
+                                            <input id="contact_email" type="email" name="email" class="form-control" placeholder="Please enter your email">
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+                                </div> 
+                                    <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <label for="form_phone">Phone*</label>
+                                            <input id="contact_phone" type="tel" name="phone" class="form-control" placeholder="Please enter your number" required="required">
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+                                    <input type="hidden" id="form_description" value="training">
+                                    </div>
+                                    <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <label for="form_message">Message*</label>
+                                            <textarea id="contact_message" name="message" class="form-control" placeholder="Message for me *" rows="4" required="required" data-error="Please, leave us a message."></textarea>
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                   <div class="row">    
+                                        <div class="col-md-6">
+                                            <input class="btn btn-success btn-send" id="submitButton" value="Send Message" type="submit"/>
+                                            <br>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <p class="text-muted"><strong>*</strong> These fields are required.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                        </form>
+                    </div>
+                </div>
+                <!--IMAGE-->    
+                    <div class="col-md-6" data-aos="fade-left" data-aos-once="true">
+                        <img src="assets/images/iphone_photo.png" class="iphone-photo">
+                   </div>                      
+                </div>      
+        </div>
+    </div><!-- END CONTACT FORM-->
+
+    <!--SOCIAL ICONS-->
+    <div class="banner">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <ul class="list-inline banner-social-buttons">
+                        <li class="social-button"> <a href="http://www.facebook.com/EventWorkforceGroup/" class="btn btn-default btn-lg hvr-radial-in"><i class="fa fa-facebook fa-fw"></i></a> </li>
+                        <li class="social-button"> <a href="http://twitter.com/_ewgroup" class="btn btn-default btn-lg hvr-radial-in"><i class="fa fa-twitter fa-fw"></i></a> </li>
+                        <li class="social-button"> <a href="http://www.instagram.com/eventworkforcegroup/" class="btn btn-default btn-lg hvr-radial-in"><i class="fa fa-instagram fa-fw"></i></a> </li>
+                        <li class="social-button"> <a href="http://www.linkedin.com/company/eventworkforcegroup" class="btn btn-default btn-lg hvr-radial-in"><i class="fa fa-linkedin fa-fw"></i></a> </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- /.container -->
+    </div>
+    <!-- /.banner -->
     
-      
     <!-- Footer -->
     <footer class="footer-img img-reponsive">
         <div class="container">
@@ -203,12 +293,14 @@
                         <li class="footer-menu-divider">&bull;</li>
                         <li> <a href="http://eventworkforcegroup.com/technology" target="_blank">Technology</a> </li>
                     </ul>
-                    <p class="copyright text-muted small">Copyright &copy; Event Workforce Group 2017. All Rights Reserved</p> <a id="back-to-top" href="#" class="btn btn-primary btn-lg back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left"><span class="glyphicon glyphicon-chevron-up"></span></a> </div>
+                    <p class="copyright text-muted small">Copyright &copy; Event Workforce Group 2017. All Rights Reserved</p> 
+                </div>
+                <a id="back-to-top" href="#" class="btn btn-primary btn-lg back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left"><span class="glyphicon glyphicon-chevron-up"></span></a>
             </div>
         </div>
     </footer>
-   
         <!-- /.modal -->
+        
         <!-- jQuery -->
         <script src="js/jquery.js"></script>
         <!-- Bootstrap Core JavaScript -->
@@ -216,7 +308,7 @@
         <!--ANIMATE ON SCROLL -->
         <script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
         <!--VALIDATOR FOR CONTACT FORM-->
-    <script src="js/validator.js"></script>
+        <script src="js/validator.js"></script>
         <!--Web Script-->
         <script src="js/script.js"></script>
 </body>
