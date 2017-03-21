@@ -71,9 +71,10 @@ $(function () {
             var phone = $("#contact_phone").val();
             var message = $("#contact_message").val();
             var email = $("#contact_email").val();
+          var form_type = "main_contact";
             $("#loading_div").css('display', 'block');
-            $.post('contact.php', {
-                n: name, p: phone, m: message, e: email
+            $.post('http://eventworkforcegroup.com/contact_test.php', {
+                n: name, p: phone, m: message, e: email,f:form_type
             }, function (result) {
                 console.log(result);
                 var j = $.parseJSON(result);
