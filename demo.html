@@ -80,228 +80,240 @@
         <!-- /.container -->
     </nav>
     <!-- MODAL FOR CONTACT -->
-                <div class="modal-body white-top">
-                    <div class="col-lg-8 col-lg-offset-2">
-                       <h2>Request A Demo</h2>
-                       <br>
-                        <form id="contact-form" method="post" action="contact.php" role="form">
-                            <div class="messages"></div>
-                            <div class="controls">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="form-group" data-toggle="validator" role="form">
-                                            <label for="form_name">Name*</label>
-                                            <input id="contact_name" type="text" name="name" class="form-control" placeholder="Please enter your name" required="required" data-error="Name is required.">
-                                            <div class="help-block with-errors"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <div class="form-group" data-toggle="validator" role="form">
-                                            <label for="org_name"> Organisation Name*</label>
-                                            <input id="org_name" type="text" name="org_name" class="form-control" placeholder="Please enter your organiation" required="required" data-error="Organisation is required.">
-                                            <div class="help-block with-errors"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="form-group">
-                                            <label for="form_name">Email*</label>
-                                            <input id="contact_email" type="email" name="email" class="form-control" placeholder="Please enter your email">
-                                            <div class="help-block with-errors"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <div class="form-group">
-                                            <label for="form_phone">Phone*</label>
-                                            <input id="contact_phone" type="tel" name="phone" class="form-control" placeholder="Please enter your phone number" required="required">
-                                            <div class="help-block with-errors"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="form-group">
-                                            <label for="sel1">Type of Event or Organisation?*</label>
-                                            <select>
-                                                <option value="1">National or State Sporting Body</option>
-                                                <option value="2">Sporting Commision or City Council</option>
-                                                <option value="3">Private Event Organising Company</option>
-                                                <option value="4">Charity or Not for Profit</option>
-                                                <option value="5">Other</option>
-                                            </select>
-                                            <div class="help-block with-errors"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="form-group">
-                                            <label for="sel2">Within the next 12 months how many events would you like our solution to help you with?</label>
-                                            <select>
-                                                <option value="1">0</option>
-                                                <option value="2">1</option>
-                                                <option value="3">2</option>
-                                                <option value="4">3</option>
-                                                <option value="5">4</option>
-                                                <option value="6">5</option>
-                                                <option value="7">6+</option>
-                                                <option vales="4">Our requirements are not event by event related</option>
-                                            </select>
-                                            <div class="help-block with-errors"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="form-group">
-                                            <label>Which EWG Tech product are you interested in finding out more about?</label>
-                                            <br>
-                                            <input type="checkbox" id="checkbox_type1" name="checkbox_type"><label class="checkbox-inline" for="checkbox_type1">Rosterfy Workforce Management System
-                                            </label><br>
-                                            <input type="checkbox" id="checkbox_type2" name="checkbox_type"><label for="checkbox_type2" class="checkbox-inline">Accreditation Platform</label><br>
-                                            <input type="checkbox" id="checkbox_type3" name="checkbox_type"><label for="checkbox_type3" class="checkbox-inline">Training Modules</label>
-                                            <div class="help-block with-errors"></div>
-                                        </div>
-                                    </div>
-                                </div>              
-                                    <div class="col-md-12">
-                                        <div class="form-group">
-                                            <label for="form_message">If you have the energy, please provide a more detailed description of your needs, we would be very grateful.</label>
-                                            <textarea id="contact_message" name="message" class="form-control" placeholder="Message for me *" rows="4" required="not-required" data-error="Please, leave us a message."></textarea>
-                                            
-                                        </div>
-                                    </div>
-                                    <div class="col-md-8"> <a class="btn btn-success btn-send" id="submitButton" href="thankyou.html">Request Demo</a> </div>
-                                    <br>
-                                    <div class="row">
-                                        <div class="col-md-8">
-                                            <p class="text-muted"><strong>*</strong> These fields are required.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </form>
-                            </div>
-                        
-                    </div>
-                    <!-- /.modal-content -->
-               
-                
-            <!-- Plans -->
-            <div class="content-section-a">
-                <section id="plans">
-                    <div class="container">
+    <div class="content-section-b">
+      <div class="container">
+           <div class="row">
+        <div class="modal-body">
+            <div class="col-md-8">
+                <h2>Request A Demo</h2>
+                <br>
+                <form id="contact-form" method="post" action="contact.php" role="form">
+                    <div class="messages"></div>
+                    <div class="controls">
                         <div class="row">
-                            <!-- item -->
-                            <div class="col-md-4 text-center">
-                                <div class="panel panel-primary panel-pricing">
-                                    <div class="panel-heading"> <i class="fa fa-home"></i>
-                                        <h3>Base</h3>
-                                        <div class="most-pop-space"></div>
-                                    </div>
-                                    <div class="panel-body text-center">
-                                        <p><strong class="price">$17</strong> <span class="tag-mute muted">Per Month</span></p>
-                                    </div>
-                                    <ul class="list-group text-center">
-                                        <li class="list-group-item"><i class="fa fa-check-square-o"></i> Personal use</li>
-                                        <li class="list-group-item"><i class="fa fa-check-square-o"></i> Unlimited projects</li>
-                                        <li class="list-group-item"><i class="fa fa-check-square-o"></i> 27/7 support</li>
-                                        <li class="list-group-item"><i class="fa fa-check-square-o"></i> 27/7 support</li>
-                                    </ul>
-                                    <div class="panel-footer"> <a class="btn btn-lg btn-block btn-primary hvr-fade" href="#">BUY NOW!</a> </div>
+                            <div class="col-md-8">
+                                <div class="form-group" data-toggle="validator" role="form">
+                                    <label for="form_name">Full Name*</label>
+                                    <input id="contact_name" type="text" name="name" class="form-control" placeholder="Please enter your full name" required="required" data-error="Name is required.">
+                                    <div class="help-block with-errors"></div>
                                 </div>
                             </div>
-                            <!-- /item -->
-                            <!-- item -->
-                            <div class="col-md-4 text-center">
-                                <div class="panel panel-primary panel-pricing premium">
-                                    <div class="panel-heading"> <i class="fa fa-building"></i>
-                                        <h3>Premium</h3>
-                                        <div class="most-pop">
-                                            <p>MOST POPULAR</p>
-                                        </div>
-                                    </div>
-                                    <div class="panel-body text-center">
-                                        <p><strong class="price">$27</strong> <span class="tag-mute">Per Month</span></p>
-                                    </div>
-                                    <ul class="list-group text-center">
-                                        <li class="list-group-item"><i class="fa fa-check-square-o"></i> Personal use</li>
-                                        <li class="list-group-item"><i class="fa fa-check-square-o"></i> Unlimited projects</li>
-                                        <li class="list-group-item"><i class="fa fa-check-square-o"></i> 27/7 support</li>
-                                        <li class="list-group-item"><i class="fa fa-check-square-o"></i> 27/7 support</li>
-                                    </ul>
-                                    <div class="panel-footer"> <a class="btn btn-lg btn-block btn-primary hvr-fade" href="#">BUY NOW!</a> </div>
-                                </div>
-                            </div>
-                            <!-- /item -->
-                            <!-- item -->
-                            <div class="col-md-4 text-center">
-                                <div class="panel panel-primary panel-pricing">
-                                    <div class="panel-heading"> <i class="fa fa-institution"></i>
-                                        <h3>Enterprise</h3>
-                                        <div class="most-pop-space"></div>
-                                    </div>
-                                    <div class="panel-body text-center">
-                                        <p><strong class="price">$87</strong> <span class="tag-mute">Per Month</span></p>
-                                    </div>
-                                    <ul class="list-group text-center">
-                                        <li class="list-group-item"><i class="fa fa-check-square-o"></i> Personal use</li>
-                                        <li class="list-group-item"><i class="fa fa-check-square-o"></i> Unlimited projects</li>
-                                        <li class="list-group-item"><i class="fa fa-check-square-o"></i> 27/7 support</li>
-                                        <li class="list-group-item"><i class="fa fa-check-square-o"></i> 27/7 support</li>
-                                    </ul>
-                                    <div class="panel-footer"> <a class="btn btn-lg btn-block btn-primary hvr-fade" href="#">BUY NOW!</a> </div>
+                            <div class="col-md-8">
+                                <div class="form-group" data-toggle="validator" role="form">
+                                    <label for="org_name"> Organisation Name*</label>
+                                    <input id="org_name" type="text" name="org_name" class="form-control" placeholder="Please enter your organiation" required="required" data-error="Organisation is required.">
+                                    <div class="help-block with-errors"></div>
                                 </div>
                             </div>
                         </div>
+                        <div class="row">
+                            <div class="col-md-8">
+                                <div class="form-group">
+                                    <label for="form_name">Email*</label>
+                                    <input id="contact_email" type="email" name="email" class="form-control" placeholder="Please enter your email">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="form-group">
+                                    <label for="form_phone">Phone*</label>
+                                    <input id="contact_phone" type="tel" name="phone" class="form-control" placeholder="Please enter your phone number" required="required">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-8">
+                                <div class="form-group">
+                                    <label for="sel1">Type of Event or Organisation?*</label>
+                                    <select>
+                                        <option value="national">National or State Sporting Body</option>
+                                        <option value="sporting">Sporting Commision or City Council</option>
+                                        <option value="private">Private Event Organising Company</option>
+                                        <option value="charity">Charity or Not for Profit</option>
+                                        <option value="other">Other</option>
+                                    </select>
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-8">
+                                <div class="form-group">
+                                    <label for="sel2">Within the next 12 months how many events would you like our solution to help you with?</label>
+                                    <select>
+                                        <option value="0">0</option>
+                                        <option value="1">1</option>
+                                        <option value="2">2</option>
+                                        <option value="3">3</option>
+                                        <option value="4">4</option>
+                                        <option value="5">5</option>
+                                        <option value="6">6+</option>
+                                        <option vales="7">Other</option>
+                                    </select>
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-8">
+                                <div class="form-group">
+                                    <label>Which EWG Tech product are you interested in finding out more about?</label>
+                                    <br>
+                                    <input type="checkbox" id="checkbox_type1" name="rosterfy">
+                                    <label class="checkbox-inline" for="checkbox_type1">Rosterfy </label>
+                                    <br>
+                                    <input type="checkbox" id="checkbox_type2" name="accreditation">
+                                    <label for="checkbox_type2" class="checkbox-inline">Accreditation Platform</label>
+                                    <br>
+                                    <input type="checkbox" id="checkbox_type3" name="training">
+                                    <label for="checkbox_type3" class="checkbox-inline">Training Modules</label>
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8">
+                            <div class="form-group">
+                                <label for="form_message">Please provide a more detailed description of your needs, we would be very grateful.</label>
+                                <textarea id="contact_message" name="message" class="form-control" placeholder="Message for me *" rows="6" required="required" data-error="Please, leave us a message."></textarea>
+                            </div>
+                        </div>
+                        <div class="col-md-8"> <a class="btn btn-success btn-send" id="submitButton" href="thankyou.html">Request Demo</a> </div>
+                        <br>
+                        <div class="row">
+                            <div class="col-md-8">
+                                <p class="text-demo"><strong>*</strong> These fields are required.</p>
+                            </div>
+                        </div>
                     </div>
-                </section>
+                </form>
             </div>
-            <!-- END OF PRICING-->
-            <!--SOCIAL ICONS-->
-            <div class="banner">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12">
-                            <ul class="list-inline banner-social-buttons">
-                                <li class="social-button"> <a href="http://www.facebook.com/EventWorkforceGroup/" class="btn btn-default btn-lg hvr-radial-in"><i class="fa fa-facebook fa-fw"></i></a> </li>
-                                <li class="social-button"> <a href="http://twitter.com/_ewgroup" class="btn btn-default btn-lg hvr-radial-in"><i class="fa fa-twitter fa-fw"></i></a> </li>
-                                <li class="social-button"> <a href="http://www.instagram.com/eventworkforcegroup/" class="btn btn-default btn-lg hvr-radial-in"><i class="fa fa-instagram fa-fw"></i></a> </li>
-                                <li class="social-button"> <a href="http://www.linkedin.com/company/eventworkforcegroup" class="btn btn-default btn-lg hvr-radial-in"><i class="fa fa-linkedin fa-fw"></i></a> </li>
+        </div><!-- /.modal-content -->
+        <div class="row">
+                <div class="col-md-4">
+                    <img class="img-responsive center-block" src="assets/images/Responsive-Rosterfy_Mockup.png" alt="Generic placeholder image">
+                </div>
+            </div>
+            </div><!-- /.end-row -->
+        </div>
+    </div>
+    
+    <!-- Plans -->
+    <div class="content-section-a">
+        <section id="plans">
+            <div class="container">
+                <div class="row">
+                    <!-- item -->
+                    <div class="col-md-4 text-center">
+                        <div class="panel panel-primary panel-pricing">
+                            <div class="panel-heading"> <i class="fa fa-home"></i>
+                                <h3>Base</h3>
+                                <div class="most-pop-space"></div>
+                            </div>
+                            <div class="panel-body text-center">
+                                <p><strong class="price">$17</strong> <span class="tag-mute muted">Per Month</span></p>
+                            </div>
+                            <ul class="list-group text-center">
+                                <li class="list-group-item"><i class="fa fa-check-square-o"></i> Personal use</li>
+                                <li class="list-group-item"><i class="fa fa-check-square-o"></i> Unlimited projects</li>
+                                <li class="list-group-item"><i class="fa fa-check-square-o"></i> 27/7 support</li>
+                                <li class="list-group-item"><i class="fa fa-check-square-o"></i> 27/7 support</li>
                             </ul>
+                            <div class="panel-footer"> <a class="btn btn-lg btn-block btn-primary hvr-fade" href="#">BUY NOW!</a> </div>
+                        </div>
+                    </div>
+                    <!-- /item -->
+                    <!-- item -->
+                    <div class="col-md-4 text-center">
+                        <div class="panel panel-primary panel-pricing premium">
+                            <div class="panel-heading"> <i class="fa fa-building"></i>
+                                <h3>Premium</h3>
+                                <div class="most-pop">
+                                    <p>MOST POPULAR</p>
+                                </div>
+                            </div>
+                            <div class="panel-body text-center">
+                                <p><strong class="price">$27</strong> <span class="tag-mute">Per Month</span></p>
+                            </div>
+                            <ul class="list-group text-center">
+                                <li class="list-group-item"><i class="fa fa-check-square-o"></i> Personal use</li>
+                                <li class="list-group-item"><i class="fa fa-check-square-o"></i> Unlimited projects</li>
+                                <li class="list-group-item"><i class="fa fa-check-square-o"></i> 27/7 support</li>
+                                <li class="list-group-item"><i class="fa fa-check-square-o"></i> 27/7 support</li>
+                            </ul>
+                            <div class="panel-footer"> <a class="btn btn-lg btn-block btn-primary hvr-fade" href="#">BUY NOW!</a> </div>
+                        </div>
+                    </div>
+                    <!-- /item -->
+                    <!-- item -->
+                    <div class="col-md-4 text-center">
+                        <div class="panel panel-primary panel-pricing">
+                            <div class="panel-heading"> <i class="fa fa-institution"></i>
+                                <h3>Enterprise</h3>
+                                <div class="most-pop-space"></div>
+                            </div>
+                            <div class="panel-body text-center">
+                                <p><strong class="price">$87</strong> <span class="tag-mute">Per Month</span></p>
+                            </div>
+                            <ul class="list-group text-center">
+                                <li class="list-group-item"><i class="fa fa-check-square-o"></i> Personal use</li>
+                                <li class="list-group-item"><i class="fa fa-check-square-o"></i> Unlimited projects</li>
+                                <li class="list-group-item"><i class="fa fa-check-square-o"></i> 27/7 support</li>
+                                <li class="list-group-item"><i class="fa fa-check-square-o"></i> 27/7 support</li>
+                            </ul>
+                            <div class="panel-footer"> <a class="btn btn-lg btn-block btn-primary hvr-fade" href="#">BUY NOW!</a> </div>
                         </div>
                     </div>
                 </div>
-                <!-- /.container -->
             </div>
-            <!-- /.banner -->
-            <!-- Footer -->
-            <footer class="footer-img img-reponsive">
-                <div class="container">
-                    <div class="row ">
-                        <div class="col-lg-12 ">
-                            <ul class="list-inline">
-                                <li> <a href="http://eventworkforcegroup.com/academy" target="_blank">Academy</a> </li>
-                                <li class="footer-menu-divider">&bull;</li>
-                                <li> <a href="http://eventworkforcegroup.com/talent" target="_blank">Talent</a> </li>
-                                <li class="footer-menu-divider">&bull;</li>
-                                <li> <a href="http://eventworkforcegroup.com/technology" target="_blank">Technology</a> </li>
-                            </ul>
-                            <p class="copyright text-muted small">Copyright &copy; Event Workforce Group 2017. All Rights Reserved</p>
-                        </div> <a id="back-to-top" href="#" class="btn btn-primary btn-lg back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left"><span class="glyphicon glyphicon-chevron-up"></span></a> </div>
+        </section>
+    </div>
+    <!-- END OF PRICING-->
+    
+    <!--SOCIAL ICONS-->
+    <div class="banner">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <ul class="list-inline banner-social-buttons">
+                        <li class="social-button"> <a href="http://www.facebook.com/EventWorkforceGroup/" class="btn btn-default btn-lg hvr-radial-in"><i class="fa fa-facebook fa-fw"></i></a> </li>
+                        <li class="social-button"> <a href="http://twitter.com/_ewgroup" class="btn btn-default btn-lg hvr-radial-in"><i class="fa fa-twitter fa-fw"></i></a> </li>
+                        <li class="social-button"> <a href="http://www.instagram.com/eventworkforcegroup/" class="btn btn-default btn-lg hvr-radial-in"><i class="fa fa-instagram fa-fw"></i></a> </li>
+                        <li class="social-button"> <a href="http://www.linkedin.com/company/eventworkforcegroup" class="btn btn-default btn-lg hvr-radial-in"><i class="fa fa-linkedin fa-fw"></i></a> </li>
+                    </ul>
                 </div>
-            </footer>
-            <!-- /.modal -->
-            <!-- jQuery -->
-            <script src="js/jquery.js"></script>
-            <!-- Bootstrap Core JavaScript -->
-            <script src="js/bootstrap.min.js"></script>
-            <!--ANIMATE ON SCROLL -->
-            <script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
-            <!--VALIDATOR FOR CONTACT FORM-->
-            <script src="js/validator.js"></script>
-            <!--Web Script-->
-            <script src="js/script.js"></script>
+            </div>
+        </div>
+        <!-- /.container -->
+    </div>
+    <!-- /.banner -->
+    <!-- Footer -->
+    <footer class="footer-img img-reponsive">
+        <div class="container">
+            <div class="row ">
+                <div class="col-lg-12 ">
+                    <ul class="list-inline">
+                        <li> <a href="http://eventworkforcegroup.com/academy" target="_blank">Academy</a> </li>
+                        <li class="footer-menu-divider">&bull;</li>
+                        <li> <a href="http://eventworkforcegroup.com/talent" target="_blank">Talent</a> </li>
+                        <li class="footer-menu-divider">&bull;</li>
+                        <li> <a href="http://eventworkforcegroup.com/technology" target="_blank">Technology</a> </li>
+                    </ul>
+                    <p class="copyright text-muted small">Copyright &copy; Event Workforce Group 2017. All Rights Reserved</p>
+                </div> <a id="back-to-top" href="#" class="btn btn-primary btn-lg back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left"><span class="glyphicon glyphicon-chevron-up"></span></a> </div>
+        </div>
+    </footer>
+    <!-- /.modal -->
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+    <!--ANIMATE ON SCROLL -->
+    <script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
+    <!--VALIDATOR FOR CONTACT FORM-->
+    <script src="js/validator.js"></script>
+    <!--Web Script-->
+    <script src="js/script.js"></script>
 </body>
 
 </html>

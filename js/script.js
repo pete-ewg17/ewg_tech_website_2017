@@ -50,12 +50,6 @@ $(document).ready(function(){
   });
 });
 
-
-
-
-
-
-
 /*=================
   ANIMATE ON SCROLL
 =================*/
@@ -100,6 +94,7 @@ $(function () {
         }
     });
 }); /* @Chris -- DOES IT GO AFTER THIS validation? */
+
 /*===========
   Counter 
 =============*/

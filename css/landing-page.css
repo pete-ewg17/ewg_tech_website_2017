@@ -800,6 +800,12 @@ ol.carousel-indicators {
 
 .text-muted {
     color: #fff;
+    padding: 1em 0;
+}
+
+.text-demo {
+    color: #555;
+    padding: 1.5em 0;
 }
 
 select {
@@ -808,7 +814,6 @@ select {
     height: 2em;
     color: #555555;
     background-color: #fff;
-    border: 0;
     font-size: 1.3em;
 }
 
@@ -823,9 +828,7 @@ select {
 }
 
 /*================
-
  Footer Styles
-
 ================*/
 
 footer {
@@ -875,14 +878,16 @@ p.copyright {
 	color: white;
 }
 
-.modal-header h4 {
-	font-weight: 700;
+.modal-body h2 {
+	color: #fff;
+    font-weight: 700;
 }
 
 .modal-body {
     font-weight: 300;
     font-size: 16px;
     color: #555;
+    padding-top: 3em;
 }
 
 .modal-body a {
@@ -894,7 +899,6 @@ p.copyright {
 	margin-top: 0px; 
     border: none;
 }
-
 
 /* MENU ANIMATION */
 
@@ -936,6 +940,7 @@ p.copyright {
   -webkit-transform: rotate(0);
   transform: rotate(0);
 }
+
 
 
 
