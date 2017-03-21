@@ -399,9 +399,14 @@ content{
 
 ================*/
 
-.thumbs {
-    padding: 8em 0;
+.thumb-header {
+    padding-top: 2em;
 }
+
+.thumbs {
+    padding: 3em 0;
+}
+
 
 /*================
 
@@ -410,7 +415,7 @@ content{
 ================*/
 
 .content-section-a {
-    padding: 2em 0;
+    padding: 3em 0;
 }
 
 .content-section-b {
@@ -421,6 +426,11 @@ content{
 
 .content-section-c {
     padding-top: 5em;
+}
+
+.content-section-d {
+    padding: 5em 0;
+    background-color: #eee;
 }
 
 /*.blue,
@@ -647,6 +657,11 @@ ol.carousel-indicators {
     font-weight: 300;
 }
 
+.stats-header {
+    padding: 3em 0;
+}
+
+
 /*================
 
  Featurette Styles 
@@ -667,6 +682,28 @@ ol.carousel-indicators {
     font-weight: 700;
     margin-bottom: 0.9em;
 }
+
+
+/*================
+
+ Rosterfy 
+
+================*/
+
+
+.quote cite {
+    color: #333;
+    opacity: 0.4;
+}
+
+
+
+
+
+
+
+
+
 
 /*================
 
@@ -943,6 +980,25 @@ p.copyright {
 .navbar-toggle.collapsed .bottom-bar {
   -webkit-transform: rotate(0);
   transform: rotate(0);
+}
+
+/* LIST GROUP ITEM */
+
+.one{
+    font-size: 1.5em;
+    font-weight:300;
+    color: #555;
+    opacity: 0.9;
+}
+
+.list-group-item {
+    background-color: transparent;
+}
+
+.features h2 {
+    font-size: 1.5em;
+    font-weight: 300;
+    color: #fff;
 }
 
 

@@ -18,7 +18,6 @@ $(document).ready(function () {
         }, 800);
         return false;
     });
-    $('#back-to-top').tooltip('show');
 });
 
 

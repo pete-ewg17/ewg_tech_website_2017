@@ -77,15 +77,12 @@
                             <li><a href="training.html">Training</a></li>
                             </ul>
                         </li>    
-                    <li class="hvr-underline-from-center"> <a class="hvr-underline-from-center" href="contact_us.html" >Contact Us</a></li>
                     <li class="hvr-underline-from-center"><a class="" href="demo.html"><span class="text-info">Request a Demo</span></a></li>
                     </ul>
-                   
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
-    </nav>
+            </div><!-- /.navbar-collapse -->
+        </div><!-- /.container -->
+    </nav><!-- /End Nav -->
+    
     <!-- Header -->
     <a name="about"></a>
     <div class="intro-header">
@@ -160,23 +157,31 @@
     <!--BIG QUOTE-->
     <div class="content-section-b">
         <div class="container">
-            <div class="row">
-                <div class="col-md-12" data-aos="fade-left" data-aos-once="true">
+           <div class="row">
+                <div class="col-md-2" data-aos="fade-left" data-aos-once="true">
+                     <img class="img-responsive img-circle" src="assets/images/logos/houston.png" alt="Superbowl 51 Logo">
+                </div>
+                <div class="col-md-10" data-aos="fade-left" data-aos-once="true">
                      <blockquote class="big-quote">
                         <p>“We have worked alongside the team at EWG Technology and their workforce management platform Rosterfy to set a new bar for the NFL by successfully delivering the largest ever volunteer workforce in Super Bowl history."</p>
-                        <cite>Adam Newman, Superbowl 17 Volunteer Operations Manager</cite>
+                        <cite>Andy Newman, Super Bowl 51 Director of Workforce</cite>
                      </blockquote>  
                 </div>
-            </div>
-        <!--/.container -->
-        </div>
-    </div>
-    <!-- /.content-section-b -->
+            </div><!--END ROW-->
+        </div> <!--/.container -->
+    </div><!-- /.content-section-b -->
+    
     
     <!-- WHAT WE DO -->
     <div id="whatwedo"></div>
+            <div class="container">
+           <div class="row" data-aos="fade-up" data-aos-once="true">
+               <div class="col-md-8 col-md-offset-2 thumb-header text-center">
+                   <h1>Lorem ipsum dolor</h1>
+                       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi ipsa, animi dignissimos alias iste saepe aut nisi deleniti.</p>
+               </div>
+           </div>
     <div class="thumbs">
-        <div class="container">
             <!--Rosterfy-->
             <div class="row" data-aos="fade-up" data-aos-once="true">  
                 <div class="col-md-4">
@@ -248,7 +253,14 @@
             </div>
     
     <!--STATS COUNTER-->
-    <div class="content-section-a stats">
+    <div class="container">
+           <div class="row" data-aos="fade-up" data-aos-once="true">
+               <div class="col-md-8 col-md-offset-2 stats-header text-center">
+                   <h1>Proven Results</h1>
+               </div>
+           </div>
+       </div>
+    <div class="content-section-a">
         <div class="container">
             <div class="row text-center" data-aos="fade-up" data-aos-once="true">
                <div class="col-md-3">
@@ -283,80 +295,6 @@
                   </div>
                </div>
             </div>
-        </div>
-    </div>
-    
-    <!--CONTACT FORM-->
-    <div class="content-section-b">
-        <div class="container">
-            <div class="row">
-               <div id= "loading_div" style= "display:none">LOADING</div>
-               <div id= "submitted_div" style= "display:none">Submitted</div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-once="true">
-                   <!--FORM-->
-                   <div class="form-container">
-                       <h2>Get In Touch</h2>
-                    <form id="contact-form" method="post" action="contact.php" role="form">
-                            <div class="messages"></div>
-                            <div class="controls">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="form-group" data-toggle="validator" role="form">
-                                            <label for="form_name">Name*</label>
-                                            <input id="contact_name" type="text" name="name" class="form-control" placeholder="Please enter your name" required="required" data-error="Name is required.">
-                                            <div class="help-block with-errors"></div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-md-6">
-                                        <div class="form-group">
-                                            <label for="form_email">Email*</label>
-                                            <input id="contact_email" type="email" name="email" class="form-control" placeholder="Please enter your email">
-                                            <div class="help-block with-errors"></div>
-                                        </div>
-                                    </div>
-                                </div> 
-                                    <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="form-group">
-                                            <label for="form_phone">Phone*</label>
-                                            <input id="contact_phone" type="tel" name="phone" class="form-control" placeholder="Please enter your number" required="required">
-                                            <div class="help-block with-errors"></div>
-                                        </div>
-                                    </div>
-                                    </div>
-                                    <input type="hidden" id="form_description" value="contact_us">
-                                    <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="form-group">
-                                            <label for="form_message">Message*</label>
-                                            <textarea id="contact_message" name="message" class="form-control" placeholder="Message for me *" rows="4" required="required" data-error="Please, leave us a message."></textarea>
-                                            <div class="help-block with-errors"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                   <div class="row">    
-                                        <div class="col-md-6">
-                                            <input class="btn btn-success btn-send" id="submitButton" value="Send Message" type="submit"/>
-                                            <br>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <p class="text-muted"><strong>*</strong> These fields are required.</p>
-                                            <br>
-                                        </div>
-                                    </div>
-                                </div>
-                        </form>
-                    </div>
-                </div><!-- END CONTACT FORM-->
-
-                <!--IMAGE-->    
-                    <div class="col-md-6" data-aos="fade-left" data-aos-once="true">
-                        <img src="assets/images/iphone_photo.png" class="iphone-photo">
-                   </div>                      
-                </div>      
         </div>
     </div>
 
