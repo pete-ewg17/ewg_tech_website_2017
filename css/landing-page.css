@@ -723,6 +723,19 @@ ol.carousel-indicators {
     opacity: 0.4;
 }
 
+
+/*================
+
+ Seperate R,A,T  
+
+================*/
+
+.white,
+.blue{
+    padding: 4.5em 0 3.5em 0;
+}
+
+
 /*================
 
  PRICING Styles 
