@@ -93,11 +93,11 @@ content{
 
 
 .arrow-down {
-    font-size: 1.7em;
+    font-size: 1.3em;
     color: #f5f5f5;
     position: relative;
     z-index: 10;
-    top: -1.5em;
+    top: -1.7em;
     bottom: 0;
     left: 0;
     right: 0;
@@ -105,7 +105,15 @@ content{
 
 /*BUTTON STYLES*/
 
-.down-arrow:
+.down-arrow {
+    color: #fff;
+}
+
+.down-arrow:visited,
+.down-arrow:hover,
+.down-arrow:active {
+    color: #fff;
+}
 
 /*================
 
@@ -324,7 +332,7 @@ content{
 }
 
 .intro-message {
-   padding-top: 12%;
+   padding-top: 8%;
    margin-left: 0.4em;
 }
 
@@ -429,7 +437,7 @@ content{
 ================*/
 
 .content-section-a {
-    padding: 3em 0;
+    padding-bottom: 2.8em;
 }
 
 .content-section-b {
@@ -677,7 +685,7 @@ ol.carousel-indicators {
 }
 
 .stats-header {
-    padding: 3em 0;
+    padding: 1.9em 0 2.8em 0;
 }
 
 
@@ -714,15 +722,6 @@ ol.carousel-indicators {
     color: #333;
     opacity: 0.4;
 }
-
-
-
-
-
-
-
-
-
 
 /*================
 
@@ -1017,13 +1016,25 @@ p.copyright {
     opacity: 0.9;
 }
 
+.two{    
+    font-size: 1.5em;
+    font-weight: 300;
+    color: #fff;
+    opacity: 0.9;
+}
+
+.two-head {
+    font-weight: 700;
+}
+
+
 .list-group-item {
     background-color: transparent;
 }
 
 .features h2 {
     font-size: 1.5em;
-    font-weight: 300;
+    font-weight: 700;
     color: #fff;
 }
 
