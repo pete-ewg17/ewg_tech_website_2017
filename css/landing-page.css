@@ -420,6 +420,35 @@ content{
     font-style: normal;
 }
 
+.quote-image {
+    top: 8em;
+    bottom: 0;
+    left: 0;
+    right:0;
+}
+
+.quote-image-middle {
+    top: 1em;
+    bottom: 0;
+    left: 0;
+    right:0;
+}
+
+.quote-image-accred {
+    top: 3em;
+    bottom:0;
+    left:0;
+    right:0;
+}
+
+
+
+@media(max-width:992px) {
+    .quote-image{
+        top:0;
+    }
+}
+
 /*================
 
  THUMBS 
@@ -460,50 +489,12 @@ content{
     background-color: #eee;
 }
 
-/*.blue,
-.white {
-    padding-top: 5em;
-    padding-bottom: 0;
-}*/
 
 .white-top {
     padding-top: 10em;
     padding-bottom: 5em;    
 }
 
-/*.left {
-    padding-left: 0;
-    margin-left: 0;
-}
-
-.right {
-    padding-right: 0;
-    margin-right: 0;
-}*/
-
-@media(max-width:992px) {
-    /*.blue,
-    .white {
-    padding-bottom: 0;
-    
-}
-
-.left {
-    padding-left: 0;
-    margin-left: 0;
-    }
-
-.right {
-    padding-right: 0;
-    margin-right: 0;
-}  
-    
-     {
-        margin-left: 0;
-    }*/
-    
-    
-}
 
 .featurette-image {
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
@@ -538,7 +529,6 @@ Banner
 
 .banner h2 {
     margin: 0;
-    /*text-shadow: 2px 2px 3px rgba(0,0,0,0.6);*/
     font-size: 3em;
 }
 
@@ -743,87 +733,6 @@ ol.carousel-indicators {
 
 /*================
 
- PRICING Styles 
-
-================*/
-
-.pricing {
-    padding: 1em 0;
-}
-
-.panel, 
-.panel-primary, 
-.panel-pricing {
-    border: 3px solid #fff;
-    background-color: #fff;
-    box-shadow: 0px 3px 38px 1px rgba(0, 0, 0, 0.2); 
-}
-
-.panel-body {
-    padding: 0 15px;
-}
-
-.most-pop-space {
-    margin: 2em 0;
-}
-
-.panel-heading h3 {
-    font-weight: 700;
-    font-size: 2.25em;
-}
-
-.price {
-    font-size: 4.5em;
-    color: #0082c2;
-}
-
-.tag-mute {
-    font-size:0.9em;
-    color: #555555;
-    opacity: 0.6;
-}
-
-.most-pop p {
-    color: #0082c2;
-    margin: 0;
-}
-
-.panel-primary > .panel-heading {
-    background: #fff;
-    border: none;
-}
-
-.list-group-item {
-    border: none;
-}
-
-.panel-primary,
-.panel-heading {
-    background-color: #fff;
-}
-
-.panel-footer {
-    background-color: #fff;
-}
-
-.premium {
-    border: 3px solid #04bef2;
-    
-}
-
-/*================
-
- Pricing Page
-
-================*/
-.price-tag {
-    padding: 2em 0em;
-    color: #525252;
-    font-weight: 700;
-}
-
-/*================
-
  Request a Demo
 
 ================*/
@@ -835,8 +744,7 @@ ol.carousel-indicators {
 }
 
 .content-section-c p {
-    color: #525252;
-    
+    color: #525252;   
 }
 
 /*================
@@ -845,41 +753,6 @@ ol.carousel-indicators {
 
 ================*/
 
-.form-container {
-    padding-top: 2em;
-}
-
-.form-container h2{
-    color: #fff;
-    margin-bottom: 1.8em;
-    font-weight: 700;
-}
-
-.blackHeading {
-    color: #525252;
-}
-
-.form-container label {
-    color: #fff;
-}
-
-.iphone-photo{
-   margin-left: auto;
-   margin-right: auto;
-   display: block;
-   width: 50%;
-   padding-top: 3.5em;
-}
-
-.text-muted {
-    color: #fff;
-    padding: 1em 0;
-}
-
-.text-demo {
-    color: #555;
-    padding: 1.5em 0;
-}
 
 select {
     display: block;
@@ -890,15 +763,6 @@ select {
     font-size: 1.3em;
 }
 
-.mail-link {
-    color: #0082c2;
-}
-
-.mail-link:focus,
-.mail-link:hover {
-    text-decoration: none;
-    color: #04639d;
-}
 
 /*================
  Footer Styles
@@ -982,6 +846,10 @@ p.copyright {
 .modal-body a {
     color: #555;
 }
+
+.text-muted {
+    color: #fff;
+    padding: 1em 0;
 
 .modal-footer {
 	background: #f2f2f2;
