@@ -920,6 +920,11 @@ p.copyright {
     color: #444;
 }
 
+
+.footer-logo {
+    height: 3.2em;
+}
+
 .back-to-top,
 .back-to-top:hover,
 .back-to-top:focus{
