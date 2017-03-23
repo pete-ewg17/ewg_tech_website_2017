@@ -44,7 +44,8 @@ content{
     margin-top: 1.9em;
 }
 
-.btn-primary {
+.btn-primary,
+.btn-primary:active{
     background-color: #fff;
     border-color: #444;
     color: #444;
