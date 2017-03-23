@@ -325,16 +325,18 @@ content{
 ================*/
 
 .intro-header {
-    padding-top: 2.8em;  /*If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-top: 2.8em;
+    padding-bottom: 2.8em;
     color: #f8f8f8;
     background: url("../assets/images/header_bg.jpg") no-repeat center center;
     background-size: cover;
-    min-height: 70%;   
+    min-height: 20vh;   
 }
 
 .intro-message {
-   padding-top: 8%;
+   padding-top: 2em;
    margin-left: 0.4em;
+   min-height: 40vh;
 }
 
 .intro-message > h1 {
