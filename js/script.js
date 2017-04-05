@@ -63,31 +63,16 @@ $(document).ready(function(){
   FORM 
 =============*/
 $(function () {
-    $('#contact-form').validator();
-    $('#contact-form').on('submit', function (e) {
+    $('.send_contact').validator();
+    $('.send_contact').on('submit', function (e) {
         if (!e.isDefaultPrevented()) {
             var url = "contact.php";
-            var name = $("#contact_name").val();
-            var phone = $("#contact_phone").val();
-            var message = $("#contact_message").val();
-            var email = $("#contact_email").val();
+            var f = $(this).serializeArray();
             $("#loading_div").css('display', 'block');
-            $.post('contact.php', {
-                n: name, p: phone, m: message, e: email
+            $.post(url, {
+                fields:f
             }, function (result) {
-                console.log(result);
-                var j = $.parseJSON(result);
-                if (j.result) {
-                    $('#loading_div').css('display','none');
-                    $('#submitButton').css('display','none');
-                    var messageAlert = 'alert-' + j.type;
-                    var messageText = j.message;
-                    var alertBox = '<div class="alert ' + messageAlert + ' alert-dismissable"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>' + messageText + '</div>';
-                    if (messageAlert && messageText) {
-                        $('#contact-form').find('.messages').html(alertBox);
-                        $('#contact-form')[0].reset();
-                    }
-                }
+                location.replace("thankyou.html");
             });
             return false;
         }
