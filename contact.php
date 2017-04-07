@@ -32,6 +32,14 @@ switch ($fomr_type) {
         $phone = $fields_in['phone'];
         $email = $fields_in['email'];
         break;
+    case "contact_us":
+        $form_desc = "Central Landing Page";
+        $name = $fields_in['name'];
+        $message = $fields_in['message'];
+        $choice = $fields_in['option_select'];
+        $phone = $fields_in['phone'];
+        $email = $fields_in['email'];
+        break;
 }
 
 $name_prts = explode(" ", $name);
