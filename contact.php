@@ -49,4 +49,3 @@ $admin_to = "shannan@eventworkforcegroup.com";
     sendRosterfyEmail(array("to" => $email, "id" => "-1"), $name, "Comment Received", 'Comment Received', "Hi " . $firstname . "<br/>Thank you for sending us an inquiry. This is just to let you know we have received the following: <br/><br/><em>" . $message . "</em><br/><br/>We will be in touch soon,<br/><br/>Regards<br/><br/>The Event Workforce Group Team", '0',$template);
     sendRosterfyEmail(array("to" =>$admin_to, "id" => "-1"), $name, "Comment From Website", 'Comment From Website', "From: " . $name . "<br/>" . "Email: " . $email . "<br/>Phone: " . $phone . "<br/>Regarding: {$var_in}", '0',$template);
 echo json_encode($result);
-~                            
