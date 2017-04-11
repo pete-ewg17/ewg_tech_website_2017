@@ -44,68 +44,63 @@
         margin-top: 1.9em;
     }
 
+    .btn {
+      border: none;
+    }
+
      .btn-primary:hover {
-        background-color: #555;
-        border-color: #555;
+        background-color: #006292;
+        color: #ffffff;
     }
 
     .btn-primary,
     .btn-primary:active{
-        background-color: #fff;
-        border-color: #555;
-        color: #0082c2;
+        background-color: #0082c2;
+        color: #ffffff;
         margin: 1.3em 0;
-        padding: 0.5em;
+        padding: 0.5em 1.2em 0.5em 1.2em;
         font-size: 1.3em;
         font-weight: 300;
-        text-transform: uppercase;
     }
-
 
     .btn-outline {
-        background-color: transparent;
-        color: #fff;
-        border: 1px solid #fff;
-        padding: 0.5em;
+        background-color: #0082c2;
+        color: #ffffff;
+        padding: 0.5em 1.2em 0.5em 1.2em;
         font-size: 1.3em;
         font-weight: 300;
-        text-transform: uppercase;
     }
 
-
     .btn-learn {
-        color: #555;
+        color: #ffffff;
 }
 
     .btn-form {
         background-color: #fff;
-        border-color: #444;
-        color: #444;
+        color: #fff;
         margin: 1.3em 0;
     }
 
     .btn-form:hover{
-        background-color: #555;
-        border-color: #555;
+        background-color: #006292;
+        border: none;
     }
 
+    .btn-success {
+        color: #fff;
+        background-color: #006292;
+        border: none;
+    }
+    
     .btn-send,
     .btn-success,
     .btn.disabled,
     .btn.disabled:hover{
-        color: #555;
-        background-color: #e4e4e4;
-        border-color: #e4e4e4;
-        padding: 0.8em;
-        font-size: 1.2em;
-        text-transform: uppercase;    
-    }
-
-    .btn-success:hover,
-    .btn-success:focus{
-        color: #fff;
-        background-color: #555;
-        border-color: #555;
+        color: #ffffff;
+        background-color: #0082c2;
+        border: none;
+        padding: 0.5em 1.2em 0.5em 1.2em;
+        font-size: 1.2em;   
     }
 
     .learn-more,
@@ -113,10 +108,9 @@
     .learn-more:active{
         margin-left: 1em;
         font-size: 1.2em;
-        color: #555;
+        color: #ffffff;
         text-decoration: none;
         cursor: pointer;
-        text-transform: uppercase;
     }
 
     /*================
@@ -239,6 +233,17 @@
     .mark {
         background-color: #fbb044; 
     }
+
+.text-info {
+      background: #0082c2;
+      padding: 0.8em 0.8em 0.8em 0.8em;
+      border-radius: 5px;
+      color: #fff;
+}
+
+.text-info:hover {
+    background: #006292;
+}
 
     /*==================
 
