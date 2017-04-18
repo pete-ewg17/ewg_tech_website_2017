@@ -18,6 +18,11 @@ foreach($_POST['fields'] as $p) {
     }
 }
 $result = array("result"=>true,"type"=>"warning","message","Cheers mate");
+$template = 1;
+if(isset($_POST['email_template'])) {
+	$template = $_POST['email_template'];
+}
+
 switch ($fomr_type) {
     case "demo_request":
         $form_desc = "Main Contact Form";
