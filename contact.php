@@ -19,8 +19,8 @@ foreach($_POST['fields'] as $p) {
 }
 $result = array("result"=>true,"type"=>"warning","message","Cheers mate");
 $template = 1;
-if(isset($_POST['email_template'])) {
-	$template = $_POST['email_template'];
+if(isset($fields_in['email_template'])) {
+	$template = $fields_in['email_template'];
 }
 
 switch ($fomr_type) {
@@ -47,7 +47,6 @@ if (count($name_prts) > 1) {
     $firstname = $name;
 }
 // $email = $_POST['e'];
-$template = 0;
 $var_in = print_r($fields_in,true);
 $admin_to = "shannan@eventworkforcegroup.com";
     $message = str_replace(array("'","\"",),"",$message);

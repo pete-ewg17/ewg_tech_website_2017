@@ -57,9 +57,17 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <?php  if(isset($_GET['admin'])) { ?>
+    <style>
+    .content-section-a.white-top {
+    	padding-top:5em;
+    }	
+    </style>
+    <?php } ?>
 </head>
 
 <body>
+<?php  if(!isset($_GET['admin'])) { ?>
    <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top topnav animated fadeInDown" role="navigation">
         <div class="container topnav">
@@ -90,7 +98,7 @@
         </div><!-- /.container -->
     </nav><!-- /End Nav -->
   
-
+<?php } ?>
   <!-- EDIT BELOW THIS LINE -->
   
   
@@ -183,7 +191,7 @@
   </div>
       <!-- /END THE FEATURETTES -->
       
-                                           
+       <?php  if(!isset($_GET['admin'])) { ?>                                    
 <!-- DONT TOUCH ANYTHING BELOW THIS -->                                                                                                                     
 
     <!--SOCIAL ICONS-->
@@ -221,6 +229,7 @@
             </div>
         </div>
     </footer>
+    <?php } ?>
         
         <!-- jQuery -->
         <script src="js/jquery.js"></script>
