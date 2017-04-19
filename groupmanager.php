@@ -121,7 +121,7 @@
         <div class="row">
           <div data-aos="fade-right" data-aos-once="true" class="col-md-7 col-md-push-5">
             <h2 class="featurette-heading">Create User Groups</h2>
-            <p class="tech-lead">Create groups based on users geographical location, tertiary institution, event skill set and more. You can publish events or shifts to a group with a certain skill set or for a specific charity group.</p>
+            <p class="tech-lead">Create groups based on community groups, charities, event skill set and more. You can publish events or shifts to a group.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
              <img class="featurette-image img-responsive img-rounded" src="assets/images/rosterfy/EWG-Tech_Rosterfy_Scheduling&GroupManagement_600X500.png" alt="Scheduling and Group Management">
@@ -166,7 +166,7 @@
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <h2>Shortcuts</h2>
-              <p class="lead">You can edit,  send out communications, export, import, archive, badge or update checkpoints for an entire group. </p>
+              <p class="lead">You can edit,  send out bulk communications, export, import, archive, badge or update checkpoints for an entire group. </p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Workforce Portals Platform">
