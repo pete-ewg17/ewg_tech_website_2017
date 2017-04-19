@@ -120,8 +120,8 @@
        <div class="container">
         <div class="row">
           <div data-aos="fade-right" data-aos-once="true" class="col-md-7 col-md-push-5">
-            <h2 class="featurette-heading">Lorem Ipsum</h2>
-            <p class="tech-lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos maxime voluptate repellendus sequi tempora cum, maiores mollitia, inventore, earum atque provident distinctio. Ex aspernatur quia velit dicta vitae molestiae quod.</p>
+            <h2 class="featurette-heading">Training Modules</h2>
+            <p class="tech-lead">Empower your users and external contractors by offering custom training modules for specific shifts and roles at your event.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
             <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Registration Form" style="background-size:cover; background-repeat:none;">
@@ -180,11 +180,11 @@
        <div class="container">
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="500">
-            <h2 class="featurette-heading">Lorem Ipsum</h2> 
-            <p class="tech-lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem tempore exercitationem nesciunt harum maxime vel aspernatur ex, recusandae laboriosam est blanditiis aut, aliquid molestiae molestias consectetur ut nisi iste reprehenderit.</p>
+            <h2 class="featurette-heading">Training Portal</h2> 
+            <p class="tech-lead">The training modules give you full control on what your users are learning and tested on before arriving at your event.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="500">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Timesheets">
+            <img class="featurette-image img-responsive img-rounded" src="assets/images/training/EWG-Tech_Training_Portal_600X500.png" alt="Training Portal on Computer">
             </div>
           </div>
         </div>
