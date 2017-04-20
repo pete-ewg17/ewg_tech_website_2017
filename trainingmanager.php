@@ -124,7 +124,7 @@
             <p class="tech-lead">Empower your users and external contractors by offering custom training modules for specific shifts and roles at your event.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Registration Form" style="background-size:cover; background-repeat:none;">
+            <img class="featurette-image img-responsive img-rounded" src="assets/feature info images/training manager/ExternalTraining.png" alt="Registration Form" style="background-size:cover; background-repeat:none;">
             </div>
           </div>
         </div>
