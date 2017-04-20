@@ -108,8 +108,8 @@
     <div class="container">
       <div class="row featurette">
         <div class="col-md-12 text-center" data-aos="fade-left" data-aos-once="true">
-          <h2>Branding Manager</h2>
-          <p>Utilize Branding Manager to create unique brands or event series or another defining category.</p>      
+          <h2>Event Series</h2>
+          <p>Create unique event series or brands or another defining category.</p>      
         </div>
       </div>
     </div>
@@ -136,7 +136,7 @@
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
               <h2>Email Templates</h2>
-              <p> Create specific emails to be sent for a brand or event series.</p>
+              <p> Create specific emails to be sent for multiple event series.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
               <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
