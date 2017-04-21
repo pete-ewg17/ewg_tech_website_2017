@@ -109,7 +109,7 @@
       <div class="row featurette">
         <div class="col-md-12 text-center" data-aos="fade-left" data-aos-once="true">
           <h2>Events</h2>
-          <p>Create events and shifts to manager your workforce.</p>      
+          <p>It's time to start filling your scheduled shifts and this feature makes it easy. Publish events to begin taking applicants from your database.</p>      
         </div>
       </div>
     </div>
@@ -121,7 +121,7 @@
         <div class="row">
           <div data-aos="fade-right" data-aos-once="true" class="col-md-7 col-md-push-5">
             <h2 class="featurette-heading">Add Events</h2>
-            <p class="tech-lead">Create an event page with a range of specific information, including detailed descriptions, location details and application open and closing dates.</p>
+            <p class="tech-lead"> Build your online position description. Create an event page with a range of specific information, including detailed position descriptions, location details and application open and closing dates. Get precise with our Google Maps integration to pinpoint exact meeting locations for your workforce.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
             <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Registration Form" style="background-size:cover; background-repeat:none;">
@@ -136,7 +136,7 @@
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
               <h2>Event List</h2>
-              <p>The event list gives you a more in depth view of each event to see how your applications are tracking as your rosters fill up.</p>
+              <p>The event list gives you a more in depth view of each event to see how your applications are tracking as your rosters fill up. Use this tool to report on exact workforce numbeers. Never doubt your workforce shift confirmation numbers again. This is the ultimate peace of mind for any workforce manager.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
               <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
@@ -151,7 +151,7 @@
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
             <h2 class="featurette-heading">Shift Categories</h2>
-            <p class="tech-lead">Create and manage shift categories to break down shifts into different areas of the event, such as pre-event, event weekend, bar staff or medical staff. </p>
+            <p class="tech-lead">Create and manage shift categories to break down shifts into different areas of the event, such as pre-event, event weekend, bar staff or medical staff. This makes your workforce sign up process simple and easy, giving you maximum shift sign ups.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
             <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Enhanced Communication with Phone">
@@ -165,8 +165,8 @@
         <div class="container">
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
-              <h2>Lorem Ipsum</h2>
-              <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat impedit, perferendis dolorum at maxime! Doloremque dignissimos facilis voluptates fugiat repellat ea placeat voluptate laboriosam, id nisi, eveniet consectetur distinctio debitis!</p>
+              <h2>Shift Upload</h2>
+              <p class="lead"> Creating events and shifts individually is typically a time consuming process in most systems. Skip this step by copying event details as well as uploading shifts from a spreadsheet.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Workforce Portals Platform">
@@ -175,20 +175,7 @@
       </div>
     </div>
      
-     <!--EDIT ME--> 
-      <div class="content-section-b blue">
-       <div class="container">
-        <div class="row">
-          <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="500">
-            <h2 class="featurette-heading">Activate Your Account</h2> 
-            <p class="tech-lead">Activate your current Freemium account to utilize the Event function.</p>
-          </div>
-            <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="500">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Timesheets">
-            </div>
-          </div>
-        </div>
-  </div>
+   
       <!-- /END THE FEATURETTES -->
       
        <?php  if(!isset($_GET['admin'])) { ?>                                    
