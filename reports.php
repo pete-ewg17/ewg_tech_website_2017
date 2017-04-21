@@ -159,21 +159,23 @@
           </div>
         </div>
       </div>
-     
-     <!--EDIT ME--> 
-      <div class="content-section-b blue">
-       <div class="container">
-        <div class="row">
-          <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="500">
-            <h2 class="featurette-heading">Request a custom report.</h2> 
-            <p class="tech-lead">We are happy to consider specific reports suited to your needs. This can be provided as a feature upgrade. Please contact us to discuss further.</p>
-          </div>
-            <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="500">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Timesheets">
+    
+        
+      <!--EDIT ME-->    
+      <div class="content-section-a white">
+        <div class="container">
+          <div class="row featurette">
+            <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
+              <h2>Request a custom report</h2>
+              <p>We are happy to consider specific reports suited to your needs. This can be provided as a feature upgrade. Please contact us to discuss further.</p>
+            </div>
+            <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
+              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
             </div>
           </div>
-        </div>
-  </div>
+      </div>
+    </div>
+      
       <!-- /END THE FEATURETTES -->
       
        <?php  if(!isset($_GET['admin'])) { ?>                                    
