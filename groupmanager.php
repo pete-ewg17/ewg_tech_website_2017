@@ -109,7 +109,7 @@
       <div class="row featurette">
         <div class="col-md-12 text-center" data-aos="fade-left" data-aos-once="true">
           <h2>Group Manager</h2>
-          <p>Groups Manager enables you to create and manage your user groups.</p>      
+          <p>Groups Manager enables you to create and manage your user groups. Whether it be a charity group, corporate group or operational team, group manager gives you the ability to best manager your workforce in groups and not just individually.</p>      
         </div>
       </div>
     </div>
@@ -121,7 +121,7 @@
         <div class="row">
           <div data-aos="fade-right" data-aos-once="true" class="col-md-7 col-md-push-5">
             <h2 class="featurette-heading">Create User Groups</h2>
-            <p class="tech-lead">Create groups based on community groups, charities, event skill set and more. You can publish events or shifts to a group.</p>
+            <p class="tech-lead">Create groups based on community groups, charities, event skill set and more. You can close events or shifts so that only pre-determined groups apply or confirm those assignments.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
              <img class="featurette-image img-responsive img-rounded" src="assets/images/rosterfy/EWG-Tech_Rosterfy_Scheduling&GroupManagement_600X500.png" alt="Scheduling and Group Management">
@@ -136,7 +136,7 @@
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
               <h2>Automation</h2>
-              <p>Use a specific inivtation link for a user group to automatically save new users to a group.</p>
+              <p>Provide a specific invitation link for a workforce group. This will automatically allocate new sign ups to this group. Perfect for when you want to segment your workforce by group. Send this link to a team leader and let them recruit on your behalf.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
               <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
@@ -150,8 +150,8 @@
        <div class="container">
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
-            <h2 class="featurette-heading">Authentictated Member Lists</h2>
-            <p class="tech-lead">Select multiple fields you want available for your public member list. </p>
+            <h2 class="featurette-heading">Authenticated Member Lists</h2>
+            <p class="tech-lead">Dive deeper on the member lists to display further details about each individual. This will giev you greater transparency on these members with in the one page. Eg. See their work experience without needing to click into their profile.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
             <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Enhanced Communication with Phone">
@@ -166,7 +166,7 @@
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <h2>Shortcuts</h2>
-              <p class="lead">You can edit,  send out bulk communications, export, import, archive, badge or update checkpoints for an entire group. </p>
+              <p class="lead">You can edit, send out bulk communications, export, import, archive, accredit or update checkpoints for an entire group. Very powerful when managing large workforce teams. </p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Workforce Portals Platform">
@@ -180,8 +180,8 @@
        <div class="container">
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="500">
-            <h2 class="featurette-heading">Archive</h2> 
-            <p class="tech-lead">Archive unused groups. When using Rosterfy and archived groups, your lists to choose groups will be a lot shorter, and you can keep all your old groups as a backup.</p>
+            <h2 class="featurette-heading">Group Archive</h2> 
+            <p class="tech-lead">Archive dorment workforce groups. When using Rosterfy and archived groups, your lists to choose groups will be a lot shorter, and you can keep your old groups as a backup just in case they need to be called upon at a later date.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="500">
             <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Timesheets">
@@ -189,6 +189,21 @@
           </div>
         </div>
   </div>
+     <!--EDIT ME-->
+      <div class="content-section-a white">
+        <div class="container">
+          <div class="row featurette">
+            <div class="col-md-7" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
+              <h2>Upload Workforce Groups to Shifts</h2>
+              <p class="lead"> To fill a shift quickly, you can easily import a Workforce Group. Eg. Perfect when needing to fill 20 positions at a drink station in one allocation.</p>
+            </div>
+            <div class="col-md-5" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
+              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Workforce Portals Platform">
+            </div>
+          </div>
+      </div>
+    </div>
+    
       <!-- /END THE FEATURETTES -->
       
        <?php  if(!isset($_GET['admin'])) { ?>                                    
