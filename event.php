@@ -136,7 +136,7 @@
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
               <h2>Event List</h2>
-              <p>The event list gives you a more in depth view of each event to see how your applications are tracking as your rosters fill up. Use this tool to report on exact workforce numbeers. Never doubt your workforce shift confirmation numbers again. This is the ultimate peace of mind for any workforce manager.</p>
+              <p>The event list gives you a more in depth view of each event to see how your applications are tracking as your rosters fill up. Use this tool to report on exact workforce numbeers. Never doubt your workforce shift confirmation numbers again; sleep easy having confidence in your expected attendance numbers.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
               <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
@@ -151,7 +151,7 @@
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
             <h2 class="featurette-heading">Shift Categories</h2>
-            <p class="tech-lead">Create and manage shift categories to break down shifts into different areas of the event, such as pre-event, event weekend, bar staff or medical staff. This makes your workforce sign up process simple and easy, giving you maximum shift sign ups.</p>
+            <p class="tech-lead">Create and manage shift categories to break down shifts into different areas of the event, such as pre-event, event weekend, bar staff or medical staff. This makes your workforce sign up process simple and easy, maximising shift sign up numbers.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
             <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Enhanced Communication with Phone">
