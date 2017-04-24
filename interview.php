@@ -109,7 +109,7 @@
       <div class="row featurette">
         <div class="col-md-12 text-center" data-aos="fade-left" data-aos-once="true">
           <h2>Interview Platform</h2>
-          <p>Bio.</p>      
+          <p>Conduct interviews using our interactive interview platform to record users responses.</p>      
         </div>
       </div>
     </div>
@@ -136,7 +136,7 @@
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
               <h2>Preview</h2>
-              <p>Add, edit and arrange images and text to sit on your certificate. </p>
+              <p>Preview your interview page which includes your script and questions. </p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
               <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
@@ -150,8 +150,8 @@
        <div class="container">
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
-            <h2 class="featurette-heading">Completed/h2>
-            <p class="tech-lead">Preview the current layout or download the PDF version. </p>
+            <h2 class="featurette-heading">Completed</h2>
+            <p class="tech-lead">View a list of users who have completed their interview. </p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
             <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Enhanced Communication with Phone">
@@ -159,6 +159,21 @@
           </div>
         </div>
       </div>
+          
+          <!--EDIT ME-->    
+      <div class="content-section-a white">
+        <div class="container">
+          <div class="row featurette">
+            <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
+              <h2>Daily Paraphrases</h2>
+              <p>Use daily paraphrases...</p>
+            </div>
+            <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
+              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
+            </div>
+          </div>
+      </div>
+    </div>
      
 
       <!-- /END THE FEATURETTES -->
