@@ -587,6 +587,11 @@
 
     }
 
+    .featurette-image.no-shadow {
+        box-shadow: none;
+
+    }
+
     .section-heading  {
         margin-top: 2em;
         margin-bottom: 2em;
