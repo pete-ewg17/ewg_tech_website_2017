@@ -12,7 +12,7 @@
     <meta property="og:description" content="Cutting edge software to manage your event staff online. Including registration, online training and communication with event staff." />
     <meta property="og:image" content="http://event-workforce.com.au/ewg_web/wordpress/wp-content/uploads/2016/10/cropped-EWG-Group-Logo.png">
     <meta property="og:url" content="http://eventworkforcegroup.com/technology">
-    <title>EWG Technology | Rosterfy | Group Manager </title>
+    <title>EWG Technology | Rosterfy </title>
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <!-- Custom CSS -->
@@ -109,7 +109,7 @@
       <div class="row featurette">
         <div class="col-md-12 text-center" data-aos="fade-left" data-aos-once="true">
           <h2>Group Manager</h2>
-          <p>Groups Manager enables you to create and manage your Workforce groups easily and effectively. Whether it be a charity group, corporate group or operational team, group manager gives you the ability to best manage your workforce in groups and not just individually.</p>      
+          <p>Groups Manager enables you to create and manage your user groups easily and effectively. Whether it be a charity group, corporate group or operational team, group manager gives you the ability to best manage your staff in groups.</p>      
         </div>
       </div>
     </div>
