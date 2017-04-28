@@ -1,8 +1,9 @@
 <?php
 $file_base = "../";
-include $file_base."template_files/header.php";
 $title = "Ugrading your plan";
 $desc = "Utilise Rosterfy's extensive features to manage your workforce";
+include $file_base."template_files/header.php";
+
 ?>
   <!-- EDIT BELOW THIS LINE -->
   

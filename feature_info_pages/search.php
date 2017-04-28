@@ -1,8 +1,9 @@
 <?php
 $file_base = "../";
-include $file_base."template_files/header.php";
 $title = "Advanced Search";
 $desc = "All data within Rosterfy is searchable, including any custom questions that you create in your registration form. There are no limits on the amount of search parameters you can include, allowing your search to be as specific as you desire.";
+include $file_base."template_files/header.php";
+
 ?>
   <!-- EDIT BELOW THIS LINE -->
   

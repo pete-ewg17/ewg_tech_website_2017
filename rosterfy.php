@@ -1,8 +1,9 @@
 <?php
 $file_base = "";
-include $file_base."template_files/header.php";
 $title = "Rosterfy";
 $desc = "Cutting edge software to manage your event staff online. Including registration, online training and communication with event staff";
+include $file_base."template_files/header.php";
+
 ?>  
       
    <!--THE FEATURETTES -->

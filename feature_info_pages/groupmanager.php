@@ -1,8 +1,8 @@
 <?php
 $file_base = "../";
-include $file_base."template_files/header.php";
 $title = "Group Manager";
 $desc = "Groups Manager enables you to create and manage your user groups easily and effectively. Whether it be a charity group, corporate group or operational team, group manager gives you the ability to best manage your staff in groups";
+include $file_base."template_files/header.php";
 ?>
   <!-- EDIT BELOW THIS LINE -->
   

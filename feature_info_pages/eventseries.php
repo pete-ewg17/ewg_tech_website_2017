@@ -1,8 +1,9 @@
 <?php
 $file_base = "../";
-include $file_base."template_files/header.php";
 $title = "Event Series";
 $desc = "Event series is a powerful tool allowing you to segment your event types to remain on brand with their look and feel and communications to your workforce";
+include $file_base."template_files/header.php";
+
 ?>
   <!-- EDIT BELOW THIS LINE -->
   

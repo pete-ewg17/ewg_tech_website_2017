@@ -1,8 +1,9 @@
 <?php
 $file_base = "../";
-include $file_base."template_files/header.php";
 $title = "Surveys";
 $desc = "You have the ability to create your own surveys to obtain any kind of feedback from users";
+include $file_base."template_files/header.php";
+
 ?>
    
    <!--HEADER EDIT ME-->

@@ -3,6 +3,8 @@ $file_base = "../";
 include $file_base."template_files/header.php";
 $title = "Reports";
 $desc = "Reports are a powerful feature of the Rosterfy system. The reporting page provides you with a summary of all key user functionality to quickly assess the progress of rosters, communications, training completion and timesheets";
+include $file_base."template_files/header.php";
+
 ?>
   <!-- EDIT BELOW THIS LINE -->
   

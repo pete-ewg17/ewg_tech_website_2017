@@ -1,8 +1,9 @@
 <?php
 $file_base = "../";
-include $file_base."template_files/header.php";
 $title = "Training Manager";
 $desc = "Create training and induction content and quizzes to share with users or externally";
+include $file_base."template_files/header.php";
+
 ?>
    <!--HEADER EDIT ME-->
   <div class="content-section-a white-top">

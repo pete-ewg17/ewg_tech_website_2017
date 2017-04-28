@@ -1,8 +1,9 @@
 <?php
 $file_base = "../";
-include $file_base."template_files/header.php";
 $title = "Interview Platform";
 $desc = "Conduct interviews using our interactive interview platform to record users responses.";
+include $file_base."template_files/header.php";
+
 ?>
   <!-- EDIT BELOW THIS LINE -->
   

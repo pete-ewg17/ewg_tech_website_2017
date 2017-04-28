@@ -1,8 +1,9 @@
 <?php
 $file_base = "../";
-include $file_base."template_files/header.php";
 $title = "Template";
 $desc = "Template Description";
+include $file_base."template_files/header.php";
+
 ?>
    
    <!--HEADER EDIT ME-->

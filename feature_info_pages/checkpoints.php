@@ -1,8 +1,9 @@
 <?php
 $file_base = "../";
-include $file_base."template_files/header.php";
 $title = "Checkpoints";
 $desc = "A checkpoint is an admin side user information point. You can add checkpoints to then cross off against users as they do certain actions";
+include $file_base."template_files/header.php";
+
 ?>
   <!-- EDIT BELOW THIS LINE -->
   

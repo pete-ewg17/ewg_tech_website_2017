@@ -1,8 +1,9 @@
 <?php
 $file_base = "../";
-include $file_base."template_files/header.php";
 $title = "Events";
 $desc = "It's time to start filling your scheduled shifts and this feature makes it easy. Publish events to begin taking applicants from your database.";
+include $file_base."template_files/header.php";
+
 ?>
   <!-- EDIT BELOW THIS LINE -->
   

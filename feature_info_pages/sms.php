@@ -1,8 +1,9 @@
 <?php
 $file_base = "../";
-include $file_base."template_files/header.php";
 $title = "SMS";
 $desc = "Sending SMS is the most effective way to communicate with your workforce. You can send and track shift confirmations, important reminders and safety alerts during your event for the ultimate peace of mind.";
+include $file_base."template_files/header.php";
+
 ?>
    
    <!--HEADER EDIT ME-->

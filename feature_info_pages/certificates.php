@@ -1,8 +1,9 @@
 <?php
 $file_base = "../";
-include $file_base."template_files/header.php";
 $title = "Post Event Certificates";
 $desc = "It's always nice to be thanked for a job well done! The certificate builder allows you to customize and send personalized certificates direct to your users.";
+include $file_base."template_files/header.php";
+
 ?>
   <!-- EDIT BELOW THIS LINE -->
   

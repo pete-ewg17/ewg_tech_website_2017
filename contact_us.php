@@ -1,8 +1,9 @@
 <?php
 $file_base = "";
-include $file_base."template_files/header.php";
 $title = "Contact Us";
 $desc = "Contact EWG";
+include $file_base."template_files/header.php";
+
 ?>
     
     <!-- Header -->

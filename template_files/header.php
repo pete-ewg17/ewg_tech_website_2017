@@ -8,9 +8,7 @@ if(!isset($title)) {
 if(!isset($desc)) {
 	$desc = "";
 }
-if(!isset($url)) {
-	$url = "";
-}
+	$url = $_SERVER['PHP_SELF'];
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -25,7 +23,7 @@ if(!isset($url)) {
     <meta property="og:title" content="Event Workforce Group Technology" />
     <meta property="og:description" content="<?php echo $title; ?>"/>
     <meta property="og:image" content="http://eventworkforcegroup.com/blog/wp-content/uploads/2016/11/EWG-Tech-Logo-FA-e1480399605987.png">
-    <meta property="og:url" content="http://eventworkforcegroup.com/<?php echo $url; ?>">
+    <meta property="og:url" content="http://eventworkforcegroup.com<?php echo $url; ?>">
     <title>EWG Technology | <?php echo $title; ?></title>
     <!-- Bootstrap Core CSS -->
     <link href="<?php echo $file_base; ?>css/bootstrap.css" rel="stylesheet">
