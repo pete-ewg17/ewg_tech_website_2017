@@ -154,7 +154,7 @@
             <p class="tech-lead">Preview the current layout or download the PDF version. This will give you peace of mind as well as the ability to individually email certificates externally in the future if needed.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Enhanced Communication with Phone">
+            <img class="featurette-image img-responsive img-rounded" src="../assets/Certificate_Preview.png" alt="Enhanced Communication with Phone">
             </div>
           </div>
         </div>
