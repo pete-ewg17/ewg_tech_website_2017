@@ -101,7 +101,7 @@ src="https://www.facebook.com/tr?id=114806989013061&ev=PageView&noscript=1"
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="hvr-underline-from-center"> <a href="index.html">Home</a> </li>
+                    <li class="hvr-underline-from-center"> <a href="index">Home</a> </li>
                     
                     
                        <!--DROP DOWN NAV-->
@@ -109,12 +109,12 @@ src="https://www.facebook.com/tr?id=114806989013061&ev=PageView&noscript=1"
                           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">What We Do<span class="caret"></span></a>
 
                            <ul class="dropdown-menu">
-                            <li><a href="<?php echo $file_base; ?>rosterfy.html">Rosterfy</a></li>
-                            <li><a href="<?php echo $file_base; ?>accreditation.html">Accreditation</a></li>
-                            <li><a href="<?php echo $file_base; ?>training.html">Training</a></li>
+                            <li><a href="<?php echo $file_base; ?>rosterfy">Rosterfy</a></li>
+                            <li><a href="<?php echo $file_base; ?>accreditation">Accreditation</a></li>
+                            <li><a href="<?php echo $file_base; ?>training">Training</a></li>
                             </ul>
                         </li>    
-                    <li><a href="<?php echo $file_base; ?>demo.html"><span class="text-info">Request Demo</span></a></li>
+                    <li><a href="<?php echo $file_base; ?>demo"><span class="text-info">Request Demo</span></a></li>
                     </ul>
             </div><!-- /.navbar-collapse -->
         </div><!-- /.container -->

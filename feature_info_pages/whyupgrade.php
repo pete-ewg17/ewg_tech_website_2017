@@ -1,8 +1,8 @@
 <?php
 $file_base = "../";
 include $file_base."template_files/header.php";
-$title = "Pages and Phrases";
-$desc = "Create unique content within pages and phrases to appear differently to users of your system";
+$title = "Ugrading your plan";
+$desc = "Utilise Rosterfy's extensive features to manage your workforce";
 ?>
   <!-- EDIT BELOW THIS LINE -->
   
@@ -13,8 +13,8 @@ $desc = "Create unique content within pages and phrases to appear differently to
     <div class="container">
       <div class="row featurette">
         <div class="col-md-12 text-center" data-aos="fade-left" data-aos-once="true">
-          <h2>Pages and Phrases</h2>
-          <p>Create unique content within pages and phrases to appear differently to users of your system.</p>      
+          <h2>Why Upgrade</h2>
+          <p>Utilise Rosterfy's extensive features to manage your workforce</p>      
         </div>
       </div>
     </div>
@@ -25,11 +25,11 @@ $desc = "Create unique content within pages and phrases to appear differently to
        <div class="container">
         <div class="row">
           <div data-aos="fade-right" data-aos-once="true" class="col-md-7 col-md-push-5">
-            <h2 class="featurette-heading">Pages</h2>
-            <p class="tech-lead">Each page of your portal is customizable content. </p>
+            <h2 class="featurette-heading">Reports</h2>
+            <p class="tech-lead">Download your data from the system so analyse.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Registration Form" style="background-size:cover; background-repeat:none;">
+             <img class="featurette-image img-responsive img-rounded" src="assets/images/rosterfy/EWG-Tech_Rosterfy_Scheduling&GroupManagement_600X500.png" alt="Scheduling and Group Management">
             </div>
           </div>
         </div>
@@ -40,8 +40,8 @@ $desc = "Create unique content within pages and phrases to appear differently to
         <div class="container">
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
-              <h2>Phrases</h2>
-              <p>Customize different phrases or words to appear different to users of your system. </p>
+              <h2>Event Registration</h2>
+              <p>Let your workforce manage themselves, choosing their own shifts and events. </p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
               <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
@@ -49,10 +49,7 @@ $desc = "Create unique content within pages and phrases to appear differently to
           </div>
       </div>
     </div>
-      
-     
-
+          
+  </div>
       <!-- /END THE FEATURETTES -->
-    <?php 
- include $file_base."template_files/footer.php";
- ?>
+    <?php echo $file_base."template_files/footer.php"; ?>
