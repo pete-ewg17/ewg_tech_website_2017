@@ -108,8 +108,8 @@
     <div class="container">
       <div class="row featurette">
         <div class="col-md-12 text-center" data-aos="fade-left" data-aos-once="true">
-          <h2>Thankyou Certificates</h2>
-          <p> It's always nice to be thanked for a job well done! Certificate builder allows you to customise and send personalised certificates direct to your workforce.</p>      
+          <h2>Post Event Certificates</h2>
+          <p> It's always nice to be thanked for a job well done! The certificate builder allows you to customize and send personalized certificates direct to your users.</p>      
         </div>
       </div>
     </div>
