@@ -12,7 +12,7 @@
     <meta property="og:description" content="Cutting edge software to manage your event staff online. Including registration, online training and communication with event staff." />
     <meta property="og:image" content="http://event-workforce.com.au/ewg_web/wordpress/wp-content/uploads/2016/10/cropped-EWG-Group-Logo.png">
     <meta property="og:url" content="http://eventworkforcegroup.com/technology">
-    <title>EWG Technology esdrftgyhuj| Rosterfy</title>
+    <title>EWG Technology | Rosterfy</title>
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <!-- Custom CSS -->
