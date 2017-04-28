@@ -99,7 +99,7 @@ src="https://www.facebook.com/tr?id=114806989013061&ev=PageView&noscript=1"
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="hvr-underline-from-center"> <a href="<?php echo $file_base; ?index">Home</a> </li>
+                    <li class="hvr-underline-from-center"> <a href="<?php echo $file_base; ?>index">Home</a> </li>
                     
                     
                        <!--DROP DOWN NAV-->
