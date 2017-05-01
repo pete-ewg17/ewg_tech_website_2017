@@ -1,6 +1,6 @@
 <?php
 $file_base = "";
-$ittle = "Welcome";
+$title = "Welcome";
 $desc = "All your workforce needs";
 include $file_base."template_files/header.php";
 ?>
