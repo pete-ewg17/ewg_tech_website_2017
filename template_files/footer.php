@@ -31,7 +31,7 @@
                         <li><a href="http://eventworkforcegroup.com/technology" target="_blank"> <img src="<?php echo $file_base; ?>assets/images/logos/ewg_tech_logo.svg" class="img-responsive footer-logo" alt="Academy Logo">Technology</a> </li>
                     </ul>
                     <p class="copyright text-muted small">Copyright &copy; Event Workforce Group 2017. All Rights Reserved</p>
-                    <p class="small"><a href="https://rosterfy.co/rosterfy_terms">Terms &amp; Conditions</a></p>         
+                    <p class="small"><a href="https://rosterfy.co/rosterfy_terms">Terms &amp; Conditions</a> <a href="privacy-policy.php">Privacy Policy</a></p>         
                      <a id="back-to-top" href="#" class="btn btn-primary btn-lg back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left"><span class="glyphicon glyphicon-chevron-up"></span></a>
                 </div>
             </div>
