@@ -20,7 +20,7 @@ include $file_base."template_files/header.php";
     </div>
   </div>
       
-      <!--EDIT ME-->
+      <!--EDIT ME--> 
       <div class="content-section-b blue">
        <div class="container">
         <div class="row">
@@ -80,7 +80,7 @@ include $file_base."template_files/header.php";
       </div>
     </div>
      
-     <!--EDIT ME--> 
+     <!--EDIT ME-->
       <div class="content-section-b blue">
        <div class="container">
         <div class="row">

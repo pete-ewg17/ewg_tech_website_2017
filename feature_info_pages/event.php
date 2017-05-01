@@ -45,7 +45,7 @@ include $file_base."template_files/header.php";
               <p>The event list gives you a more in depth view of each event to see how your applications are tracking as your rosters fill up. Use this tool to report on exact workforce numbeers. Never doubt your workforce shift confirmation numbers again; sleep easy having confidence in your expected attendance numbers.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
-              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="assets/feature_info_images/Event_List.png" alt="Scheduling and Group Management">
             </div>
           </div>
       </div>
