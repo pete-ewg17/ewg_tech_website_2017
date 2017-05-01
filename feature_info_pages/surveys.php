@@ -1,7 +1,7 @@
 <?php
 $file_base = "../";
 $title = "Surveys";
-$desc = "You have the ability to create your own surveys to obtain any kind of feedback from users";
+$desc = "Wondering what your Workforce are thinking? With our Survey platform you can collect feedback to keep improving your events and looking after your workforce.";
 include $file_base."template_files/header.php";
 
 ?>
