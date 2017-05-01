@@ -29,7 +29,7 @@ include $file_base."template_files/header.php";
             <p class="tech-lead">Create groups based on community groups, charities, event skill set and more. You can close events or shifts so that only pre-determined groups apply or confirm the positions.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
-             <img class="featurette-image img-responsive img-rounded" src="assets/images/rosterfy/EWG-Tech_Rosterfy_Scheduling&GroupManagement_600X500.png" alt="Scheduling and Group Management">
+             <img class="featurette-image no-shadow img-responsive img-rounded" src="assets/feature_info_images/GroupManager.png" alt="Scheduling and Group Management">
             </div>
           </div>
         </div>
