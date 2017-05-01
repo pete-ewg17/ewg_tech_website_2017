@@ -137,7 +137,7 @@ include $file_base."template_files/header.php";
                       <p><strong>The Privacy Officer</strong></p>
                       <p>80 Market St, South Melbourne.</p>
                       <p>Phone: 03 8362 5040</p>
-                      <p>Email: info@eventworkforcegroup.com.au</p>
+                      <p>Email: <a href="mailto:info@eventworkforcegroup.com">info@eventworkforcegroup.com</a></p>
                     </div>
           </div>
           
@@ -164,7 +164,7 @@ include $file_base."template_files/header.php";
             
             <p>We do not knowingly collect information of any sort, including personal information, from children under 13. If you are under 13, do not use or provide any information on the EWG Tech Platform. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information immediately. If you believe we might have any information from or about a child under 13, please contact us immediately at info@eventworkforcegroup.com.au.</p>
              
-          <h4>Information We Collect About You and How We Collect It </strong></h4>
+          <h4>Information We Collect About You and How We Collect It</h4>
             <p>The information we collect from and about users of the EWG Technology Platform is determined both by the event company that has partnered with Event Workforce Group (USA) Inc. (“Event Company”) based on the information they need about their event staff, and by the technological requirements of the EWG Tech Platform. The types of information that we collect from and about users of the EWG Technology Platform include:</p>
               <ul>
                 <li>Information by which you may be personally identified that is requested by the Event Company, such as name, email address, and phone number (“personal information”);</li>
