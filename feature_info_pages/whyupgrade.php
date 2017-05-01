@@ -27,10 +27,10 @@ include $file_base."template_files/header.php";
         <div class="row">
           <div data-aos="fade-right" data-aos-once="true" class="col-md-7 col-md-push-5">
             <h2 class="featurette-heading">Reports</h2>
-            <p class="tech-lead">Download your data from the system so analyse.</p>
+            <p class="tech-lead">Download your data from the system to analyse.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
-             <img class="featurette-image img-responsive img-rounded" src="assets/images/rosterfy/EWG-Tech_Rosterfy_Scheduling&GroupManagement_600X500.png" alt="Scheduling and Group Management">
+             <img class="featurette-image img-responsive img-rounded" src="../assets/images/rosterfy/EWG-Tech_Rosterfy_Scheduling&GroupManagement_600X500.png" alt="Scheduling and Group Management">
             </div>
           </div>
         </div>
@@ -53,4 +53,4 @@ include $file_base."template_files/header.php";
           
   </div>
       <!-- /END THE FEATURETTES -->
-    <?php echo $file_base."template_files/footer.php"; ?>
+    <?php include $file_base."template_files/footer.php"; ?>

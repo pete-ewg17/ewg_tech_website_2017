@@ -30,7 +30,7 @@ include $file_base."template_files/header.php";
             <p class="tech-lead">Customize the height and width of your certificate. Upload a background image to stay on brand and get creative.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
-            <img class="featurette-image no-shadow img-responsive img-rounded" src="assets/feature_info_images/Certificate_Designer.png" alt="Registration Form" style="background-size:cover; background-repeat:none;">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Certificate_Designer.png" alt="Registration Form" style="background-size:cover; background-repeat:none;">
             </div>
           </div>
         </div>
@@ -60,7 +60,7 @@ include $file_base."template_files/header.php";
             <p class="tech-lead">Preview the current layout or download the PDF version. This will give you peace of mind as well as the ability to individually email certificates externally in the future if needed.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
-            <img class="featurette-image no-shadow img-responsive img-rounded" src="assets/feature_info_images/Certificate_Preview.png" alt="Enhanced Communication with Phone">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Certificate_Preview.png" alt="Enhanced Communication with Phone">
             </div>
           </div>
         </div>

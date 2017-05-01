@@ -56,8 +56,8 @@ include $file_base."template_files/header.php";
        <div class="container">
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
-            <h2 class="featurette-heading">Map Users</h2>
-            <p class="tech-lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat laboriosam saepe doloribus nisi delectus quibusdam nulla iste repellendus aut fuga laudantium minima voluptate labore ipsam eveniet, enim ipsum pariatur, sint!</p>
+            <h2 class="featurette-heading">Search Account</h2>
+            <p class="tech-lead">Run a search for multiple default and custom fields.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
             <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Enhanced Communication with Phone">
@@ -71,11 +71,11 @@ include $file_base."template_files/header.php";
         <div class="container">
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
-              <h2>Lorem Ipsum</h2>
+              <h2>Map Users</h2>
               <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat impedit, perferendis dolorum at maxime! Doloremque dignissimos facilis voluptates fugiat repellat ea placeat voluptate laboriosam, id nisi, eveniet consectetur distinctio debitis!</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
-              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Workforce Portals Platform">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Map_Users1.png"" alt="Workforce Portals Platform">
             </div>
           </div>
       </div>
