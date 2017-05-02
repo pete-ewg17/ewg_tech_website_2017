@@ -1,6 +1,6 @@
 <?php
 $file_base = "../";
-$title = "Pages and Phrases";
+$title = "Phrases";
 $desc = "Create unique content within pages and phrases to appear differently to users of your system";
 include $file_base."template_files/header.php";
 
@@ -14,7 +14,7 @@ include $file_base."template_files/header.php";
     <div class="container">
       <div class="row featurette">
         <div class="col-md-12 text-center" data-aos="fade-left" data-aos-once="true">
-          <h2>Pages and Phrases</h2>
+          <h2>Pages, Phrases &amp; More</h2>
           <p>Create unique content within pages and phrases to appear differently to users of your system.</p>      
         </div>
       </div>
@@ -26,11 +26,11 @@ include $file_base."template_files/header.php";
        <div class="container">
         <div class="row">
           <div data-aos="fade-right" data-aos-once="true" class="col-md-7 col-md-push-5">
-            <h2 class="featurette-heading">Pages</h2>
-            <p class="tech-lead">Each page of your portal is customizable content. </p>
+            <h2 class="featurette-heading">Phrases</h2>
+            <p class="tech-lead">Customize different phrases or words to appear different to users of your system. </p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Registration Form" style="background-size:cover; background-repeat:none;">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Phrases.png" alt="Registration Form" style="background-size:cover; background-repeat:none;">
             </div>
           </div>
         </div>
@@ -41,15 +41,30 @@ include $file_base."template_files/header.php";
         <div class="container">
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
-              <h2>Phrases</h2>
-              <p>Customize different phrases or words to appear different to users of your system. </p>
+              <h2>Menus</h2>
+              <p> Add additional menu items to your user portal navigation menu. </p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
-              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/TM_Menus.png" alt="Scheduling and Group Management">
             </div>
           </div>
       </div>
     </div>
+
+     <!--EDIT ME-->
+      <div class="content-section-b blue">
+       <div class="container">
+        <div class="row">
+          <div data-aos="fade-right" data-aos-once="true" class="col-md-7 col-md-push-5">
+            <h2 class="featurette-heading">Footer Settings</h2>
+            <p class="tech-lead">Customize how the footer appears in the user portal and add multiple elements.</p>
+          </div>
+            <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Footer_Settings.png" alt="Registration Form" style="background-size:cover; background-repeat:none;">
+            </div>
+          </div>
+        </div>
+      </div>
       
      
 

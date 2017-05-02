@@ -27,7 +27,7 @@ include $file_base."template_files/header.php";
             <p class="tech-lead">View your sent SMS history including delivery status, time, date and more. Keep track of who and when your workforce recieve SMS to have confidence your workforce are well informed. </p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Registration Form" style="background-size:cover; background-repeat:none;">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/SMS_History.png" alt="Registration Form">
             </div>
           </div>
         </div>
@@ -42,7 +42,7 @@ include $file_base."template_files/header.php";
               <p>Forget the days of re-typing the same message, now you can create a template, include merge tags and send the SMS to one or several hundred individuals at the click of a button.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
-              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/SMS_Templates.png" alt="Scheduling and Group Management">
             </div>
           </div>
       </div>

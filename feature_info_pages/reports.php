@@ -73,7 +73,7 @@ include $file_base."template_files/header.php";
         <div class="container">
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
-              <h2>Request a custom report</h2>
+              <h2>Request A Custom Report</h2>
               <p>We are happy to consider specific reports suited to your needs. This can be provided as a feature upgrade. Please contact us to discuss further.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
