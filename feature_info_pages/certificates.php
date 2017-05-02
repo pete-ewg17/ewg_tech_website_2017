@@ -45,7 +45,7 @@ include $file_base."template_files/header.php";
               <p>Add, edit and arrange images and text to sit on your certificate. This allows you to include sponsor logo's to help increase exposure for your partners.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
-              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Certificate_Elements.png" alt="Scheduling and Group Management">
             </div>
           </div>
       </div>

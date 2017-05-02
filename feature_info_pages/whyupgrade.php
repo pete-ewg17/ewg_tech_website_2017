@@ -45,7 +45,7 @@ include $file_base."template_files/header.php";
               <p>Let your workforce manage themselves, choosing their own shifts and events. </p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
-              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
+              <img class="featurette-image img-responsive img-rounded" src="../assets/images/rosterfy/EWG-Tech_Rosterfy_CustomRegistrationForm_600X500px.png" alt="Scheduling and Group Management">
             </div>
           </div>
       </div>
