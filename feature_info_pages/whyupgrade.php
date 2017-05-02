@@ -30,7 +30,7 @@ include $file_base."template_files/header.php";
             <p class="tech-lead">Download your data from the system to analyse.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
-             <img class="featurette-image img-responsive img-rounded" src="../assets/images/rosterfy/EWG-Tech_Rosterfy_Scheduling&GroupManagement_600X500.png" alt="Scheduling and Group Management">
+             <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/images/rosterfy/rosterfy_login_2.png" alt="Scheduling and Group Management">
             </div>
           </div>
         </div>
@@ -45,7 +45,7 @@ include $file_base."template_files/header.php";
               <p>Let your workforce manage themselves, choosing their own shifts and events. </p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
-              <img class="featurette-image img-responsive img-rounded" src="../assets/images/rosterfy/EWG-Tech_Rosterfy_CustomRegistrationForm_600X500px.png" alt="Scheduling and Group Management">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/images/rosterfy/EWG-Tech_Rosterfy_CustomRegistrationForm_600X500px.png" alt="Scheduling and Group Management">
             </div>
           </div>
       </div>

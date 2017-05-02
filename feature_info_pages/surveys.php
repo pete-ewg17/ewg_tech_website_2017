@@ -42,7 +42,7 @@ include $file_base."template_files/header.php";
               <p>There are 5 different types of questions that can be added to your survey. </p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
-              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Survey_QTypes.png" alt="Scheduling and Group Management">
             </div>
           </div>
       </div>

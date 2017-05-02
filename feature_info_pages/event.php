@@ -75,7 +75,7 @@ include $file_base."template_files/header.php";
               <p class="lead"> Creating events and shifts individually is typically a time consuming process in most systems. Skip this step by copying event details as well as uploading shifts from a spreadsheet.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
-              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Workforce Portals Platform">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Shift_Import.png" alt="Workforce Portals Platform">
             </div>
           </div>
       </div>
