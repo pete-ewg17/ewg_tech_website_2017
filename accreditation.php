@@ -160,7 +160,7 @@ include $file_base."template_files/header.php";
               <p class="lead">Request a free demo of Rosterfy Today.</p>
               
               <div class="button">
-               <a href="demo.html" class="btn btn-primary hvr-fade">Request a Demo</a>
+               <a href="demo" class="btn btn-primary hvr-fade">Request a Demo</a>
             </div>
             </div>
             <div class="col-md-6 text-center">
@@ -170,22 +170,6 @@ include $file_base."template_files/header.php";
       </div>
     </div><!-- END OF REQUEST A TRIAL-->        
 
-    <!--SOCIAL ICONS-->
-    <div class="banner">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12">
-                    <ul class="list-inline banner-social-buttons">
-                        <li class="social-button"> <a href="http://www.facebook.com/EventWorkforceGroup/" class="btn btn-default btn-lg hvr-radial-in"><i class="fa fa-facebook fa-fw"></i></a> </li>
-                        <li class="social-button"> <a href="http://twitter.com/_ewgroup" class="btn btn-default btn-lg hvr-radial-in"><i class="fa fa-twitter fa-fw"></i></a> </li>
-                        <li class="social-button"> <a href="http://www.instagram.com/eventworkforcegroup/" class="btn btn-default btn-lg hvr-radial-in"><i class="fa fa-instagram fa-fw"></i></a> </li>
-                        <li class="social-button"> <a href="http://www.linkedin.com/company/eventworkforcegroup" class="btn btn-default btn-lg hvr-radial-in"><i class="fa fa-linkedin fa-fw"></i></a> </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <!-- /.container -->
-    </div>
     <!-- /.banner -->
 <?php
 include $file_base."template_files/footer.php";
