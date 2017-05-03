@@ -27,7 +27,7 @@ include $file_base."template_files/header.php";
             <p class="tech-lead">Default questions are already built questions on Rosterfy that simply need to be toggled on to become available on registration form.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Registration Form" style="background-size:cover; background-repeat:none;">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Field_Setup.png" alt="Registration Form" style="background-size:cover; background-repeat:none;">
             </div>
           </div>
         </div>
@@ -57,7 +57,7 @@ include $file_base."template_files/header.php";
             <p class="tech-lead">Rosterfy holds a customizable page template for your Registration Terms & Conditions. This text displays at the bottom of the Registration Page, and is followed by a checkbox for the user to agree, before submitting their registration</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Enhanced Communication with Phone">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Rego_Terms.png" alt="Enhanced Communication with Phone">
             </div>
           </div>
         </div>
@@ -72,7 +72,7 @@ include $file_base."template_files/header.php";
               <p class="lead">Preiview your custom registration form at any time!</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
-              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Workforce Portals Platform">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Preview_Rego.png" alt="Workforce Portals Platform">
             </div>
           </div>
       </div>
@@ -87,7 +87,7 @@ include $file_base."template_files/header.php";
             <p class="tech-lead">Simply close your registration form which triggers your custom registration page closed text.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Enhanced Communication with Phone">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Preview_Rego.png" alt="Enhanced Communication with Phone">
             </div>
           </div>
         </div>

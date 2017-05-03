@@ -1,7 +1,7 @@
 <?php
 $file_base = "../";
 $title = "Check In Sheets";
-$desc = "Template Description";
+$desc = "Check In Sheets are a generated report showing each user for each shift at an event with columns for sign in and sign out.";
 include $file_base."template_files/header.php";
 
 ?>
@@ -12,7 +12,7 @@ include $file_base."template_files/header.php";
       <div class="row featurette">
         <div class="col-md-12 text-center" data-aos="fade-left" data-aos-once="true">
           <h2>Check In Sheets</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A praesentium aperiam reiciendis architecto illo porro ratione sint unde minima cum. Ratione pariatur cum, error esse dolore aliquid illum neque accusantium.</p>      
+          <p>Check In Sheets are a generated report showing each user for each shift at an event with columns for sign in and sign out.</p>      
         </div>
       </div>
     </div>
@@ -63,35 +63,7 @@ include $file_base."template_files/header.php";
         </div>
       </div>
       
-      <!--EDIT ME-->
-      <div class="content-section-a white">
-        <div class="container">
-          <div class="row featurette">
-            <div class="col-md-7" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
-              <h2>Lorem Ipsum</h2>
-              <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat impedit, perferendis dolorum at maxime! Doloremque dignissimos facilis voluptates fugiat repellat ea placeat voluptate laboriosam, id nisi, eveniet consectetur distinctio debitis!</p>
-            </div>
-            <div class="col-md-5" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
-              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Workforce Portals Platform">
-            </div>
-          </div>
-      </div>
-    </div>
-     
-     <!--EDIT ME--> 
-      <div class="content-section-b blue">
-       <div class="container">
-        <div class="row">
-          <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="500">
-            <h2 class="featurette-heading">Lorem Ipsum</h2> 
-            <p class="tech-lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem tempore exercitationem nesciunt harum maxime vel aspernatur ex, recusandae laboriosam est blanditiis aut, aliquid molestiae molestias consectetur ut nisi iste reprehenderit.</p>
-          </div>
-            <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="500">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Timesheets">
-            </div>
-          </div>
-        </div>
-  </div>
+      
       <!-- /END THE FEATURETTES -->
  <?php 
  include $file_base."template_files/footer.php";
