@@ -9,7 +9,7 @@ include $file_base."template_files/header.php";
   
    
    <!--HEADER EDIT ME-->
-  <div class="content-section-a white-top">
+  <div class="content-section-a white-top"  <?php if(isset($_GET['admin'])) { echo "style='padding-top:5em;'"; } ?>>
     <div class="container">
       <div class="row featurette">
         <div class="col-md-12 text-center" data-aos="fade-left" data-aos-once="true">
