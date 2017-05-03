@@ -72,7 +72,7 @@ $(function () {
             $.post(url, {
                 fields:f
             }, function (result) {
-                location.replace("thankyou.html");
+                location.replace("thankyou");
             });
             return false;
         }
