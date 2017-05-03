@@ -7,7 +7,7 @@
  */
 session_start();
 define("MANDRIL_KEY", "W0Q6BSAB9PjbhNmlQo1yQQ");
-include '../../plugin/mandril.php';
+include '../plugin/mandril.php';
 //include '../EWG-Rosterfy/lib/mandril.php';
 
 $fomr_type = "X";
