@@ -24,7 +24,7 @@ if(!isset($desc)) {
     <meta property="og:description" content="<?php echo $desc; ?>"/>
     <meta property="og:image" content="http://eventworkforcegroup.com/blog/wp-content/uploads/2016/11/EWG-Tech-Logo-FA-e1480399605987.png">
     <meta property="og:url" content="http://eventworkforcegroup.com<?php echo $url; ?>">
-    <title>EWG Technology | <?php echo $title; ?></title>
+    <title><?php echo $title; ?> | Event Workforce Group</title>
     <!-- Bootstrap Core CSS -->
     <link href="<?php echo $file_base; ?>css/bootstrap.css" rel="stylesheet">
     <!-- Custom CSS -->
