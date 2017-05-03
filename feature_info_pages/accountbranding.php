@@ -23,11 +23,11 @@ include $file_base."template_files/header.php";
        <div class="container">
         <div class="row">
           <div data-aos="fade-right" data-aos-once="true" class="col-md-7 col-md-push-5">
-            <h2 class="featurette-heading">Account Colors/h2>
+            <h2 class="featurette-heading">Account Colors</h2>
             <p class="tech-lead">Set an account and secondary account color used throughout your Rosterfy account.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Registration Form" style="background-size:cover; background-repeat:none;">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Account_Colors.png" alt="Registration Form" style="background-size:cover; background-repeat:none;">
             </div>
           </div>
         </div>
@@ -57,7 +57,7 @@ include $file_base."template_files/header.php";
             <p class="tech-lead">Upload your account wide logo which is shown on the login page and in the footer.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Enhanced Communication with Phone">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/images/iphone.png" alt="Enhanced Communication with Phone">
             </div>
           </div>
         </div>
@@ -72,7 +72,7 @@ include $file_base."template_files/header.php";
               <p class="lead">Set a static background image and a portal background image.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
-              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Workforce Portals Platform">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/images/MacBook-Rosterfy.png" alt="Workforce Portals Platform">
             </div>
           </div>
       </div>
