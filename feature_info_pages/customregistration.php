@@ -33,16 +33,16 @@ include $file_base."template_files/header.php";
         </div>
       </div>
       
-      <!--EDIT ME-->    
+       <!--EDIT ME-->
       <div class="content-section-a white">
         <div class="container">
           <div class="row featurette">
-            <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
-              <h2>Custom Questions</h2>
-              <p>Add multiple custom questions to your registration form using various questions types.</p>
+            <div class="col-md-7" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
+              <h2>Preview</h2>
+              <p class="lead">Preiview your custom registration form at any time!</p>
             </div>
-            <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
-              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
+            <div class="col-md-5" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Preview_Rego.png" alt="Workforce Portals Platform">
             </div>
           </div>
       </div>
@@ -63,36 +63,7 @@ include $file_base."template_files/header.php";
         </div>
       </div>
       
-      <!--EDIT ME-->
-      <div class="content-section-a white">
-        <div class="container">
-          <div class="row featurette">
-            <div class="col-md-7" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
-              <h2>Preview</h2>
-              <p class="lead">Preiview your custom registration form at any time!</p>
-            </div>
-            <div class="col-md-5" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
-              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Preview_Rego.png" alt="Workforce Portals Platform">
-            </div>
-          </div>
-      </div>
-    </div>
-
-      <!--EDIT ME-->
-      <div class="content-section-b blue">
-       <div class="container">
-        <div class="row">
-          <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
-            <h2 class="featurette-heading">Close Registration Form </h2>
-            <p class="tech-lead">Simply close your registration form which triggers your custom registration page closed text.</p>
-          </div>
-            <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
-            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Preview_Rego.png" alt="Enhanced Communication with Phone">
-            </div>
-          </div>
-        </div>
-      </div>
-      
+   
      
    
       <!-- /END THE FEATURETTES -->
