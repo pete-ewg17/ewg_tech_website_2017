@@ -66,20 +66,7 @@ include $file_base."template_files/header.php";
         </div>
       </div>
           
-          <!--EDIT ME-->    
-      <div class="content-section-a white">
-        <div class="container">
-          <div class="row featurette">
-            <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
-              <h2>Daily Paraphrases</h2>
-              <p>Use daily paraphrases...</p>
-            </div>
-            <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
-              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
-            </div>
-          </div>
-      </div>
-    </div>
+  
      
 
       <!-- /END THE FEATURETTES -->

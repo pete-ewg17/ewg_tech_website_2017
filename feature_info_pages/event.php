@@ -30,7 +30,7 @@ include $file_base."template_files/header.php";
             <p class="tech-lead"> Build your online position description. Create an event page with a range of specific information, including detailed position descriptions, location details and application open and closing dates. Get precise with our Google Maps integration to pinpoint exact meeting locations for your workforce.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Registration Form" style="background-size:cover; background-repeat:none;">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Add_Event.png" alt="Registration Form" style="background-size:cover; background-repeat:none;">
             </div>
           </div>
         </div>
@@ -60,7 +60,7 @@ include $file_base."template_files/header.php";
             <p class="tech-lead">Create and manage shift categories to break down shifts into different areas of the event, such as pre-event, event weekend, bar staff or medical staff. This makes your workforce sign up process simple and easy, maximising shift sign up numbers.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Enhanced Communication with Phone">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Shift_Categories.png" alt="Enhanced Communication with Phone">
             </div>
           </div>
         </div>

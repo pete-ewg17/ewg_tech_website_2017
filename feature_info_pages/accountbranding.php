@@ -42,7 +42,7 @@ include $file_base."template_files/header.php";
               <p>Choose a heading font and page content font or opt to upload your own.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
-              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Fonts1.png" alt="Scheduling and Group Management">
             </div>
           </div>
       </div>
