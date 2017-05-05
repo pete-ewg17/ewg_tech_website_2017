@@ -30,7 +30,7 @@ include $file_base."template_files/header.php";
             <p class="tech-lead">You control the branding images, colour schemes and email templates. This feature lets you publicly advertise event pages consistent with the branding requirements.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Registration Form" style="background-size:cover; background-repeat:none;">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Event_Series.png" alt="Registration Form" style="background-size:cover; background-repeat:none;">
             </div>
           </div>
         </div>
@@ -45,7 +45,7 @@ include $file_base."template_files/header.php";
               <p> Create specific emails to be sent for multiple event series. Update the the content, header and footer graphics to reflect the branding of the event series.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
-              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Email_Template.png" alt="Scheduling and Group Management">
             </div>
           </div>
       </div>
@@ -60,7 +60,7 @@ include $file_base."template_files/header.php";
             <p class="tech-lead"> Training Modules often need to be specific to an event type. This custom feature provides you with the ability to generate training material specific to any event series within your account.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Enhanced Communication with Phone">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Training _Portal.png" alt="Enhanced Communication with Phone">
             </div>
           </div>
         </div>
@@ -75,7 +75,7 @@ include $file_base."template_files/header.php";
               <p class="lead"> Setup a uniqie registration page and gather data from users registering based on a specific brand or event series. Recruit for multiple events types at the one time while keeping each event series seperate when your workforce register.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
-              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Workforce Portals Platform">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Preview_Rego.png" alt="Workforce Portals Platform">
             </div>
           </div>
       </div>
@@ -90,7 +90,7 @@ include $file_base."template_files/header.php";
             <p class="tech-lead"> Customize your post event certificates to be branded or event series specific. We know how much your workforce will love branded certificates post event! Helping to encourage them to come back for your next event.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="500">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Timesheets">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Certificate_Designer.png" alt="Timesheets">
             </div>
           </div>
         </div>

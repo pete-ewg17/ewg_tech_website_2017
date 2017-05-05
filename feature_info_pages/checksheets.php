@@ -23,8 +23,8 @@ include $file_base."template_files/header.php";
        <div class="container">
         <div class="row">
           <div data-aos="fade-right" data-aos-once="true" class="col-md-7 col-md-push-5">
-            <h2 class="featurette-heading">Lorem Ipsum</h2>
-            <p class="tech-lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos maxime voluptate repellendus sequi tempora cum, maiores mollitia, inventore, earum atque provident distinctio. Ex aspernatur quia velit dicta vitae molestiae quod.</p>
+            <h2 class="featurette-heading">Segment &amp; Filter </h2>
+            <p class="tech-lead">Segment by event or location and filter further using shift categories.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
             <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Registration Form" style="background-size:cover; background-repeat:none;">
@@ -38,11 +38,11 @@ include $file_base."template_files/header.php";
         <div class="container">
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
-              <h2>Lorem Ipsum</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere aperiam veritatis odio voluptate cum, excepturi blanditiis, quam amet ea laudantium est consectetur incidunt enim nihil maiores officia fugiat totam facilis?</p>
+              <h2>Fields</h2>
+              <p>Simply toggle on user, account, system, event and shift fields to appear in your check in sheet.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
-              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Multi_Reports.png" alt="Scheduling and Group Management">
             </div>
           </div>
       </div>
@@ -53,11 +53,11 @@ include $file_base."template_files/header.php";
        <div class="container">
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
-            <h2 class="featurette-heading">Lorem Ipsum</h2>
-            <p class="tech-lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat laboriosam saepe doloribus nisi delectus quibusdam nulla iste repellendus aut fuga laudantium minima voluptate labore ipsam eveniet, enim ipsum pariatur, sint!</p>
+            <h2 class="featurette-heading">Download &amp; Print</h2>
+            <p class="tech-lead">Simply dowload your check in sheets from your recent reports list and print ready for event site. </p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Enhanced Communication with Phone">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="http://placehold.it/600/500" alt="Enhanced Communication with Phone">
             </div>
           </div>
         </div>

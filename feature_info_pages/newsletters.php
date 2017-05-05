@@ -24,10 +24,10 @@ include $file_base."template_files/header.php";
         <div class="row">
           <div data-aos="fade-right" data-aos-once="true" class="col-md-7 col-md-push-5">
             <h2 class="featurette-heading">Direct Login</h2>
-            <p class="tech-lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos maxime voluptate repellendus sequi tempora cum, maiores mollitia, inventore, earum atque provident distinctio. Ex aspernatur quia velit dicta vitae molestiae quod.</p>
+            <p class="tech-lead">Use the Direct Login to open Campaign Monitor. EWG Technology are experts in working with Campaign Monitor and can assist you in setting up your newsletters.  </p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Registration Form" style="background-size:cover; background-repeat:none;">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Campaign_Monitor.png" alt="Registration Form" style="background-size:cover; background-repeat:none;">
             </div>
           </div>
         </div>
@@ -42,7 +42,7 @@ include $file_base."template_files/header.php";
               <p>The automcatic syncronization process happens a couple of times a day to make sure your mailing list is up to date</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
-              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/CM_Sync.png" alt="Scheduling and Group Management">
             </div>
           </div>
       </div>
@@ -53,7 +53,7 @@ include $file_base."template_files/header.php";
         <div class="row">
           <div data-aos="fade-right" data-aos-once="true" class="col-md-7 col-md-push-5">
             <h2 class="featurette-heading">Add Group</h2>
-            <p class="tech-lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos maxime voluptate repellendus sequi tempora cum, maiores mollitia, inventore, earum atque provident distinctio. Ex aspernatur quia velit dicta vitae molestiae quod.</p>
+            <p class="tech-lead">Create newsletter group based on your user groups within your database. </p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
             <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Registration Form" style="background-size:cover; background-repeat:none;">
