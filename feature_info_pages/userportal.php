@@ -12,7 +12,7 @@ include $file_base."template_files/header.php";
       <div class="row featurette">
         <div class="col-md-12 text-center" data-aos="fade-left" data-aos-once="true">
           <h2>User Portal</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A praesentium aperiam reiciendis architecto illo porro ratione sint unde minima cum. Ratione pariatur cum, error esse dolore aliquid illum neque accusantium.</p>      
+          <p>The user portal is the hub of all users’ involvement with your rosters, event information, news stories and personal details.</p>      
         </div>
       </div>
     </div>
@@ -24,14 +24,15 @@ include $file_base."template_files/header.php";
         <div class="row">
           <div data-aos="fade-right" data-aos-once="true" class="col-md-7 col-md-push-5">
             <h2 class="featurette-heading">My Roles</h2>
-            <p class="tech-lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos maxime voluptate repellendus sequi tempora cum, maiores mollitia, inventore, earum atque provident distinctio. Ex aspernatur quia velit dicta vitae molestiae quod.</p>
+            <p class="tech-lead">This is where users can view their upcoming event involvement.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Registration Form" style="background-size:cover; background-repeat:none;">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/User_Roles.png" alt="Registration Form" style="background-size:cover; background-repeat:none;">
             </div>
           </div>
         </div>
       </div>
+
       
       <!--EDIT ME-->    
       <div class="content-section-a white">
@@ -39,14 +40,15 @@ include $file_base."template_files/header.php";
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
               <h2>My Profile</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere aperiam veritatis odio voluptate cum, excepturi blanditiis, quam amet ea laudantium est consectetur incidunt enim nihil maiores officia fugiat totam facilis?</p>
-            </div>
+              <p>Users can edit and update their own personal information from the portal.</p>
+              </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
-              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/User_Profile.png" alt="Scheduling and Group Management">
             </div>
           </div>
       </div>
     </div>
+
       
       <!--EDIT ME-->
       <div class="content-section-b blue">
@@ -54,10 +56,10 @@ include $file_base."template_files/header.php";
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
             <h2 class="featurette-heading">Noticeboard</h2>
-            <p class="tech-lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat laboriosam saepe doloribus nisi delectus quibusdam nulla iste repellendus aut fuga laudantium minima voluptate labore ipsam eveniet, enim ipsum pariatur, sint!</p>
+            <p class="tech-lead">Training, images and downloadable documents will appear under the Noticeboard when set by the administrator.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Enhanced Communication with Phone">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/User_Notice.png" alt="Enhanced Communication with Phone">
             </div>
           </div>
         </div>
@@ -69,10 +71,10 @@ include $file_base."template_files/header.php";
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <h2>Upcoming Events</h2>
-              <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat impedit, perferendis dolorum at maxime! Doloremque dignissimos facilis voluptates fugiat repellat ea placeat voluptate laboriosam, id nisi, eveniet consectetur distinctio debitis!</p>
+              <p class="lead">A list of upcoming events that link to event summary pages. </p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
-              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Workforce Portals Platform">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/User_Event.png" alt="Workforce Portals Platform">
             </div>
           </div>
       </div>
@@ -84,10 +86,10 @@ include $file_base."template_files/header.php";
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="500">
             <h2 class="featurette-heading">History</h2> 
-            <p class="tech-lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem tempore exercitationem nesciunt harum maxime vel aspernatur ex, recusandae laboriosam est blanditiis aut, aliquid molestiae molestias consectetur ut nisi iste reprehenderit.</p>
+            <p class="tech-lead">My history tracks each user’s received email, SMS, completed events and applied events. </p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="500">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Timesheets">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/User_History.png" alt="Timesheets">
             </div>
           </div>
         </div>

@@ -57,7 +57,7 @@ include $file_base."template_files/header.php";
             <p class="tech-lead">Simply dowload your check in sheets from your recent reports list and print ready for event site. </p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
-            <img class="featurette-image no-shadow img-responsive img-rounded" src="http://placehold.it/600/500" alt="Enhanced Communication with Phone">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Shift_Import.png" alt="Enhanced Communication with Phone">
             </div>
           </div>
         </div>

@@ -54,7 +54,7 @@ include $file_base."template_files/header.php";
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
             <h2 class="featurette-heading">Recent Email Activity</h2>
-            <p class="tech-lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat laboriosam saepe doloribus nisi delectus quibusdam nulla iste repellendus aut fuga laudantium minima voluptate labore ipsam eveniet, enim ipsum pariatur, sint!</p>
+            <p class="tech-lead">Utlize Google Maps to view the latest email activity.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
             <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Email_History.png" alt="Enhanced Communication with Phone">
@@ -69,7 +69,7 @@ include $file_base."template_files/header.php";
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <h2>SMS Center</h2>
-              <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat impedit, perferendis dolorum at maxime! Doloremque dignissimos facilis voluptates fugiat repellat ea placeat voluptate laboriosam, id nisi, eveniet consectetur distinctio debitis!</p>
+              <p class="lead">Track SMS responses from your users.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/SMS_History.png" alt="Workforce Portals Platform">

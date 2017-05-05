@@ -27,10 +27,10 @@ include $file_base."template_files/header.php";
         <div class="row">
           <div data-aos="fade-right" data-aos-once="true" class="col-md-7 col-md-push-5">
             <h2 class="featurette-heading">Setup</h2>
-            <p class="tech-lead">Customize the height and width of your certificate and upload a background for the certificate. </p>
+            <p class="tech-lead">Customize your interview welcome script.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Registration Form" style="background-size:cover; background-repeat:none;">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Interview_Script.png" alt="Registration Form" style="background-size:cover; background-repeat:none;">
             </div>
           </div>
         </div>
@@ -45,7 +45,7 @@ include $file_base."template_files/header.php";
               <p>Preview your interview page which includes your script and questions. </p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
-              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Interview_Preview.png" alt="Scheduling and Group Management">
             </div>
           </div>
       </div>
@@ -57,10 +57,10 @@ include $file_base."template_files/header.php";
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
             <h2 class="featurette-heading">Completed</h2>
-            <p class="tech-lead">View a list of users who have completed their interview. </p>
+            <p class="tech-lead">Automatically collate a list of users who have completed their interview and view their responses. </p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Enhanced Communication with Phone">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Interview_Complete.png" alt="Enhanced Communication with Phone">
             </div>
           </div>
         </div>
