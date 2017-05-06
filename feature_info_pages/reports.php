@@ -2,7 +2,7 @@
 $file_base = "../";
 include $file_base."template_files/header.php";
 $title = "Reports";
-$desc = "Reports are a powerful feature of the Rosterfy system. The reporting page provides you with a summary of all key user functionality to quickly assess the progress of rosters, communications, training completion and timesheets";
+$desc = "Reports are a powerful feature of the Rosterfy system. The reporting page provides you with an excel summary of all key user functionality to quickly assess the progress of rosters, communication views, training completion, check in sheets plus many more...";
 include $file_base."template_files/header.php";
 
 ?>
@@ -16,7 +16,7 @@ include $file_base."template_files/header.php";
       <div class="row featurette">
         <div class="col-md-12 text-center" data-aos="fade-left" data-aos-once="true">
           <h2>Reports</h2>
-          <p>Reports are a powerful feature of the Rosterfy system. The reporting page provides you with a summary of all key user functionality to quickly assess the progress of rosters, communications, training completion and timesheets.</p>      
+          <p>Reports are a powerful feature of the Rosterfy system. The reporting page provides you with an excel summary of all key user functionality to quickly assess the progress of rosters, communication views, training completion, check in sheets plus many more...</p>      
         </div>
       </div>
     </div>
@@ -28,7 +28,7 @@ include $file_base."template_files/header.php";
         <div class="row">
           <div data-aos="fade-right" data-aos-once="true" class="col-md-7 col-md-push-5">
             <h2 class="featurette-heading">Multiple Report Types</h2>
-            <p class="tech-lead">Generate a wide range of report types with this upgrade. Here you can easily pull a report on database information, event sign ups, shift numbers and training completion. Get creative and toggle on the exact information you would like to pull. THe ultimate custom reports.</p>
+            <p class="tech-lead">You may need to pull additional reporting types during your event. This feature allows you to generate a wider range of report types for this purpose. You can easily pull a report on user database information, event sign ups, shift numbers and training completion. Get creative and toggle on the exact information you would like to view.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
             <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Multi_Reports.png" alt="Registration Form" style="background-size:cover; background-repeat:none;">

@@ -1,7 +1,7 @@
 <?php
 $file_base = "../";
-$title = "Leader Management";
-$desc = "Leader Management Description";
+$title = "Shift or Team Leader Management";
+$desc = "Sharing the responsibility for workforce management is a key part of a successful event. Within this feature, you can set both event wide or shift only leaders. With slightly different login permissions they can communicate, check in users and complete post event reports.";
 include $file_base."template_files/header.php";
 
 ?>
@@ -12,7 +12,7 @@ include $file_base."template_files/header.php";
       <div class="row featurette">
         <div class="col-md-12 text-center" data-aos="fade-left" data-aos-once="true">
           <h2>Team &amp; Shift Leader Management</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A praesentium aperiam reiciendis architecto illo porro ratione sint unde minima cum. Ratione pariatur cum, error esse dolore aliquid illum neque accusantium.</p>      
+          <p>Sharing the responsibility for workforce management is a key part of a successful event. Within this feature, you can set both event wide or shift only leaders. With slightly different login permissions they can communicate, check in users and complete post event reports.</p>      
         </div>
       </div>
     </div>
@@ -23,8 +23,8 @@ include $file_base."template_files/header.php";
        <div class="container">
         <div class="row">
           <div data-aos="fade-right" data-aos-once="true" class="col-md-7 col-md-push-5">
-            <h2 class="featurette-heading">Lorem Ipsum</h2>
-            <p class="tech-lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos maxime voluptate repellendus sequi tempora cum, maiores mollitia, inventore, earum atque provident distinctio. Ex aspernatur quia velit dicta vitae molestiae quod.</p>
+            <h2 class="featurette-heading">Event Team Leaders</h2>
+            <p class="tech-lead">When allocating users to an event, you can select a team leader. The team leader can then view all registered users and check them in onsite. Post event, the team leader can also send out a post event report and upload images for users to keep in their portal. </p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
             <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Registration Form" style="background-size:cover; background-repeat:none;">
@@ -38,8 +38,8 @@ include $file_base."template_files/header.php";
         <div class="container">
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
-              <h2>Lorem Ipsum</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere aperiam veritatis odio voluptate cum, excepturi blanditiis, quam amet ea laudantium est consectetur incidunt enim nihil maiores officia fugiat totam facilis?</p>
+              <h2>Shift Leaders</h2>
+              <p>Many events require the workforce to be spread across multiple locations without having to meet and check in at one location. Shift leader functionality allows you to allocate a leader to check in users within their shift no matter where they are located. This then provide the lead workforce management with visibility of shift check in numbers across the event. </p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
               <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
@@ -53,8 +53,8 @@ include $file_base."template_files/header.php";
        <div class="container">
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
-            <h2 class="featurette-heading">Lorem Ipsum</h2>
-            <p class="tech-lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat laboriosam saepe doloribus nisi delectus quibusdam nulla iste repellendus aut fuga laudantium minima voluptate labore ipsam eveniet, enim ipsum pariatur, sint!</p>
+            <h2 class="featurette-heading">Post Event Report</h2>
+            <p class="tech-lead">After each event, the team leader has the ability to confirm attendance, submit a paragraph thankyou their workforce and also upload images. This feature is a great way to send your thanks and also allows users to accumulate a list of event reports overtime.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
             <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Enhanced Communication with Phone">
@@ -68,8 +68,8 @@ include $file_base."template_files/header.php";
         <div class="container">
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
-              <h2>Lorem Ipsum</h2>
-              <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat impedit, perferendis dolorum at maxime! Doloremque dignissimos facilis voluptates fugiat repellat ea placeat voluptate laboriosam, id nisi, eveniet consectetur distinctio debitis!</p>
+              <h2>Certificates</h2>
+              <p class="lead">The workforce manager will still have the final approval of post event reports submitted by team leaders. Once sent, the post event certificate will automatically appear in the 'Completed Events' section of a Users portal to download to PDF format. Forget the days of sending individual certificates to users post event! </p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Workforce Portals Platform">
@@ -78,20 +78,7 @@ include $file_base."template_files/header.php";
       </div>
     </div>
      
-     <!--EDIT ME--> 
-      <div class="content-section-b blue">
-       <div class="container">
-        <div class="row">
-          <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="500">
-            <h2 class="featurette-heading">Lorem Ipsum</h2> 
-            <p class="tech-lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem tempore exercitationem nesciunt harum maxime vel aspernatur ex, recusandae laboriosam est blanditiis aut, aliquid molestiae molestias consectetur ut nisi iste reprehenderit.</p>
-          </div>
-            <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="500">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Timesheets">
-            </div>
-          </div>
-        </div>
-  </div>
+     
       <!-- /END THE FEATURETTES -->
  <?php 
  include $file_base."template_files/footer.php";

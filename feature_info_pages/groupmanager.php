@@ -1,6 +1,6 @@
 <?php
 $file_base = "../";
-$title = "Group Manager";
+$title = "Workforce Group Manager";
 $desc = "Groups Manager enables you to create and manage your user groups easily and effectively. Whether it be a charity group, corporate group or operational team, group manager gives you the ability to best manage your staff in groups";
 include $file_base."template_files/header.php";
 ?>
@@ -13,7 +13,7 @@ include $file_base."template_files/header.php";
     <div class="container">
       <div class="row featurette">
         <div class="col-md-12 text-center" data-aos="fade-left" data-aos-once="true">
-          <h2>Group Manager</h2>
+          <h2>Workforce Group Manager</h2>
           <p>Groups Manager enables you to create and manage your user groups easily and effectively. Whether it be a charity group, corporate group or operational team, group manager gives you the ability to best manage your staff in groups.</p>      
         </div>
       </div>
@@ -56,7 +56,7 @@ include $file_base."template_files/header.php";
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
             <h2 class="featurette-heading">Authenticated Member Lists</h2>
-            <p class="tech-lead">Dive deeper on the member lists to display further details about each individual. This will give you greater transparency on these members within the one page. Eg. See their work experience without needing to click into their profile.</p>
+            <p class="tech-lead">Dive deeper on the group member lists to display further details about each individual. This will give you greater transparency on these members within the one page. Eg. See their work experience without needing to click into their profile.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
             <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Group_Example.png" alt="Enhanced Communication with Phone">

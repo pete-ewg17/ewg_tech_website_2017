@@ -1,7 +1,7 @@
 <?php
 $file_base = "../";
 $title = "Email Communications";
-$desc = "Create email templates, track, manage and schedule your emails.";
+$desc = "We know communicating with your workforce is a critical step. 60% of time spent managing the workforce process is spent communicating details to your team. Use our integrated email functionality to easily create, send and track email opens. No more I didn't see the email excuses!";
 include $file_base."template_files/header.php";
 
 ?>
@@ -12,7 +12,7 @@ include $file_base."template_files/header.php";
       <div class="row featurette">
         <div class="col-md-12 text-center" data-aos="fade-left" data-aos-once="true">
           <h2>Email Communications</h2>
-          <p> Create email templates, track, manage and schedule your emails.</p>      
+          <p> We know communicating with your workforce is a critical step. 60% of time spent managing the workforce process is spent communicating details to your team. Use our integrated email functionality to easily create, send and track email opens. No more "I didn't see the email" excuses!</p>      
         </div>
       </div>
     </div>
@@ -24,7 +24,7 @@ include $file_base."template_files/header.php";
         <div class="row">
           <div data-aos="fade-right" data-aos-once="true" class="col-md-7 col-md-push-5">
             <h2 class="featurette-heading">Email History</h2>
-            <p class="tech-lead">Use the emails dashboard to view recentl emails and track read receipts.</p>
+            <p class="tech-lead">Use the emails dashboard to view recent email sends. This portal gives you the confidence that your email has reached its destination. You can track when, where and on what device it was read. Give yourself the peace of mind knowing your workforce is well informed and briefed before your event.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
             <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Email_History.png" alt="Registration Form" style="background-size:cover; background-repeat:none;">
@@ -38,8 +38,8 @@ include $file_base."template_files/header.php";
         <div class="container">
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
-              <h2>Email Templates</h2>
-              <p>Add content to existing email templates or simply add your own. Utilize our system mail merge tags to save time. </p>
+              <h2>Create Email Templates</h2>
+              <p>Within the workforce management process, we understand you typically need to re-use similar email types leading up to your event. Gone are the days of copy and pasting content, use our email templates to set standard content and use mergetags to include  specific details. </p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
               <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Email_Template.png" alt="Scheduling and Group Management">
@@ -53,8 +53,8 @@ include $file_base."template_files/header.php";
        <div class="container">
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
-            <h2 class="featurette-heading">Email Branding</h2>
-            <p class="tech-lead">Set the brand for all of your emails, including colour schemes, links, headers and footers</p>
+            <h2 class="featurette-heading">Email Look and Feel</h2>
+            <p class="tech-lead"> Set the brand for all of your emails, including colour schemes, links, headers and footers. Emails are built to be mobile compatible, so no matter what the device, your emails will always look professional.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
             <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Email_Branding.png" alt="Enhanced Communication with Phone">
@@ -69,7 +69,7 @@ include $file_base."template_files/header.php";
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <h2>Schedule Emails</h2>
-              <p class="lead">Schedule your emails ahead of time!</p>
+              <p class="lead">Schedule your sent emails ahead of time. It may be that you know that your team open emails at a certain time of the day. Give yourself the confidence that your email will be read by scheduling email sends either hours, days or months in advance.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Email_Schedule.png" alt="Enhanced Communication with Phone" alt="Workforce Portals Platform">

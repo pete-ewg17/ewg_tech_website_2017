@@ -1,7 +1,7 @@
 <?php
 $file_base = "../";
 $title = "Support";
-$desc = "Support Description";
+$desc = "Event Workforce Group Technology is more than just a technology solution. We want your event to be a success no matter what challenges you face. Make use of our various online support features and industry leading knowledge base at anytime. We are the workforce management experts and by your side every step of the way.";
 include $file_base."template_files/header.php";
 
 ?>

@@ -1,7 +1,7 @@
 <?php
 $file_base = "../";
 $title = "Check In Check Out";
-$desc = "Utilize our online or offline check in mode to keep clean and real-time records.";
+$desc = "Sick of paper check in sheets? Utilize our online or offline check in mode to keep clean and real-time records. This feature can be used across all device types to streamline the process on site. Permissions can also be altered to allow multiple admins to check in your workforce at the same time.";
 include $file_base."template_files/header.php";
 
 ?>
@@ -12,7 +12,7 @@ include $file_base."template_files/header.php";
       <div class="row featurette">
         <div class="col-md-12 text-center" data-aos="fade-left" data-aos-once="true">
           <h2>Online Check In &amp; Check Out Mode</h2>
-          <p>Utilize our online or offline check in mode to keep clean and real-time records.</p>      
+          <p>Sick of paper check in sheets? Utilize our online check in mode to keep clean and real-time records. This feature can be used across all device types to streamline the process on site. Permissions can also be altered to allow multiple admins to check in your workforce at the same time.</p>      
         </div>
       </div>
     </div>
@@ -24,7 +24,7 @@ include $file_base."template_files/header.php";
         <div class="row">
           <div data-aos="fade-right" data-aos-once="true" class="col-md-7 col-md-push-5">
             <h2 class="featurette-heading">Daily Check In</h2>
-            <p class="tech-lead">Use this shortcut to view and check in all your shifts for the current day. Simply select the event group and check your users in and out.</p>
+            <p class="tech-lead">Use this shortcut to view and check in all your shifts for the current day. Keeping the check in process as simple as possible is critical, therefore limiting shifts viewable to your admins for that day is a huge advantage.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
             <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Checkin_Daily.png" alt="Registration Form" style="background-size:cover; background-repeat:none;">
@@ -38,8 +38,8 @@ include $file_base."template_files/header.php";
         <div class="container">
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
-              <h2>Check In Event</h2>
-              <p>This feature can be utilised on various devices when connected to the internet, to physically check in volunteers as they arrive at the event site.</p>
+              <h2>Search Users</h2>
+              <p>The workforce check in process can be hectic, trust us, we know! We have therefore built features to steamline this process. Searching by User name is the most effective way to quickly check in and view shift information per user. </p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
               <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Checkin_Event.png" alt="Scheduling and Group Management">
@@ -53,8 +53,8 @@ include $file_base."template_files/header.php";
        <div class="container">
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
-            <h2 class="featurette-heading">Check In Shift</h2>
-            <p class="tech-lead">Make check in and out easier by filtering each shift. </p>
+            <h2 class="featurette-heading">Check In By Shift</h2>
+            <p class="tech-lead">Should your workforce number be smaller, you can also check in users by shift view. Note the start times, break times and finish times are recorded. This allows you to keep track of volunteer hours and also for paid staff timesheet purposes. </p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
             <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Checkin_Shift.png" alt="Enhanced Communication with Phone">
