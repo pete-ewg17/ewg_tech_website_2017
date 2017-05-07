@@ -69,7 +69,7 @@ include $file_base."template_files/header.php";
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <h2>Schedule Emails</h2>
-              <p class="lead">Schedule your sent emails ahead of time. It may be that you know that your team open emails at a certain time of the day. Give yourself the confidence that your email will be read by scheduling email sends either hours, days or months in advance.</p>
+              <p>Schedule your sent emails ahead of time. It may be that you know that your team open emails at a certain time of the day. Give yourself the confidence that your email will be read by scheduling email sends either hours, days or months in advance.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Email_Schedule.png" alt="Enhanced Communication with Phone" alt="Workforce Portals Platform">

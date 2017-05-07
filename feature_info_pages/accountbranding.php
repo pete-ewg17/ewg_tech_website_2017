@@ -69,7 +69,7 @@ include $file_base."template_files/header.php";
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <h2>Background Images</h2>
-              <p class="lead">Set a static background image and a portal background image. These can be set on the registration form, end user portal page and event page. Get creative and make your portal stand out!</p>
+              <p>Set a static background image and a portal background image. These can be set on the registration form, end user portal page and event page. Get creative and make your portal stand out!</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/images/MacBook-Rosterfy.png" alt="Workforce Portals Platform">

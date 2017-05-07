@@ -69,7 +69,7 @@ include $file_base."template_files/header.php";
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <h2>SMS Center</h2>
-              <p class="lead">Track SMS responses from your users with ease. Make sure you don't miss important messages with this quick view feature.</p>
+              <p>Track SMS responses from your users with ease. Make sure you don't miss important messages with this quick view feature.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/SMS_History.png" alt="Workforce Portals Platform">
