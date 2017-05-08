@@ -27,7 +27,7 @@ include $file_base."template_files/header.php";
             <p class="tech-lead">Use this shortcut to view and check in all your shifts for the current day. Keeping the check in process as simple as possible is critical, therefore limiting shifts viewable to your admins for that day is a huge advantage.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
-            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Checkin_Daily.png" alt="Registration Form" style="background-size:cover; background-repeat:none;">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Checkin_Daily1.png" alt="Registration Form" style="background-size:cover; background-repeat:none;">
             </div>
           </div>
         </div>

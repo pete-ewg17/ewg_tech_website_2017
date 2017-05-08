@@ -53,7 +53,7 @@ include $file_base."template_files/header.php";
        <div class="container">
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
-            <h2 class="featurette-heading">Email Look and Feel</h2>
+            <h2 class="featurette-heading">Email Look &amp; Feel</h2>
             <p class="tech-lead"> Set the brand for all of your emails, including colour schemes, links, headers and footers. Emails are built to be mobile compatible, so no matter what the device, your emails will always look professional.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">

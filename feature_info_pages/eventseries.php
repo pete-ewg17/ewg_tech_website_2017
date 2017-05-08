@@ -30,7 +30,7 @@ include $file_base."template_files/header.php";
             <p class="tech-lead">You control the branding images, colour schemes and email templates. This feature lets you publicly advertise event pages consistent with the branding requirements.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
-            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Event_Series.png" alt="Registration Form" style="background-size:cover; background-repeat:none;">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Event_Series1.png" alt="Registration Form" style="background-size:cover; background-repeat:none;">
             </div>
           </div>
         </div>

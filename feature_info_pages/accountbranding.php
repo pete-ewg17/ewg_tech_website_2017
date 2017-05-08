@@ -41,8 +41,8 @@ include $file_base."template_files/header.php";
               <h2>Fonts</h2>
               <p> Can you believe it! You can even choose and edit your account wide font. This unique feature is unprarelled by other systems. We want you to be proud of how your account looks (and reads!).</p>
             </div>
-            <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
-              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Fonts1.png" alt="Scheduling and Group Management">
+            <div class="col-md-5" data-aos="fade-left" data-aos-once="true" style="text-align: center;">
+              <img class="featurette-image no-shadow img-responsive fixed-size img-rounded" src="../assets/feature_info_images/Fonts1.png" style= "margin-top: 50px" style="margin-bottom: 30px" alt="Scheduling and Group Management" >
             </div>
           </div>
       </div>

@@ -1,4 +1,4 @@
-<?php
+ <?php
 $file_base = "../";
 $title = "Check In Sheets";
 $desc = "This is our Base package offering to make your Workforce check in process more efficient. Rosterfy generated check in sheets allows you to easily create and print Excel sheets to help with on site check in. Our Premium and Enterprise package offer 'online' check in mode to further streamline this process significantly.";
@@ -54,7 +54,7 @@ include $file_base."template_files/header.php";
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
             <h2 class="featurette-heading">Download &amp; Print</h2>
-            <p class="tech-lead">Simply dowload your Excel file check in sheets from your recent reports list and print ready to take onsite. At any time you can update the check in sheets to ensure all recent sign ups are included.</p>
+            <p class="tech-lead">Simply dowload your Excel file check in sheets from your recent reports list and print ready to take on site. At any time you can update the check in sheets to ensure all recent sign ups are included.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
             <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Shift_Import.png" alt="Enhanced Communication with Phone">

@@ -592,6 +592,13 @@
 
     }
 
+    .featurette-image.fixed-size{
+        height:250px;
+        display:inline;
+
+
+    }
+
     .section-heading  {
         margin-top: 2em;
         margin-bottom: 2em;

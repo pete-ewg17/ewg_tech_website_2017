@@ -27,7 +27,7 @@ include $file_base."template_files/header.php";
             <p class="tech-lead">When allocating users to an event, you can select a team leader. The team leader can then view all registered users and check them in onsite. Post event, the team leader can also send out a post event report and upload images for users to keep in their portal. </p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Registration Form" style="background-size:cover; background-repeat:none;">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Checkin_Event.png" alt="Registration Form" style="background-size:cover; background-repeat:none;">
             </div>
           </div>
         </div>
@@ -42,7 +42,7 @@ include $file_base."template_files/header.php";
               <p>Many events require the workforce to be spread across multiple locations without having to meet and check in at one location. Shift leader functionality allows you to allocate a leader to check in users within their shift no matter where they are located. This then provide the lead workforce management with visibility of shift check in numbers across the event. </p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
-              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Scheduling and Group Management">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Shift_Leader.png" alt="Scheduling and Group Management">
             </div>
           </div>
       </div>
@@ -54,10 +54,10 @@ include $file_base."template_files/header.php";
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
             <h2 class="featurette-heading">Post Event Report</h2>
-            <p class="tech-lead">After each event, the team leader has the ability to confirm attendance, submit a paragraph thankyou their workforce and also upload images. This feature is a great way to send your thanks and also allows users to accumulate a list of event reports overtime.</p>
+            <p class="tech-lead">After each event, the team leader has the ability to confirm attendance, submit a paragraph thank you their workforce and also upload images. This feature is a great way to send your thanks and also allows users to accumulate a list of event reports overtime.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Enhanced Communication with Phone">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Leader_Feedback.png" alt="Enhanced Communication with Phone">
             </div>
           </div>
         </div>
@@ -69,10 +69,10 @@ include $file_base."template_files/header.php";
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <h2>Certificates</h2>
-              <p class="lead">The workforce manager will still have the final approval of post event reports submitted by team leaders. Once sent, the post event certificate will automatically appear in the 'Completed Events' section of a Users portal to download to PDF format. Forget the days of sending individual certificates to users post event! </p>
+              <p>The workforce manager will still have the final approval of post event reports submitted by team leaders. Once sent, the post event certificate will automatically appear in the 'Completed Events' section of a Users portal to download to PDF format. Forget the days of sending individual certificates to users post event! </p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
-              <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Workforce Portals Platform">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Certificate_Preview.png" alt="Workforce Portals Platform">
             </div>
           </div>
       </div>

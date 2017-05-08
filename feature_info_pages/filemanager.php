@@ -42,7 +42,7 @@ include $file_base."template_files/header.php";
               <p>Images are a great way to bring your account to life. The image library lets you upload images to your account so you can later add these to emails, news stories and event pages.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
-              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/File_Image.png" alt="Scheduling and Group Management">
+              <img class="featurette-image no-shadow fixed-size img-responsive img-rounded" src="../assets/feature_info_images/File_Image.png" style="margin-top: 30px" alt="Scheduling and Group Management">
             </div>
           </div>
       </div>
