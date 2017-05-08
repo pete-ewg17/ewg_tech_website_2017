@@ -111,7 +111,7 @@ include $file_base."template_files/header.php";
                <div class="col-md-8 col-md-offset-2 thumb-header text-center">
                    <h1>How can we help you?</h1>
                       <br>
-                       <p>Learn more about our three core offerings. <br><a href="rosterfy.html">Rosterfy</a>, <a href="accreditation.html">Accreditation</a> &amp; <a href="training.html">Training</a>.</p>
+                       <p>Learn more about our three core offerings. <br><a href="rosterfy.php">Rosterfy</a>, <a href="accreditation.php">Accreditation</a> &amp; <a href="training.php">Training</a>.</p>
                </div>
            </div>
     <div class="thumbs">
@@ -124,7 +124,7 @@ include $file_base."template_files/header.php";
                             <h3 class="head-acad">Rosterfy</h3>
                             <br>
                             <p>A global-leading, digital workforce management platform, enabling event organisers to employ a fully integrated scheduling software for their entire workforce from paid staff to volunteers.</p>
-                            <p><a href="rosterfy.html" class="btn btn-primary btn-learn hvr-fade" role="button">Learn More</a></p>
+                            <p><a href="rosterfy.php" class="btn btn-primary btn-learn hvr-fade" role="button">Learn More</a></p>
                         </div>
                     </div>
                 </div>
@@ -136,7 +136,7 @@ include $file_base."template_files/header.php";
                                     <h3 class="head-acad">Accreditation</h3>
                                     <br>
                                     <p>A one stop shop platform for event organisers to set access areas, create custom accreditation badges and design and print physical passes for both your workforce and wider event stakeholder groups.</p>
-                                    <p><a href="accreditation.html" class="btn btn-primary btn-learn hvr-fade" role="button">Learn More</a></p>
+                                    <p><a href="accreditation.php" class="btn btn-primary btn-learn hvr-fade" role="button">Learn More</a></p>
                                 </div>
                             </div>
                         </div>   
@@ -148,7 +148,7 @@ include $file_base."template_files/header.php";
                             <div class="caption">
                                 <h3 class="head-acad">Training</h3>
                                 <p>Our intuitive platform, let’s event organisers create training, OH&amp;S content &amp; quizzes to share with the workforce and participants. Upon completion pull custom reports to share with your team.</p>
-                                <p><a href="training.html" class="btn btn-primary btn-learn hvr-fade" role="button">Learn More</a></p>
+                                <p><a href="training.php" class="btn btn-primary btn-learn hvr-fade" role="button">Learn More</a></p>
                             </div>
                         </div>
                     </div>      

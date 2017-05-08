@@ -74,12 +74,12 @@
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button>
-                <a class="navbar-brand topnav" href="index.html"><img class="logo" src="assets/ewg_tech_Logo.svg" alt="EWG Tech Logo"></a>
+                <a class="navbar-brand topnav" href="index.php"><img class="logo" src="assets/ewg_tech_Logo.svg" alt="EWG Tech Logo"></a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="hvr-underline-from-center"> <a href="index.html">Home</a> </li>
+                    <li class="hvr-underline-from-center"> <a href="index.php">Home</a> </li>
                     
                     
                        <!--DROP DOWN NAV-->
@@ -87,12 +87,12 @@
                           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">What We Do<span class="caret"></span></a>
 
                            <ul class="dropdown-menu">
-                            <li><a href="rosterfy.html">Rosterfy</a></li>
-                            <li><a href="accreditation.html">Accreditation</a></li>
-                            <li><a href="training.html">Training</a></li>
+                            <li><a href="rosterfy.php">Rosterfy</a></li>
+                            <li><a href="accreditation.php">Accreditation</a></li>
+                            <li><a href="training.php">Training</a></li>
                             </ul>
                         </li>    
-                    <li><a class="" href="demo.html"><span class="text-info">Request Demo</span></a></li>
+                    <li><a class="" href="demo.php"><span class="text-info">Request Demo</span></a></li>
                     </ul>
             </div><!-- /.navbar-collapse -->
         </div><!-- /.container -->

@@ -14,8 +14,8 @@ include $file_base."template_files/header.php";
           <h2>Accreditation</h2>
           <p>Our flexible accreditation platform meets the growing demands of events both big and small.</p>
             <div class="button">
-              <a href="demo.html" class="btn btn-primary hvr-fade">Request Demo</a>
-              <a href="#learnMore" class="learn-more"> Learn More <i class="fa fa-chevron-down"> </i></a> 
+              <a href="demo.php" class="btn btn-primary hvr-fade">Request Demo</a>
+              	<a href="#learnMore" class="learn-more"> Learn More <i class="fa fa-chevron-down"> </i></a> 
             </div>        
         </div>
         
