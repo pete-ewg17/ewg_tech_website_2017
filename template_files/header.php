@@ -99,8 +99,14 @@ src="https://www.facebook.com/tr?id=114806989013061&ev=PageView&noscript=1"
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="hvr-underline-from-center"> <a href="<?php echo $file_base; ?>index">Home</a> </li>
-                    
+                     <li class="dropdown">
+                          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home<span class="caret"></span></a>
+
+                           <ul class="dropdown-menu">
+                             <li><a href="<?php echo $file_base; ?>index">Home</a></li>
+                            <li><a href="http://eventworkforcegroup.com/">EWG Group</a></li>
+            </ul>
+                    <li> <a href="pricing.php">Pricing</a></li>
                     
                        <!--DROP DOWN NAV-->
                         <li class="dropdown">
