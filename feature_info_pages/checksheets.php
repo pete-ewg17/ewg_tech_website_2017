@@ -27,7 +27,7 @@ include $file_base."template_files/header.php";
             <p class="tech-lead">Depending on the size of your event and workforce, you can segment the user check in list by event name or location and filter this further using shift categories.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
-            <img class="featurette-image img-responsive img-rounded" src="http://placehold.it/600/500" alt="Registration Form" style="background-size:cover; background-repeat:none;">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Segment_Filter.png" alt="Registration Form" style="background-size:cover; background-repeat:none; height: 300px; margin-left: 40px;">
             </div>
           </div>
         </div>
