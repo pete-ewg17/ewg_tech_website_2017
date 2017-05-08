@@ -60,7 +60,7 @@ include $file_base."template_files/header.php";
             <p class="tech-lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat laboriosam saepe doloribus nisi delectus quibusdam nulla iste repellendus aut fuga laudantium minima voluptate labore ipsam eveniet, enim ipsum pariatur, sint!</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
-            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Checkpoint_Types.png" alt="Enhanced Communication with Phone">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Checkpoint_Types1.png" alt="Enhanced Communication with Phone">
             </div>
           </div>
         </div>
