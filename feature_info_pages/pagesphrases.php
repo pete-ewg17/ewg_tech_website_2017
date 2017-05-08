@@ -45,7 +45,7 @@ include $file_base."template_files/header.php";
               <p> Add additional menu items to your user portal navigation menu. As your workforce grows you may want to offer additional pages to share information, utilise this feature to make this possible.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
-              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/TM_Menus.png" alt="Scheduling and Group Management">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/TM_Menus1.png" alt="Scheduling and Group Management">
             </div>
           </div>
       </div>
