@@ -106,7 +106,7 @@ src="https://www.facebook.com/tr?id=114806989013061&ev=PageView&noscript=1"
                              <li><a href="<?php echo $file_base; ?>index">Home</a></li>
                             <li><a href="http://eventworkforcegroup.com/">EWG Group</a></li>
             </ul>
-                    <li> <a href="pricing.php">Pricing</a></li>
+                    <li> <a href="<?php echo $file_base; ?>>pricing">Pricing</a></li>
                     
                        <!--DROP DOWN NAV-->
                         <li class="dropdown">
