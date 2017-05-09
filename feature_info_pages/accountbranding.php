@@ -12,7 +12,7 @@ include $file_base."template_files/header.php";
       <div class="row featurette">
         <div class="col-md-12 text-center" data-aos="fade-left" data-aos-once="true">
           <h2>Account Branding</h2>
-          <p> We know your proud of your event and brand. Use our custom branding settings to set the overall look and feel of your account. This section is very customizable, so we recommend taking the time to utilize the range of features at your fingertips. Whether it be your logo, background images or map icons take full ownership of your portal and how it looks to your workforce. Get creative!</p>      
+          <p> We know you're proud of your event and brand. Use our custom branding settings to set the overall look and feel of your account. This section is very customizable, so we recommend taking the time to utilize the range of features at your fingertips. Whether it be your logo, background images or map icons take full ownership of your portal and how it looks to your workforce. Get creative!</p>      
         </div>
       </div>
     </div>

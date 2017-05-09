@@ -12,7 +12,7 @@ include $file_base."template_files/header.php";
       <div class="row featurette">
         <div class="col-md-12 text-center" data-aos="fade-left" data-aos-once="true">
           <h2>Custom Registration Form</h2>
-          <p>The first step to building your workforce is the registration process. Build your registration form on Rosterfy and simply embed the link on your website in minutes. With our custom question feature, you can add, remove or re-order questions anytime. Don't lose an important team member due to an old, cumborsome form any more!" </p>  
+          <p>The first step to building your workforce is the registration process. Build your registration form on Rosterfy and simply embed the link on your website in minutes. With our custom question feature you can add, remove or re-order questions anytime. Don't lose an important team member due to an old, cumbersome form any more!" </p>  
         </div>
       </div>
     </div>
@@ -54,7 +54,7 @@ include $file_base."template_files/header.php";
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
             <h2 class="featurette-heading">Registration Terms &amp; Conditions</h2>
-            <p class="tech-lead">Rosterfy allready stores a customizable page template for your Registration Terms and Conditions. This text displays at the bottom of the Registration Page, and is followed by a checkbox for the user to agree, before submitting their registration. Sleep easy knowing your workforce liability terms have been agreed to.</p>
+            <p class="tech-lead">Rosterfy already stores a customizable page template for your Registration Terms and Conditions. This text displays at the bottom of the Registration Page, and is followed by a checkbox for the user to agree, before submitting their registration. Sleep easy knowing your workforce liability terms have been agreed to.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
             <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Rego_Terms.png" alt="Enhanced Communication with Phone">

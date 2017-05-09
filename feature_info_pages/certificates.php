@@ -26,7 +26,7 @@ include $file_base."template_files/header.php";
        <div class="container">
         <div class="row">
           <div data-aos="fade-right" data-aos-once="true" class="col-md-7 col-md-push-5">
-            <h2 class="featurette-heading">Customize and Design</h2>
+            <h2 class="featurette-heading">Customize &amp; Design</h2>
             <p class="tech-lead">Customize the height and width of your certificate. Upload a background image to stay on brand and get creative.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
