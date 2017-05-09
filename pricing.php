@@ -122,7 +122,11 @@ include $file_base."template_files/header.php";
             <li class="list-group-item"><a href="feature_info_pages/groupmanager.php" target="_blank"><i class="fa fa-check"></i> Group Manager</a></li>
             <li class="list-group-item"><a href="feature_info_pages/checkmode.php" target="_blank"><i class="fa fa-check"></i> Check In and Check Out Mode</a></li>
             <li class="list-group-item"><a href="feature_info_pages/newsletters.php" target="_blank"><i class="fa fa-check"></i> Campaign Emails (Newsletters)*</a></li>
+<<<<<<< HEAD
             <li class="list-group-item"><a href="http://eventworkforcegroup.com/technology/feature_info_pages/sms.php"><i class="fa fa-check"></i> SMS Communications*</a></li>
+=======
+            <li class="list-group-item"><a href="feature_info_pages/sms.php"><i class="fa fa-check"></i> SMS Communications*</a></li>
+>>>>>>> origin/master
             <li class="list-group-item"><a href="feature_info_pages/leadermanagement.php"><i class="fa fa-check"></i> Team/Shift Leader Management</a></li>
             
             <li class="list-group-item-3"></li>
@@ -154,14 +158,14 @@ include $file_base."template_files/header.php";
           </div>
           <ul class="list-group text-center">
             <li class="list-group-item first-item"><i class="fa fa-check"></i> Premium +</li>
-            <li class="list-group-item"><a href="http://eventworkforcegroup.com/technology/feature_info_pages/support.php" target="_blank"><i class="fa fa-check"></i> 24/7 Support</a></li>
+            <li class="list-group-item"><a href="feature_info_pages/support.php" target="_blank"><i class="fa fa-check"></i> 24/7 Support</a></li>
             <li class="list-group-item"><a href="#" target="_blank"><i class="fa fa-check"></i> Paid Staff Management Functionality</a></li> 
-            <li class="list-group-item"><a href="http://eventworkforcegroup.com/technology/feature_info_pages/reports.php" target="_blank"><i class="fa fa-check"></i> Customised Reporting</a></li>
+            <li class="list-group-item"><a href="feature_info_pages/reports.php" target="_blank"><i class="fa fa-check"></i> Customised Reporting</a></li>
             <li class="list-group-item"><a href="#" target="_blank"><i class="fa fa-check"></i> Rosterythm Shift Allocations</a></li>
-            <li class="list-group-item"><a href="http://eventworkforcegroup.com/technology/feature_info_pages/trainingmanager.php" target="_blank"><i class="fa fa-check"></i>Training Modules</a></li>
-            <li class="list-group-item"><a href="http://eventworkforcegroup.com/technology/feature_info_pages/eventseries.php" target="_blank"><i class="fa fa-check"></i>Event Series Branding</a></li>
-            <li class="list-group-item"><a href="http://eventworkforcegroup.com/technology/feature_info_pages/surveys.php" target="_blank"><i class="fa fa-check"></i>Survey Manager</a></li>
-            <li class="list-group-item"><a href="http://eventworkforcegroup.com/technology/feature_info_pages/interview.php" target="_blank"><i class="fa fa-check"></i>Interview Platform</a></li>
+            <li class="list-group-item"><a href="feature_info_pages/trainingmanager.php" target="_blank"><i class="fa fa-check"></i>Training Modules</a></li>
+            <li class="list-group-item"><a href="feature_info_pages/eventseries.php" target="_blank"><i class="fa fa-check"></i>Event Series Branding</a></li>
+            <li class="list-group-item"><a href="feature_info_pages/surveys.php" target="_blank"><i class="fa fa-check"></i>Survey Manager</a></li>
+            <li class="list-group-item"><a href="feature_info_pages/interview.php" target="_blank"><i class="fa fa-check"></i>Interview Platform</a></li>
           </ul>
            <div class="border-bottom"></div>
         </div>
