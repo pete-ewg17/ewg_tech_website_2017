@@ -27,7 +27,7 @@ include $file_base."template_files/header.php";
             <p class="tech-lead"> We have seen it all before and therefore cater for a wide range of file types. Files can be any of the following: doc, docx, xls, xlsx, pdf, ppt, jpg, JPG, jpeg, png, gif, up to 4MB.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
-            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/File_Manager4.png" style="background-size:cover;">
+            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/FIle_Manager4.png" style="background-size:cover;">
             </div>
           </div>
         </div>
