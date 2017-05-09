@@ -71,7 +71,7 @@ include $file_base."template_files/header.php";
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <h2>Upcoming Events or Roles Section</h2>
-              <p> This setion is the core of the user portal. The upcoming opportunities section lets your users view opportunities to apply for. No longer do you need to recruit one event at a time, let your workforce apply for your next 12 months of events at once if you so desire. Talk about maximum recruiting power! </p>
+              <p> This section is the core of the user portal. The upcoming opportunities section lets your users view opportunities to apply for. No longer do you need to recruit one event at a time, let your workforce apply for your next 12 months of events at once if you so desire. Talk about maximum recruiting power! </p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/User_Event1.png" alt="Workforce Portals Platform">

@@ -39,7 +39,7 @@ include $file_base."template_files/header.php";
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <h2> Registration Form Preview</h2>
-              <p class="lead">Preview your custom registration form at any time! Be sure you are happy with the branding and look and feel plus the order of your questions before pushing them live.</p>
+              <p> Preview your custom registration form at any time! Be sure you are happy with the branding and look and feel plus the order of your questions before pushing them live.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Preview_Rego.png" alt="Workforce Portals Platform">
