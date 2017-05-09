@@ -35,7 +35,7 @@ include $file_base."template_files/header.php";
            
           </div>
           <div class="panel-footer">
-            <a class="btn btn-lg btn-block btn-primary pricing_button" data-plan="free" href="#">Get Started</a>
+            <a class="btn btn-lg btn-block btn-primary pricing_button" data-plan="free" href="http://eventworkforcegroup.com/technology/demo">Get Started</a>
           </div>
           <div class="panel-body-a text-center">
             <p class="lead text-muted small" style="padding-top: 12px; color: #555; font-size: 12px;">For organisations wanting to build a workforce database but not yet scheduling for events.</p>
@@ -44,11 +44,11 @@ include $file_base."template_files/header.php";
           </div>
           <ul class="list-group text-center">
             <li class="list-group-item"><i class="fa fa-check"></i> 1 Admin</li>
-            <li class="list-group-item"><a href="http://www.eventworkforcegroup.com/technology/support.php" target="_blank"> <i class="fa fa-check"></i>Online Support </a></li>
-            <li class="list-group-item"><a href="http://www.eventworkforcegroup.com/technology/customregistration.php" target="_blank"> <i class="fa fa-check"></i>Custom Registration Form </a></li>   
-            <li class="list-group-item"><a href="http://www.eventworkforcegroup.com/technology/emails.php" target="_blank"><i class="fa fa-check"></i> Email Communications</a></li>
-            <li class="list-group-item"><a href="http://www.eventworkforcegroup.com/technology/accountbranding.php" target="_blank"> <i class="fa fa-check"></i>Custom Account Branding</a></li>
-            <li class="list-group-item"><a href="http://www.eventworkforcegroup.com/technology/userportal.php" target="_blank"><i class="fa fa-check"></i> Workforce Portals</a></li>
+            <li class="list-group-item"><a href="feature_info_pages/support.php" target="_blank"> <i class="fa fa-check"></i>Online Support </a></li>
+            <li class="list-group-item"><a href="feature_info_pages/customregistration.php" target="_blank"> <i class="fa fa-check"></i>Custom Registration Form </a></li>   
+            <li class="list-group-item"><a href="feature_info_pages/emails.php" target="_blank"><i class="fa fa-check"></i> Email Communications</a></li>
+            <li class="list-group-item"><a href="feature_info_pages/accountbranding.php" target="_blank"> <i class="fa fa-check"></i>Custom Account Branding</a></li>
+            <li class="list-group-item"><a href="feature_info_pages/userportal.php" target="_blank"><i class="fa fa-check"></i> Workforce Portals</a></li>
             <li class="list-group-item-1"></li>
            
            
@@ -73,7 +73,7 @@ include $file_base."template_files/header.php";
             <p><strong>$99 per month</strong></p>
           </div>
           <div class="panel-footer">
-            <a class="btn btn-lg btn-block btn-primary pricing_button" data-plan="base" href="#" target="_blank">Get Started</a>
+            <a class="btn btn-lg btn-block btn-primary pricing_button" data-plan="base" href="http://eventworkforcegroup.com/technology/demo" target="_blank">Get Started</a>
           </div>
           <div class="panel-body-a text-center">
             <p class="lead text-muted small" style="padding-top: 11px; color: #555; font-size: 12px;">Grass Roots Organisations with a small volunteer workforce (0-300) ready to begin scheduling.</p><br />
@@ -81,13 +81,12 @@ include $file_base."template_files/header.php";
           </div>
           <ul class="list-group text-center">
             <li class="list-group-item first-item"><i class="fa fa-check"></i> Starter + </li>
-<br>
-            <li class="list-group-item"><a href="http://www.eventworkforcegroup.com/technology/event.php" target="_blank"><i class="fa fa-check"></i> Roster Your Events </a></li>
-            <li class="list-group-item"><a href="http://www.eventworkforcegroup.com/technology/reports.php" target="_blank"><i class="fa fa-check"></i> Powerful Workforce Reporting </a></li>
-            <li class="list-group-item"><a href="http://www.eventworkforcegroup.com/technology/filemanager.php" target="_blank"><i class="fa fa-check"></i> File Manager</a></li>
-            <li class="list-group-item"><a href="http://www.eventworkforcegroup.com/technology/pagesphrases.php" target="_blank"><i class="fa fa-check"></i> Custom Phrases</a></li>
-            <li class="list-group-item"><a href="http://www.eventworkforcegroup.com/technology/checksheets.php" target="_blank"><i class="fa fa-check"></i> Check In Sheets</a></li>
-            <li class="list-group-item"><a href="http://www.eventworkforcegroup.com/technology/certificates.php" target="_blank"><i class="fa fa-check"></i> Workforce Certificate Creator</a></li>
+            <li class="list-group-item"><a href="feature_info_pages/event.php" target="_blank"><i class="fa fa-check"></i> Roster Your Events </a></li>
+            <li class="list-group-item"><a href="feature_info_pages/reports.php" target="_blank"><i class="fa fa-check"></i> Powerful Workforce Reporting </a></li>
+            <li class="list-group-item"><a href="feature_info_pages/filemanager.php" target="_blank"><i class="fa fa-check"></i> File Manager</a></li>
+            <li class="list-group-item"><a href="feature_info_pages/pagesphrases.php" target="_blank"><i class="fa fa-check"></i> Custom Phrases</a></li>
+            <li class="list-group-item"><a href="feature_info_pages/checksheets.php" target="_blank"><i class="fa fa-check"></i> Check In Sheets</a></li>
+            <li class="list-group-item"><a href="feature_info_pages/certificates.php" target="_blank"><i class="fa fa-check"></i> Workforce Certificate Creator</a></li>
            
             <li class="list-group-item-2"></li>
             
@@ -111,7 +110,7 @@ include $file_base."template_files/header.php";
             <p><strong>$499 per month</strong></p>
           </div>
           <div class="panel-footer">
-            <a class="btn btn-lg btn-block btn-primary pricing_button" data-plan="premium" href="#">Get Started</a>
+            <a class="btn btn-lg btn-block btn-primary pricing_button" data-plan="premium" href="http://eventworkforcegroup.com/technology/demo">Get Started</a>
           </div>
           <div class="panel-body-a text-center">
             <p class="lead text-muted small" style="color: #555; font-size: 12px;"> For organisations with a growing volunteer database (300 - 2,000), wanting to streamline scheduling for mid size events. </p>
@@ -119,12 +118,12 @@ include $file_base."template_files/header.php";
           <ul class="list-group text-center">
             <li class="list-group-item first-item"><i class="fa fa-check"></i> Base + </li>
             <li class="list-group-item"><a href="" target="_blank"><i class="fa fa-check"></i> Unlimited Admins </a></li>
-            <li class="list-group-item"><a href="http://www.eventworkforcegroup.com/technology/dashboard.php" target="_blank"><i class="fa fa-check"></i> Workforce Overview Page </a></li>
-            <li class="list-group-item"><a href="http://www.eventworkforcegroup.com/technology/groupmanager.php" target="_blank"><i class="fa fa-check"></i> Group Manager</a></li>
-            <li class="list-group-item"><a href="http://www.eventworkforcegroup.com/technology/checkmode.php" target="_blank"><i class="fa fa-check"></i> Check In and Check Out Mode</a></li>
-            <li class="list-group-item"><a href="http://www.eventworkforcegroup.com/technology/newsletters.php" target="_blank"><i class="fa fa-check"></i> Campaign Emails (Newsletters)*</a></li>
+            <li class="list-group-item"><a href="feature_info_pages/dashboard.php" target="_blank"><i class="fa fa-check"></i> Workforce Overview Page </a></li>
+            <li class="list-group-item"><a href="feature_info_pages/groupmanager.php" target="_blank"><i class="fa fa-check"></i> Group Manager</a></li>
+            <li class="list-group-item"><a href="feature_info_pages/checkmode.php" target="_blank"><i class="fa fa-check"></i> Check In and Check Out Mode</a></li>
+            <li class="list-group-item"><a href="feature_info_pages/newsletters.php" target="_blank"><i class="fa fa-check"></i> Campaign Emails (Newsletters)*</a></li>
             <li class="list-group-item"><a href="http://www.eventworkforcegroup.com/technology/sms.php"><i class="fa fa-check"></i> SMS Communications*</a></li>
-            <li class="list-group-item"><a href="http://www.eventworkforcegroup.com/technology/leadermanagement.php"><i class="fa fa-check"></i> Team/Shift Leader Management</a></li>
+            <li class="list-group-item"><a href="feature_info_pages/leadermanagement.php"><i class="fa fa-check"></i> Team/Shift Leader Management</a></li>
             
             <li class="list-group-item-3"></li>
 
