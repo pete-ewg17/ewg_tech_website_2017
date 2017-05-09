@@ -182,7 +182,7 @@ include $file_base."template_files/header.php";
       <h2>Can't see a package to suit?</h2>
         <p>Submit a request and we will be in touch</p>
       <p class="text-muted lead">*Additional Fees apply based on usage.</p>
-          <a class="btn btn-lg btn-primary" href="http://eventworkforcegroup.com/technology/demo.html">Contact Us</a>
+          <a class="btn btn-lg btn-primary" href="http://eventworkforcegroup.com/technology/demo.php">Contact Us</a>
     </div>
   </div>
 </div>
