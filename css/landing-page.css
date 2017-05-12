@@ -683,6 +683,8 @@
         font-size: 1.6em;
         font-weight: 600;
         line-height: 1.2em;
+        color: #555;
+        margin-top: 0.2em;
     }
 
     .thumbnail .caption {
