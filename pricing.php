@@ -122,13 +122,8 @@ include $file_base."template_files/header.php";
             <li class="list-group-item"><a href="feature_info_pages/groupmanager.php" target="_blank"><i class="fa fa-check"></i> Group Manager</a></li>
             <li class="list-group-item"><a href="feature_info_pages/checkmode.php" target="_blank"><i class="fa fa-check"></i> Check In and Check Out Mode</a></li>
             <li class="list-group-item"><a href="feature_info_pages/newsletters.php" target="_blank"><i class="fa fa-check"></i> Campaign Emails (Newsletters)*</a></li>
-
-            <li class="list-group-item"><a href="http://eventworkforcegroup.com/technology/feature_info_pages/sms.php"><i class="fa fa-check"></i> SMS Communications*</a></li>
-
             <li class="list-group-item"><a href="feature_info_pages/sms.php"><i class="fa fa-check"></i> SMS Communications*</a></li>
-
             <li class="list-group-item"><a href="feature_info_pages/leadermanagement.php"><i class="fa fa-check"></i> Team/Shift Leader Management</a></li>
-            
             <li class="list-group-item-3"></li>
 
           </ul>
