@@ -23,3 +23,19 @@ include $file_base."template_files/header.php";
         </div>
     </div>
     <?php include $file_base."template_files/footer.php"; ?>
+
+<script type="text/javascript">
+      var capterra_vkey = 'a433964a24f3d6c5d222b78af67eda0e',
+      capterra_vid = '2108702',
+      capterra_prefix = (('https:' == document.location.protocol) ? 'https://ct.capterra.com (43B)
+
+' : 'http://ct.capterra.com (43B)
+
+');
+
+     (function() {
+        var ct = document.createElement('script'); ct.type = 'text/javascript'; ct.async = true;
+        ct.src = capterra_prefix + '/capterra_tracker.js?vid=' + capterra_vid + '&vkey=' + capterra_vkey;
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ct, s);
+      })();
+    </script>
