@@ -1032,7 +1032,7 @@ PRIVACY POLICY
 ================*/ 
       
       
-   .aus-policy {
+.aus-policy {
       width: 100%;
       height: 500px;
       overflow: scroll;
@@ -1042,11 +1042,7 @@ PRIVACY POLICY
 
 .aus p {
   font-size: 1.2em;
-}
-
-.usa-wrap {
-  padding-bottom: 2.2em;
-}    
+}  
 
 /*================
 
