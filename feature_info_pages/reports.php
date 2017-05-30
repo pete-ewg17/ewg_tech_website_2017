@@ -43,7 +43,7 @@ include $file_base."template_files/header.php";
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
               <h2>Recent Reports &amp; Archive </h2>
-              <p>Running a report will save it to your account, enabling your team of admins to access the report at anytime. After each type of report is run, you have the ability to refresh the same report into the future. Saving you time and giving you up to date information quickly.</p>
+              <p>Running a report will save it to your account, enabling your team of admins to access it at anytime. After each report is run, you have the ability to refresh the same report in the future. Saving you time and giving you up to date information quickly.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
               <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Recent_Reports.png" alt="Scheduling and Group Management">
