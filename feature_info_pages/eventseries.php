@@ -72,7 +72,7 @@ include $file_base."template_files/header.php";
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <h2>Registration Settings </h2>
-              <p class="lead"> Setup a uniqie registration page and gather data from users registering based on a specific brand or event series. Recruit for multiple events types at the one time while keeping each event series seperate when your workforce register.</p>
+              <p class="lead"> Setup a unique registration page and gather data from users registering based on a specific brand or event series. Recruit for multiple event types at the one time while keeping each event series independent when your workforce register.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true" data-aos-offset="400">
               <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Preview_Rego.png" alt="Workforce Portals Platform">
