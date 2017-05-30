@@ -24,7 +24,7 @@ include $file_base."template_files/header.php";
         <div class="row">
           <div data-aos="fade-right" data-aos-once="true" class="col-md-7 col-md-push-5">
             <h2 class="featurette-heading">Online Support</h2>
-            <p class="tech-lead">Utlize our support documententation and FAQ's. Your team can also submit specific tickets if you require further assistance from our dedicated team of workforce experts. With multiple access permissions, our online support allows your team to view all support queries and our solutions in one portal. </p>
+            <p class="tech-lead">Utlize our support documententation and FAQ's. Your team can also submit specific tickets meaning if you require further assistance from our dedicated team of workforce experts our online support allows your team to view all support queries and our solutions in one portal. </p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
             <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Zendesk.png" alt="Registration Form" style="background-size:cover; background-repeat:none;">
