@@ -12,7 +12,10 @@ include $file_base."template_files/header.php";
       <div class="row featurette">
         <div class="col-md-12 text-center" data-aos="fade-left" data-aos-once="true">
           <h2>Surveys</h2>
-          <p>Want to know what your Workforce are thinking? With our Survey platform you can collect feedback to keep improving your events and looking after your workforce.</p>      
+          <p>Want to know what your Workforcers are thinking? With our event specific survey platform, you can collect feedback to keep improving your events and be safe having the knowledge at hand to improve your workforcers on your next event.</p>
+          
+          
+          
         </div>
       </div>
     </div>
