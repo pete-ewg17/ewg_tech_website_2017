@@ -39,7 +39,7 @@ include $file_base."template_files/header.php";
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
               <h2>Search Users</h2>
-              <p>The workforce check in process can be hectic, trust us, we know! We have therefore built features to steamline this process. Searching by User name is the most effective way to quickly check in and view shift information per user. </p>
+              <p>The workforce check in process can be hectic, trust us, we know! We have therefore built features to steamline this process. Searching by username is the most effective way to quickly check in and view shift information per user. </p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
               <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Checkin_Event.png" alt="Scheduling and Group Management">
