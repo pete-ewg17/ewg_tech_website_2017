@@ -30,7 +30,6 @@ include $file_base."template_files/header.php";
             <p class="tech-lead">You control the branding images, colour schemes and email templates. This feature lets you publicly advertise event pages consistent with the branding requirements.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
-            <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Event_Series2.png" alt="Registration Form" style="background-size:cover; background-repeat:none;">
             </div>
           </div>
         </div>
@@ -87,7 +86,7 @@ include $file_base."template_files/header.php";
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="500">
             <h2 class="featurette-heading">Certificate Setup</h2> 
-            <p class="tech-lead"> Customize your post event certificates to be branded or event series specific. We know how much your workforce will love branded certificates post event! Helping to encourage them to come back for your next event.</p>
+            <p class="tech-lead"> Customize your post event certificates to be branded for each event series. We know how much your workforcers will love their branded certificates! Helping to encourage them to come back for the next event.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="500">
             <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Certificate_Designer.png" alt="Timesheets">
