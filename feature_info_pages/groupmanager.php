@@ -14,7 +14,7 @@ include $file_base."template_files/header.php";
       <div class="row featurette">
         <div class="col-md-12 text-center" data-aos="fade-left" data-aos-once="true">
           <h2>Workforce Group Manager</h2>
-          <p>Groups Manager enables you to create and manage your user groups easily and effectively. Whether it be a charity group, corporate group or operational team, group manager gives you the ability to best manage your staff in groups.</p>      
+          <p>Group Manager gives you the ability to best manage your staff in groups. It enables you to create and manage your user groups effectively and easily. Whether it be a charity group, corporate group or operational team, group manager gives you the ability to best manage your staff in groups.</p>      
         </div>
       </div>
     </div>
