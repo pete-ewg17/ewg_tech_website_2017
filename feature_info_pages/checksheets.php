@@ -12,7 +12,7 @@ include $file_base."template_files/header.php";
       <div class="row featurette">
         <div class="col-md-12 text-center" data-aos="fade-left" data-aos-once="true">
           <h2>Check In Sheets</h2>
-          <p>This is our Base package offering to make your Workforce check in process more efficient. Rosterfy generated check in sheets allows you to easily create and print Excel sheets to help with on site check in. Our Premium and Enterprise package offer 'online' check in mode to further streamline this process significantly.</p>      
+          <p>This is our Base package offering to make your Workforce check in process more efficient. Rosterfy generated check in sheets allows you to easily create and print Excel sheets to help with on site check in. Our Premium and Enterprise package offer an 'online' check in mode to further streamline this process significantly.</p>      
         </div>
       </div>
     </div>
