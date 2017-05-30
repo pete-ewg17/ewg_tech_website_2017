@@ -15,7 +15,7 @@ include $file_base."template_files/header.php";
       <div class="row featurette">
         <div class="col-md-12 text-center" data-aos="fade-left" data-aos-once="true">
           <h2>Events</h2>
-          <p>It's time to start filling your scheduled shifts and this feature makes it easy. Publish events to begin taking applicants from your database.</p>      
+          <p>It's time to start filling your scheduled shifts and this feature makes it easy. Publish events to begin taking applicants from your database. The event list gives you a more in depth view of each event to see how your applications are tracking as your rosters fill up. Use this tool to report on exact workforce numbeers, shift categories and operations staff.</p>      
         </div>
       </div>
     </div>
