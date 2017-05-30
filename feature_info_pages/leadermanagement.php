@@ -54,7 +54,7 @@ include $file_base."template_files/header.php";
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
             <h2 class="featurette-heading">Post Event Report</h2>
-            <p class="tech-lead">After each event, the team leader has the ability to confirm attendance, submit a paragraph thank you their workforce and also upload images. This feature is a great way to send your thanks and also allows users to accumulate a list of event reports overtime.</p>
+            <p class="tech-lead">After each event, the team leader has the ability to confirm attendance, submit a paragraph thank you to their workforce and also upload images. This feature is a great way to send your thanks and also allows users to accumulate a list of event reports overtime.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="300">
             <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Leader_Feedback.png" alt="Enhanced Communication with Phone">
