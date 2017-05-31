@@ -19,8 +19,8 @@ include $file_base."template_files/header.php";
                    <p class="demo-body">A simplified event isn't far away! Leave your details below and we will get in touch with a customised demonstration.</p>
                   
                   <h2>Want to speak with our sales team?</h2>
-                                <p class="demo-body">U.S.A Office: <a href="tel:+14159419842" style="color: #fff;">+1 415 941 9842</a></p>
-                                <p class="demo-body">Australian Office: <a href="tel:0415370744" style="color:#fff;">+61 415 370 744</a></p>
+                                <p class="demo-body">U.S.A Office: <a href="tel:+14159419842" style="color: #fff;">+1 415 941 9842</a>Australian Office: <a href="tel:0415370744" style="color:#fff;">+61 415 370 744</a></p>
+                                
                </div>
                 </div>    
                 <br>
