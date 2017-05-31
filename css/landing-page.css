@@ -941,14 +941,10 @@
         font-size: 1.6em;
     }
 
-		.modal-body ul li {
-			list-style: none;
-			padding-left: 0;
-		}
-
-.modal-body ul {
-	padding: 0;
-}
+    .modal-body ul li {
+	list-style: none;
+	padding-left: 0;
+    }
 
     .modal-body a {
         color: #555;
