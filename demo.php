@@ -19,19 +19,16 @@ include $file_base."template_files/header.php";
 								<p class="demo-body">A simplified event isn't far away! Leave your details below and we will get in touch with a customised demonstration.</p>
 							</div>
 
-							<div class="col-md-4 ">
+							<div class="col-md-4">
 
-								<h2>Want to speak with our sales team?</h2>
+								<h4>Want to speak with our sales team?</h4>
 
 								<p class="demo-body"><strong>U.S.A Office:</strong></p>
 								<p class="demo-body"><a href="tel:+14159419842" style="color: #fff;">+1415 941 9842</a></p>
-								<br>
+
 								<p class="demo-body"><strong>Australian Office:</strong></p>
 								<p class="demo-body"><a href="tel:0415370744" style="color:#fff;">+61 415 370 744</a></p>
 
-
-								<p></p>
-								<p class="demo-body"></p>
 							</div>
 						</div>
 					</div>
