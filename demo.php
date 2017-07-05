@@ -21,7 +21,11 @@ include $file_base."template_files/header.php";
                  </div>
                  
                   <div class="col-md-4 ">
+<<<<<<< Updated upstream
                   <h2>Contact Us</h2>
+=======
+                  <h2>Want to speak with our sales team?</h2>
+>>>>>>> Stashed changes
                                 <ul>
                                 	<li class="demo-body"><strong>U.S.A Office:</strong></li>
                                 	<li class="demo-body"><a href="tel:+14159419842" style="color: #fff;">+1415 941 9842</a></li>
