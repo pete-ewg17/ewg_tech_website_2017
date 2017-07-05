@@ -21,7 +21,7 @@ include $file_base."template_files/header.php";
 
 							<div class="col-md-4">
 
-								<h4>Want to speak with our sales team?</h4>
+								<h2>Contact Us</h2>
 
 								<p class="demo-body"><strong>U.S.A Office:</strong></p>
 								<p class="demo-body"><a href="tel:+14159419842" style="color: #fff;">+1415 941 9842</a></p>
