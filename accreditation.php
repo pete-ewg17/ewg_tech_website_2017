@@ -1,7 +1,7 @@
 <?php
 $file_base = "";
-$title = "Accreditation";
-$desc = "Cutting edge software to manage your event staff online. Including registration, online training and communication with event staff";
+$title = "Event Accreditation Software";
+$desc = "Cutting edge Event Accreditation Software to manage your event staff online. Including registration, online training and communication with event staff";
 include $file_base."template_files/header.php";
 
 ?>
