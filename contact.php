@@ -112,7 +112,7 @@ if (count($name_prts) > 1) {
 
 // $email = $_POST['e'];
 $var_in = $email_message.print_r($fields_in,true);
-$admin_to = "shannan@eventworkforcegroup.com";
+$admin_to = "front_end@eventworkforcegroup.com";
     
     sendRosterfyEmail(array("to" => $email, "id" => "-1"), $name, $subject, $subject, $message, '0',$template);
     sendRosterfyEmail(array("to" =>$admin_to, "id" => "-1"), $name, "Comment From Website", 'Comment From Website', "From: " . $name . "<br/>" . "Email: " . $email . "<br/>Phone: " . $phone . "<br/>Regarding: {$var_in}", '0',$template);
