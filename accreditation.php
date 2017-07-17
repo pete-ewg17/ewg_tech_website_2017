@@ -1,6 +1,6 @@
 <?php
 $file_base = "";
-$title = "Event Accreditation Software";
+$title = "Event Accreditation Software - Melbourne, Syndey, Perth, Adelaide, ACT Australia, UK, USA";
 $desc = "Cutting edge Event Accreditation Software to manage your event staff online. Including registration, online training and communication with event staff";
 include $file_base."template_files/header.php";
 
