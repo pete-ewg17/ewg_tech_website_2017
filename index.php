@@ -1,7 +1,7 @@
 <?php
 $file_base = "";
-$title = "Welcome";
-$desc = "All your workforce needs";
+$title = "Event Technology Melbourne, Syndey, Perth, Adelaide, ACT Australia, UK, USA";
+$desc = "Event Workforce Group specialises in event technology and event software in Melbourne, Syndey, Perth, Adelaide, ACT Australia, UK, USA.";
 include $file_base."template_files/header.php";
 ?>
     
