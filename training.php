@@ -1,7 +1,7 @@
 <?php
 $file_base = "";
-$title = "Training";
-$desc = "Cutting edge software to manage your event staff online. Including registration, online training and communication with event staff";
+$title = "Event Training Software & System - Online Training Modules Melbourne, Syndey, Perth, Adelaide, ACT Australia, UK, USA";
+$desc = "Cutting edge Event Training Software & System to manage your event workforce, contractors, volunteers, staff and more.  Includes Online Training Modules, training tracker, and more.";
 include $file_base."template_files/header.php";
 
 ?> 
@@ -11,7 +11,7 @@ include $file_base."template_files/header.php";
       <div class="row featurette">
         <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
           <h2>Training</h2>
-          <p>Create training and induction content and quizzes to share with workforce, contractors and your wider event.</p>
+          <p>Create online training and induction content and quizzes to share with workforce, contractors and your wider event.</p>
               
                 <div class="button">
                    <a href="demo" class="btn btn-primary hvr-fade">Request Demo</a>
@@ -109,8 +109,8 @@ include $file_base."template_files/header.php";
        <div class="container">
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true">
-            <h2 class="featurette-heading">Training Modules</h2>
-            <p class="tech-lead">Empower your workforce by offering custom training modules for specific shifts and roles at your event. No more generic event brief for important roles and positions.</p>
+            <h2 class="featurette-heading">Online Training Modules</h2>
+            <p class="tech-lead">Empower your workforce by offering custom online training modules for specific shifts and roles at your event. No more generic event brief for important roles and positions.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true">
             <img class="featurette-image img-responsive img-rounded" src="assets/images/training/EWG-Tech_Training_ShiftSpecificTraining_600X500.png" alt="Shift Specific Training">
