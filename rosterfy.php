@@ -1,6 +1,6 @@
 <?php
 $file_base = "";
-$title = "Rosterfy Rostering System / Rostering Software - Event Roster Tools & Event Registration Software Melbourne, Syndey, Perth, Adelaide, ACT Australia, UK, USA";
+$title = "Rosterfy Rostering System / Rostering Software - Event Roster Tools & Event Registration Software Melbourne, Sydney, Perth, Adelaide, ACT Australia, UK, USA";
 $desc = "Cutting edge event roster tools. Includes event rostering software, event rostering system, and event registration software to manage your event staff online.";
 include $file_base."template_files/header.php";
 
