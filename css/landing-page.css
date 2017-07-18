@@ -37,6 +37,19 @@
     content {
     	color: #fff;
     }
+
+		.featurette h1{
+			font-weight: 700;
+    	margin-bottom: 0.9em;
+    	color: #0082c2;
+		}
+
+		.thumb-header h1,
+		.stats-header h1 {
+			font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+			font-weight: 700;
+			font-size: 2.250em;
+		}
     
     .tagline {
     	font-weight: bold;
@@ -819,7 +832,7 @@
     	font-size: 3.75em;
     }
     
-    .counter-item h2 {
+    .counter-item span {
     	font-family: 'Open Sans', Helvetica;
     	color: #555;
     	font-weight: 700;

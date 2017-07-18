@@ -1,6 +1,6 @@
 <?php
 $file_base = "";
-$title = "Event Technology Melbourne, Syndey, Perth, Adelaide, ACT Australia, UK, USA";
+$title = "Event Technology Melbourne, Sydney, Perth, Adelaide, ACT Australia, UK, USA";
 $desc = "Event Workforce Group specialises in event technology and event software in Melbourne, Syndey, Perth, Adelaide, ACT Australia, UK, USA.";
 include $file_base."template_files/header.php";
 ?>
@@ -12,9 +12,8 @@ include $file_base."template_files/header.php";
             <div class="row">
                 <div class="col-md-8" data-aos="fade-right" data-aos-once="true">
                     <div class="intro-message text-left">
-                       <h2>Welcome to</h2>
-                       <h1>Event Workforce Group</h1>
-                         <h1>Technology</h1>
+                       <h4>Welcome to</h4>
+                       <h1>Event Workforce Group Technology</h1>
                         
                             <div class="rw-wrapper">
                                   
@@ -111,7 +110,7 @@ include $file_base."template_files/header.php";
                <div class="col-md-8 col-md-offset-2 thumb-header text-center">
                    <h1>How can we help you?</h1>
                       <br>
-                       <p>Learn more about our three core offerings. <br><a href="rosterfy.php">Rosterfy</a>, <a href="accreditation.php">Accreditation</a> &amp; <a href="training.php">Training</a>.</p>
+                       <p>Learn more about our three core offerings. <br><a href="rosterfy.php">Rosterfy</a>, <a href="accreditation.php">Event Accreditation</a> &amp; <a href="training.php">Event Training</a>.</p>
                </div>
            </div>
     <div class="thumbs">
@@ -230,7 +229,7 @@ include $file_base."template_files/header.php";
                <div class="col-md-3">
                   <div class="counter-item">
                       <div><i class="fa fa-calendar"></i></div>
-                      <h2><span class="counter-num">4239</span><span>&#43;</span></h2>
+                      <span class="counter-num">4239</span><span>&#43;</span>
                       <p>Events</p>
                   </div>
                </div>
@@ -238,7 +237,7 @@ include $file_base."template_files/header.php";
                <div class="col-md-3">
                   <div class="counter-item">
                       <div><i class="fa fa-users"></i></div>
-                      <h2><span class="counter-num">180,244</span><span>&#43;</span></h2>
+                      <span class="counter-num">180,244</span><span>&#43;</span>
                       <p>Users</p>
                   </div>
                </div>
@@ -246,7 +245,7 @@ include $file_base."template_files/header.php";
                <div class="col-md-3">
                   <div class="counter-item">
                       <div><i class="fa fa-check-square-o"></i></div>
-                      <h2><span class="counter-num">34242</span><span>&#43;</span></h2>
+                      <span class="counter-num">34242</span><span>&#43;</span>
                       <p>Shifts</p>
                   </div>
                </div>
@@ -254,7 +253,7 @@ include $file_base."template_files/header.php";
                <div class="col-md-3">
                   <div class="counter-item">
                       <div><i class="fa fa-clock-o"></i></div>
-                      <h2><span class="counter-num">1,100,000</span><span>&#43;</span></h2>
+                      <span class="counter-num">1,100,000</span><span>&#43;</span>
                       <p>Hours</p>
                   </div>
                </div>

@@ -11,8 +11,8 @@ include $file_base."template_files/header.php";
     <div class="container">
       <div class="row featurette">
         <div class="col-md-6" data-aos="fade-left" data-aos-once="true">
-          <h2>Accreditation</h2>
-          <p>Our flexible accreditation platform meets the growing demands of events both big and small.</p>
+          <h1>Event Accreditation Software</h1>
+          <p>Our flexible event accreditation software meets the growing demands of events both big and small.</p>
             <div class="button">
               <a href="demo.php" class="btn btn-primary hvr-fade">Request Demo</a>
               	<a href="#learnMore" class="learn-more"> Learn More <i class="fa fa-chevron-down"> </i></a> 

@@ -10,8 +10,8 @@ include $file_base."template_files/header.php";
     <div class="container">
       <div class="row featurette">
         <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
-          <h2>Training</h2>
-          <p>Create online training and induction content and quizzes to share with workforce, contractors and your wider event.</p>
+          <h1>Event Training Software &amp; Online Training Modules</h1>
+          <p>Create online event training modules and induction content and quizzes to share with workforce, contractors and your wider event.</p>
               
                 <div class="button">
                    <a href="demo" class="btn btn-primary hvr-fade">Request Demo</a>
