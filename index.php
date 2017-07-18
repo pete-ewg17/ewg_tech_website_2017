@@ -16,7 +16,6 @@ include $file_base."template_files/header.php";
                        <h1>Event Workforce Group Technology</h1>
                         
                             <div class="rw-wrapper">
-                                  
                                     <span>we simplify</span>
                                     <div class="rw-words rw-words-1">
                                         <span>Running Events</span>
