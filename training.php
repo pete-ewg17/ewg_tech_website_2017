@@ -1,6 +1,6 @@
 <?php
 $file_base = "";
-$title = "Event Training Software & System - Online Training Modules Melbourne, Syndey, Perth, Adelaide, ACT Australia, UK, USA";
+$title = "Event Training Software & System - Online Training Modules Melbourne, Sydney, Perth, Adelaide, ACT Australia, UK, USA";
 $desc = "Cutting edge Event Training Software & System to manage your event workforce, contractors, volunteers, staff and more.  Includes Online Training Modules, training tracker, and more.";
 include $file_base."template_files/header.php";
 
