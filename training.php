@@ -11,7 +11,8 @@ include $file_base."template_files/header.php";
       <div class="row featurette">
         <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
           <h1>Event Training Software &amp; Online Training Modules</h1>
-          <p>Create online event training modules and induction content and quizzes to share with workforce, contractors and your wider event.</p>
+          <p>We understand how important it is to have adequately trained staff with the correct knowledge; skills; and information on hand. Event training is a key component of our event technology software. Event Workforce Group Technology provides the tools to create online educational training modules and inductions to share with your contractors, workforce, and your wider event team. Each module has capability to incorporate tests or electronic quizzes on the content and further give you confidence that each worker or volunteer is prepared with the correct training for their shift.
+It is also possible to track whether these training modules have been opened, further giving you a piece of mind that staff members are adequately briefed prior to commencing shifts.</p>
               
                 <div class="button">
                    <a href="demo" class="btn btn-primary hvr-fade">Request Demo</a>
@@ -81,7 +82,7 @@ include $file_base."template_files/header.php";
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true">
             <h2 class="featurette-heading">Training Portal</h2>
-            <p class="tech-lead">The training modules give you full control on what your staff are learning and tested on before their first shift.</p>
+            <p class="tech-lead">Using the EWG web-based training portal you have full control of what the staff are learning and tested on prior to their first shift.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true">
             <img class="featurette-image img-responsive img-rounded" src="assets/images/training/EWG-Tech_Training_Portal_600X500.png" alt="Training Portal on Computer">
@@ -96,7 +97,7 @@ include $file_base."template_files/header.php";
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
               <h2>Health and Safety</h2>
-              <p>Ensure everyone at your event are prepared for anything when they arrive on site with online content and training of your events safety procedures.</p>
+              <p>Health &amps; Safety training modules are important, as is the safety of all attendees and staff at your event. Ensure that all staff are well-briefed and prepared for any event emergency with online training modules.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
               <img class="featurette-image img-responsive img-rounded" src="assets/images/training/EWG-Tech_Training_HealthAndSafety_600X500.png" alt="Health and Safety">
@@ -124,7 +125,7 @@ include $file_base."template_files/header.php";
           <div class="row featurette">
             <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
               <h2>Training Tracker</h2>
-              <p>Find out who has and who hasn't completed training. Prompt your workforce to complete training through email or SMS templates.</p>
+              <p>Any staff member should be well-trained and prepared for a shift from a perspective of health and safety. The Event Workforce Group Technology further assist with this by allowing you to monitor which modules have been viewed on a cloud based system.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
               <img class="featurette-image img-responsive img-rounded" src="assets/images/training/EWG-Tech_Training_Tracker_600X500.png" alt="Training Tracker">
@@ -138,7 +139,7 @@ include $file_base."template_files/header.php";
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true">
             <h3 class="featurette-heading">Training On The Go</h3> 
-            <p class="tech-lead">Give your staff and volunteers access to complete their training on any devices at any time.</p>
+            <p class="tech-lead">Staff and volunteer workforce can have access to the online training any time and anywhere on any device: mobile, laptop, iPad, tablet, computer or similar. This allows a more convenient way to train your staff.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true">
             <img class="featurette-image img-responsive img-rounded" src="assets/images/training/EWG-Tech_Training_OnTheGo_600X500.png" alt="Training On The Go">
@@ -154,7 +155,7 @@ include $file_base."template_files/header.php";
           <div class="row featurette" data-aos="fade-up" data-aos-once="true">
             <div class="col-md-6 text-center">
               <h2>Request A Demo</h2>
-              <p class="lead">Request a free demo of Rosterfy Today.</p>
+              <p class="lead">Chat to our dedicated team to arrange a obligation-free trial of our online event training software.</p>
               
               <div class="button">
                <a href="demo" class="btn btn-primary hvr-fade">Request a Demo</a>
