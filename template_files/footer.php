@@ -30,7 +30,7 @@
                         <li><a href="http://eventworkforcegroup.com/talent" target="_blank"> <img src="<?php echo $file_base; ?>assets/images/logos/ewg_talent_logo.svg" class="img-responsive footer-logo" alt="Academy Logo"> Talent</a> </li>
                         <li><a href="http://eventworkforcegroup.com/technology" target="_blank"> <img src="<?php echo $file_base; ?>assets/images/logos/ewg_tech_logo.svg" class="img-responsive footer-logo" alt="Academy Logo">Technology</a> </li>
                     </ul>
-                                        <p class="copyright text-muted small">Australia Office: 80 Market Street, Southbank VIC 3205 Australia</p>
+										<p class="copyright text-muted small">Australia Office: 80 Market Street, Southbank VIC 3205 Australia</p>
                     <p class="copyright text-muted small">America Office: 180 Sansome St, San Francisco, CA 94104, USA</p>
                     <p class="copyright text-muted small">Copyright &copy; Event Workforce Group 2017. All Rights Reserved</p>
                     <p class="small"><a href="https://rosterfy.co/rosterfy_terms">Terms &amp; Conditions</a> <a href="privacy-policy.php">Privacy Policy</a></p>         
