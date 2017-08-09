@@ -23,7 +23,7 @@ include $file_base."template_files/header.php";
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 aus-policy" data-aos="fade-in" data-aos-once="true">
-					<h2>Introduction</h2>
+					<h1>Introduction</h1>
 					<p>Event Workforce Group Holdings Pty Ltd. (along with its affiliates, Event Workforce Group Pty Ltd, Event Workforce Group Technology Pty Ltd & Event Workforce Group (USA) Inc.) known as ‘EWG’ provides online staff management tools and services for event coordinators. If you are volunteering or working at an event or you are coordinating an event using the website and/or mobile application that is hosted by ‘EWG (“EWG Platform”), your use of the EWG Platform and any information you provide while using the EWG Platform will be governed by this Privacy Policy (in addition to any additional terms, conditions, or guidelines provided to you by the event staff).
 </p>
 

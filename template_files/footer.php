@@ -1,5 +1,5 @@
-       <?php  if(!isset($_GET['admin'])) { ?>                                    
-<!-- DONT TOUCH ANYTHING BELOW THIS -->                                                                                                                     
+       <?php  if(!isset($_GET['admin'])) { ?>
+<!-- DONT TOUCH ANYTHING BELOW THIS -->
 
     <!--SOCIAL ICONS-->
     <div class="banner">
@@ -18,8 +18,8 @@
         <!-- /.container -->
     </div>
     <!-- /.banner -->
-    
-    
+
+
     <!-- Footer -->
     <footer class="footer-img img-reponsive">
         <div class="container">
@@ -39,7 +39,7 @@
         </div>
     </footer>
     <?php } ?>
-        
+
         <!-- jQuery -->
         <script src="<?php echo $file_base; ?>js/jquery.js"></script>
         <!-- Bootstrap Core JavaScript -->
