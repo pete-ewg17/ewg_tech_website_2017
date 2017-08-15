@@ -197,22 +197,6 @@ include $file_base."template_files/header.php";
   </div>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<?php include $file_base."template_files/footer.php"; ?>
+<?php 
+$footer_extra = "<script type='text/javascript' src='js/pricing.js'></script>";
+include $file_base."template_files/footer.php"; ?>

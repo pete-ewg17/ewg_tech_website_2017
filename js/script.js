@@ -83,31 +83,10 @@ $(function () {
   Counter
 =============*/
 $(document).ready(function () {
+if($('.counter-num').length > 0) {
     $('.counter-num').counterUp({
         delay: 10,
         time: 1000
     });
-});
-
-
-/*=================
-
-  CURRENCY CONVERTER
-
-==================*/
-
-$('#audPrice').click(function(){
-    alert("Im aussie")
-});
-
-
-$.ajax({
-  type: "GET",
-  url: "https://api.fixer.io/latest?base=USD&symbols=AUD",
-  data: {},
-  success: function(result) {
-    console.log(result)
-    $('pre').text(JSON.stringify(result, 0, 2));
-  },
-  error: function(x, e) { console.log(e); }
+    }
 });
