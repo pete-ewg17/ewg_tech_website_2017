@@ -13,10 +13,15 @@ include $file_base."template_files/header.php";
     <p>No matter how big, small or complex your workforce needs are, we have the solution for you.</p>
 
     <div class="pricing-box">
-      <h4>Choose Your Currency</h4>
-      <button class="pricing_button" type="button" name="button" id="audPrice" onchange="convertCurrency();">$ AUD</button>
-      <button class="pricing_button" type="button" name="button" id=usdPrice onchange="convertCurrency();">$ USD</button>
-    </div>
+        <h4>Choose Your Currency</h4>
+
+        <div class="radio-inline">
+          <label><input id="audPrice" type="radio" name="optradio"> AUD</label>
+        </div>
+        <div class="radio-inline">
+          <label><input id="usdPrice" type="radio" name="optradio"> USD</label>
+        </div>
+      </div>
     </div>
   </div>
 </div>
@@ -75,7 +80,7 @@ include $file_base."template_files/header.php";
 
           <div class="panel-body text-center">
             <br>
-            <p><strong><span class="price">$99</span> per month</strong></p>
+            <p><strong><span class="priceAUS">$99</span> per month</strong></p>
           </div>
           <div class="panel-footer">
             <a class="btn btn-lg btn-block btn-primary pricing_button" data-plan="base" href="http://eventworkforcegroup.com/technology/demo" target="_blank">Get Started</a>
@@ -112,7 +117,7 @@ include $file_base."template_files/header.php";
           </div>
           <div class="panel-body text-center">
             <br>
-            <p><strong><span>$499</span> per month</strong></p>
+            <p><strong><span class="priceAUS" onchange="convertCurrency;">$499</span> per month</strong></p>
 
           </div>
           <div class="panel-footer">
