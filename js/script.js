@@ -96,6 +96,10 @@ $(document).ready(function () {
 
 ==================*/
 
+$('#audPrice').click(function(){
+    alert("Im aussie")
+});
+
 
 $.ajax({
   type: "GET",

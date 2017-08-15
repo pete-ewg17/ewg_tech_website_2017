@@ -16,10 +16,10 @@ include $file_base."template_files/header.php";
         <h4>Choose Your Currency</h4>
 
         <div class="radio-inline">
-          <label><input id="audPrice" type="radio" name="optradio"> AUD</label>
+          <label><input id="audPrice" type="radio" name="chooseprice"> AUD</label>
         </div>
         <div class="radio-inline">
-          <label><input id="usdPrice" type="radio" name="optradio"> USD</label>
+          <label><input id="usdPrice" type="radio" name="chooseprice"> USD</label>
         </div>
       </div>
     </div>
