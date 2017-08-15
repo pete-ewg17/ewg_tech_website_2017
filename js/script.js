@@ -1,5 +1,5 @@
 /*===========
-  BACK TO TOP 
+  BACK TO TOP
 =============*/
 $(document).ready(function () {
     $(window).scroll(function () {
@@ -41,7 +41,7 @@ $(document).ready(function(){
       $('html, body').animate({
         scrollTop: $(hash).offset().top
       }, 800, function(){
-   
+
         // Add hash (#) to URL when done scrolling (default click behavior)
         window.location.hash = hash;
       });
@@ -60,7 +60,7 @@ $(document).ready(function(){
 });
 
 /*===========
-  FORM 
+  FORM
 =============*/
 $(function () {
     $('.send_contact').validator();
@@ -80,11 +80,30 @@ $(function () {
 }); /* @Chris -- DOES IT GO AFTER THIS validation? */
 
 /*===========
-  Counter 
+  Counter
 =============*/
 $(document).ready(function () {
     $('.counter-num').counterUp({
         delay: 10,
         time: 1000
     });
+});
+
+
+/*=================
+
+  CURRENCY CONVERTER
+
+==================*/
+
+
+$.ajax({
+  type: "GET",
+  url: "https://api.fixer.io/latest?base=USD&symbols=AUD",
+  data: {},
+  success: function(result) {
+    console.log(result)
+    $('pre').text(JSON.stringify(result, 0, 2));
+  },
+  error: function(x, e) { console.log(e); }
 });
