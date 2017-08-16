@@ -16,7 +16,7 @@ include $file_base."template_files/header.php";
         <h4>Choose Your Currency</h4>
 
         <div class="radio-inline">
-          <label><input id="audPrice" type="radio" name="chooseprice"> AUD</label>
+          <label><input id="audPrice" type="radio" name="chooseprice" checked> AUD</label>
         </div>
         <div class="radio-inline">
           <label><input id="usdPrice" type="radio" name="chooseprice"> USD</label>
@@ -79,8 +79,8 @@ include $file_base."template_files/header.php";
           </div>
 
           <div class="panel-body text-center">
-            <br>
-            <p><strong><span class="priceAUS">$99</span> per month</strong></p>
+
+            <p><strong><span class="price1">$99</span> <br>Per Month</strong></p>
           </div>
           <div class="panel-footer">
             <a class="btn btn-lg btn-block btn-primary pricing_button" data-plan="base" href="http://eventworkforcegroup.com/technology/demo" target="_blank">Get Started</a>
@@ -116,8 +116,8 @@ include $file_base."template_files/header.php";
             <h3>Premium</h3>
           </div>
           <div class="panel-body text-center">
-            <br>
-            <p><strong><span class="priceAUS" onchange="convertCurrency;">$499</span> per month</strong></p>
+
+            <p><strong><span class="price2" onchange="convertCurrency;">$499</span> <br>Per Month</strong></p>
 
           </div>
           <div class="panel-footer">
@@ -197,6 +197,6 @@ include $file_base."template_files/header.php";
   </div>
 </div>
 
-<?php 
+<?php
 $footer_extra = "<script type='text/javascript' src='js/pricing.js'></script>";
 include $file_base."template_files/footer.php"; ?>
