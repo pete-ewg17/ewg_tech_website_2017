@@ -13,7 +13,8 @@ include $file_base."template_files/header.php";
     <p>No matter how big, small or complex your workforce needs are, we have the solution for you.</p>
 
     <div class="pricing-box">
-        <h4>Choose Your Currency</h4>
+        <h4>Choose Your Currency*</h4>
+
 
         <div class="radio-inline">
           <label><input id="audPrice" type="radio" name="chooseprice" checked> AUD</label>
@@ -21,6 +22,9 @@ include $file_base."template_files/header.php";
         <div class="radio-inline">
           <label><input id="usdPrice" type="radio" name="chooseprice"> USD</label>
         </div>
+
+          <p><small>*NB that AUD prices are subject to change with the USD exchange rate</small></p>
+
       </div>
     </div>
   </div>
