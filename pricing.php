@@ -17,10 +17,10 @@ include $file_base."template_files/header.php";
 
 
         <div class="radio-inline">
-          <label><input id="audPrice" type="radio" name="chooseprice" checked> AUD</label>
+          <label><input id="audPrice" data-exrate='-1' type="radio" name='chooseprice' class="chooseprice"> AUD</label>
         </div>
         <div class="radio-inline">
-          <label><input id="usdPrice" type="radio" name="chooseprice"> USD</label>
+          <label><input id="usdPrice" data-exrate='1' type="radio" name='chooseprice' class="chooseprice" checked>USD</label>
         </div>
 
           <p><small>*NB that AUD prices are subject to change with the USD exchange rate</small></p>
@@ -84,7 +84,7 @@ include $file_base."template_files/header.php";
 
           <div class="panel-body text-center">
 
-            <p><strong><span class="price1">$99</span> <br>Per Month</strong></p>
+            <p><strong>$<span class="cost" data-orig='99'>99</span> <br>Per Month</strong></p>
           </div>
           <div class="panel-footer">
             <a class="btn btn-lg btn-block btn-primary pricing_button" data-plan="base" href="http://eventworkforcegroup.com/technology/demo" target="_blank">Get Started</a>
@@ -121,7 +121,7 @@ include $file_base."template_files/header.php";
           </div>
           <div class="panel-body text-center">
 
-            <p><strong><span class="price2" onchange="convertCurrency;">$499</span> <br>Per Month</strong></p>
+            <p><strong>$<span class="cost" data-orig='499'>499</span> <br>Per Month</strong></p>
 
           </div>
           <div class="panel-footer">

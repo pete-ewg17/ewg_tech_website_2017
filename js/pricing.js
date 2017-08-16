@@ -2,16 +2,6 @@
   CURRENCY CONVERTER
 ==================*/
 
-
-$("#audPrice").change(function() {
-	var currency = $(this).html();
-});
-
-
-// var prices
-var price1 = 99;
-var price2 = 499;
-
 // AJAX request
 $.ajax({
   type: "GET",
@@ -19,19 +9,24 @@ $.ajax({
   data: {},
   success: function(data) {
       var currency = data;
-      console.log(currency.rates.AUD);
-      var aud_one = $(".price1").html("$" + Math.round(currency.rates.AUD * price1 + .5));
-      var aud_two = $(".price2").html("$" + Math.round(currency.rates.AUD * price2 + .5));
+      $("#audPrice").data('exrate',currency.rates.AUD);
   },
   error: function(x, e) { console.log(e); }
 });
 
-$("#usdPrice").change(function(){
-  $(".price1").html("$99");
-  $(".price2").html("$499")
+//listen for change of radio button
+$(".chooseprice").change(function() {
+	//as they will technically both change, one to on, one to off, this function is called for both. therefore we need to check for...check
+	 if($(this).is(":checked"))
+        {
+        //get the exchange rate stored in the data attr
+        var exchange_rate = $(this).data('exrate');
+        	//make sure not -1 (ie api hasnt loaded yet)
+       		if(exchange_rate != "-1") {
+       			//go to each cost field and update rate*original value
+        		$(".cost").each(function() {
+        			$(this).html(Math.round(exchange_rate*$(this).data('orig')));
+        		});
+        	}
+        }
 });
-
-// $("#audPrice").change(function(data){
-//   $("input").html(aud_one);
-//   $("input").html(aud_two);
-// });
