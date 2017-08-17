@@ -61,31 +61,29 @@ include $file_base."template_files/header.php";
               <a href="#" class="cta">Get Started</a>
             </div> <!-- END PLAN 1 -->
 
-            <div class="plan plan4">
+            <div class="plan">
               <div class="header">
                 <i class="fa fa-globe icon"></i>
                 <h2>Base</h2>
               </div>
-              <div class="price-1">
-
-                <p><strong>$<span class="cost" data-orig='99'>99</span> <br>Per Month</strong></p>
+              <div class="price">
+                <p>$<span class="cost" data-orig='99'>99</span><br>Per Month</p>
               </div>
                 <div class="description">
-                  <p>Unlock our core workforce management features to maximise your recruitment reach &amp; retention.</p>
+                  <p>It's go time! Advertise your first event & start filling your shifts. </p>
                 </div>
 
                 <ul class="features">
-                  <li class="list-group-item"><i class="fa fa-check"></i> 51 to 100 Paid Staff database.</li>
-                    <li class="list-group-item"><i class="fa fa-check"></i> Premium Features +</li>
-                    <li class="list-group-item"><a href="feature_info_pages/groupmanager.php" target="_blank"> <i class="fa fa-check"></i> Unlimited Admins </a></li>
-                    <li class="list-group-item"><a href="feature_info_pages/trainingmanager.php" target="_blank"><i class="fa fa-check"></i> Training Modules</a></li>
-                    <li class="list-group-item"><a href="feature_info_pages/accountbranding.php" target="_blank"> <i class="fa fa-check"></i> Event Series Branding</a></li>
-                    <li class="list-group-item"><a href="feature_info_pages/surveys.php" target="_blank"> <i class="fa fa-check"></i> Survey Manager</a></li>
-                    <li class="list-group-item"><a href="feature_info_pages/interview.php" target="_blank"><i class="fa fa-check"></i> Interview Platform</a></li>
-                    <li class="list-group-item"><a href="feature_info_pages/notifications.php" target="_blank"><i class="fa fa-check"></i> Workforce Notifications</a></li>
+                  <li class="list-group-item"><i class="fa fa-check"></i> Starter Features +</li>
+                    <li class="list-group-item"><a href="feature_info_pages/event.php" target="_blank"><i class="fa fa-check"></i> Advertise your Events +</a></li>
+                    <li class="list-group-item"><a href="feature_info_pages/reports.php" target="_blank"> <i class="fa fa-check"></i> Powerful Workforce Reporting </a></li>
+                    <li class="list-group-item"><a href="feature_info_pages/pagesphrases.php" target="_blank"><i class="fa fa-check"></i> Custom Phrases</a></li>
+                    <li class="list-group-item"><a href="feature_info_pages/checkmode.php" target="_blank"> <i class="fa fa-check"></i> Check In Sheets</a></li>
+                    <li class="list-group-item"><a href="feature_info_pages/filemanager.php" target="_blank"> <i class="fa fa-check"></i> File Manager</a></li>
+                    <li class="list-group-item"><a href="feature_info_pages/certificates.php" target="_blank"><i class="fa fa-check"></i> Post Event Certificates</a></li>
                   </ul>
                   <a href="https://rosterfy.co/onboard_simple" class="cta">Get Started</a>
-                </div> <!-- END PLAN 4 -->
+                </div> <!-- END PLAN 2 -->
 
                 <div class="plan plan3">
                   <div class="header">
@@ -93,8 +91,7 @@ include $file_base."template_files/header.php";
                     <h2>Premium</h2>
                   </div>
                   <div class="price">
-
-                    <p><strong>$<span class="cost" data-orig='499'>499</span> <br>Per Month</strong></p>
+                    <p>$<span class="cost" data-orig='499'>499</span> <br>Per Month</p>
                   </div>
                     <div class="description">
                     <p>Unlock our core workforce management features to maximise your recruitment reach &amp; retention.</p>
@@ -122,7 +119,7 @@ include $file_base."template_files/header.php";
 
                       <div class="price">
 
-                        <p><span class="special-text">From</span> <strong>$<span class="cost" data-orig='999'>999</span> <br> Per Month</strong></p>
+                        <p><span class="special-text">From</span> $<span class="cost" data-orig='999'>999</span> <br> Per Month</p>
 
                       </div>
                         <div class="description">
