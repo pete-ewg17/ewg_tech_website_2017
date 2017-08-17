@@ -61,20 +61,21 @@ include $file_base."template_files/header.php";
               <a href="#" class="cta">Get Started</a>
             </div> <!-- END PLAN 1 -->
 
-            <div class="plan">
+            <div class="plan plan3">
               <div class="header">
-                <i class="fa fa-globe icon"></i>
+                <i class="fa fa-cloud icon"></i>
                 <h2>Base</h2>
               </div>
               <div class="price">
-                <p>$<span class="cost" data-orig='99'>99</span><br>Per Month</p>
+                <p>$<span class="cost" data-orig='99'>99</span> <br>Per Month</p>
               </div>
                 <div class="description">
-                  <p>It's go time! Advertise your first event & start filling your shifts. </p>
+                <p>It's go time! Advertise your first event &amp; start filling your shifts and enjoy the ease of running an event. </p>
                 </div>
 
                 <ul class="features">
-                  <li class="list-group-item"><i class="fa fa-check"></i> Starter Features +</li>
+                    <li class="list-group-item"><i class="fa fa-check"></i> Starter Features +</li>
+                    <li class="list-group-item"><i class="fa fa-check"></i> Free Consultation</li>
                     <li class="list-group-item"><a href="feature_info_pages/event.php" target="_blank"><i class="fa fa-check"></i> Advertise your Events +</a></li>
                     <li class="list-group-item"><a href="feature_info_pages/reports.php" target="_blank"> <i class="fa fa-check"></i> Powerful Workforce Reporting </a></li>
                     <li class="list-group-item"><a href="feature_info_pages/pagesphrases.php" target="_blank"><i class="fa fa-check"></i> Custom Phrases</a></li>
@@ -82,6 +83,22 @@ include $file_base."template_files/header.php";
                     <li class="list-group-item"><a href="feature_info_pages/filemanager.php" target="_blank"> <i class="fa fa-check"></i> File Manager</a></li>
                     <li class="list-group-item"><a href="feature_info_pages/certificates.php" target="_blank"><i class="fa fa-check"></i> Post Event Certificates</a></li>
                   </ul>
+                  <a href="https://rosterfy.co/onboard_simple" class="cta">Get Started</a>
+                </div> <!-- END PLAN 3 -->
+
+            <!-- <div class="plan">
+              <div class="header">
+                <i class="fa fa-globe icon"></i>
+                <h2>Base</h2>
+              </div>
+
+                <p>$<span class="cost" data-orig='99'>99</span><br>Per Month</p>
+
+                <div class="description">
+                  <p>It's go time! Advertise your first event & start filling your shifts. </p>
+                </div>
+
+
                   <a href="https://rosterfy.co/onboard_simple" class="cta">Get Started</a>
                 </div> <!-- END PLAN 2 -->
 
