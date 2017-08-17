@@ -1121,6 +1121,14 @@ PRICING
 
 ================*/
 
+.disclaimer {
+  font-size: 0.7em;
+}
+
+.pricing-box{
+  margin-top: 2em;
+}
+
 .pricing-grid {
   max-width:1200px;
   justify-content: center;

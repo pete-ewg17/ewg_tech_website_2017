@@ -13,7 +13,7 @@ include $file_base."template_files/header.php";
     <p>Our pricing packages do not restrict the number of volunteers you recruit or events you post. All packages offer online support from our team of workforce management experts.<small>*No set up fees apply.</small></p>
 
 
-    <!-- <div class="pricing-box">
+    <div class="pricing-box">
         <h4>Choose Your Currency<small>*</small></h4>
         <div class="radio-inline">
           <label><input id="audPrice" data-exratlocale='-1' type="radio" name='chooseprice' class="chooseprice"> AUD</label>
@@ -22,9 +22,9 @@ include $file_base."template_files/header.php";
           <label><input id="usdPrice" data-exrate='1' type="radio" name='chooseprice' class="chooseprice" checked>USD</label>
         </div>
 
-          <p><small>*NB that AUD prices are subject to change with the USD exchange rate</small></p>
+          <p><small class="disclaimer">*NB that AUD prices are subject to change with the USD exchange rate</small></p>
 
-      </div> -->
+      </div>
     </div>
   </div>
 </div>
@@ -43,7 +43,7 @@ include $file_base."template_files/header.php";
             <h2>Starter</h2>
           </div>
           <div class="price">
-            <p><span class="cost">Free</span></p>
+            <p><span class="FREE">FREE</span></p>
           </div>
           <div class="description">
             <p>Build your workforce database before launching your first event.</p>
