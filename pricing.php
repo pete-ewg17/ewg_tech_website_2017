@@ -43,7 +43,7 @@ include $file_base."template_files/header.php";
             <h2>Starter</h2>
           </div>
           <div class="price">
-            <p><strong><span class="cost">Free</span></strong></p>
+            <p><span class="cost">Free</span></p>
           </div>
           <div class="description">
             <p>Build your workforce database before launching your first event.</p>
@@ -86,21 +86,7 @@ include $file_base."template_files/header.php";
                   <a href="https://rosterfy.co/onboard_simple" class="cta">Get Started</a>
                 </div> <!-- END PLAN 3 -->
 
-            <!-- <div class="plan">
-              <div class="header">
-                <i class="fa fa-globe icon"></i>
-                <h2>Base</h2>
-              </div>
 
-                <p>$<span class="cost" data-orig='99'>99</span><br>Per Month</p>
-
-                <div class="description">
-                  <p>It's go time! Advertise your first event & start filling your shifts. </p>
-                </div>
-
-
-                  <a href="https://rosterfy.co/onboard_simple" class="cta">Get Started</a>
-                </div> <!-- END PLAN 2 -->
 
                 <div class="plan plan3">
                   <div class="header">
