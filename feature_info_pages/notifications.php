@@ -14,7 +14,7 @@ include $file_base."template_files/header.php";
     <div class="container">
       <div class="row featurette">
         <div class="col-md-12 text-center" data-aos="fade-left" data-aos-once="true">
-          <h2>Notifications/h2>
+          <h2>Notifications</h2>
           <p>Notifications are quick links to stay in touch with your users. Create Notifications or Pop Ups to appear in the user portal. </p>      
         </div>
       </div>
