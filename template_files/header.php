@@ -104,7 +104,7 @@ src="https://www.facebook.com/tr?id=114806989013061&ev=PageView&noscript=1"
 
                            <ul class="dropdown-menu">
                              <li><a href="<?php echo $file_base; ?>index">Home</a></li>
-                            <li><a href="http://eventworkforcegroup.com/">EWG Group</a></li>
+                            <li><a href="https://eventworkforcegroup.com/">EWG Group</a></li>
             </ul>
                     
                     
