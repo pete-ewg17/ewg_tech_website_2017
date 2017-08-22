@@ -8,6 +8,9 @@ if(!isset($title)) {
 if(!isset($desc)) {
 	$desc = "";
 }
+if(!isset($header_extra)) {
+	$header_extra = "";
+}
 	$url = $_SERVER['PHP_SELF'];
 ?>
 <!DOCTYPE html>
@@ -31,6 +34,9 @@ if(!isset($desc)) {
     <link href="<?php echo $file_base; ?>css/landing-page.css" rel="stylesheet">
     <link href="<?php echo $file_base; ?>css/hover.css" rel="stylesheet">
     <link href="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.css" rel="stylesheet">
+    <?php
+    echo $header_extra;
+    ?>
     <!-- Custom Fonts -->
     <link href="<?php echo $file_base; ?>font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">

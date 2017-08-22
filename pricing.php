@@ -2,6 +2,7 @@
 $file_base = "";
 $title = "Pricing";
 $desc = "All your workforce needs";
+$header_extra = "<link href='css/pricing.css' rel='stylesheet'/>";
 include $file_base."template_files/header.php";
 ?>
 
