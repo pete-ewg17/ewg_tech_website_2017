@@ -56,11 +56,11 @@ PRICING
   font-size: 16px;
 }
 
-.header {
+.plans .header {
   height: 140px;
 }
 
-.header .icon {
+.plans .header .icon {
   margin-top: 10px;
   font-size: 58px;
 }
@@ -126,7 +126,7 @@ span.special-text {
   margin: 0 0.3em;
 }
 
-.header{
+.plans .header{
   border-radius: 3px 3px 0 0;
   background: #0082c2;
   color: #fff;
