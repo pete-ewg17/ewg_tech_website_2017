@@ -124,7 +124,8 @@ src="https://www.facebook.com/tr?id=114806989013061&ev=PageView&noscript=1"
                             <li><a href="<?php echo $file_base; ?>training">Training</a></li>
                             </ul>
                         </li>    
-                    <li><a href="<?php echo $file_base; ?>demo"><span class="text-info">Request Demo</span></a></li>
+                    <li><a href="<?php echo $file_base; ?>pricing"><span class="text-info">Pricing</span></a></li>
+		    <li><a href="<?php echo $file_base; ?>demo"><span class="text-info">Request Demo</span></a></li>
                     </ul>
             </div><!-- /.navbar-collapse -->
         </div><!-- /.container -->
