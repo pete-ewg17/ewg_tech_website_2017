@@ -29,7 +29,7 @@ include $file_base."template_files/header.php";
                         
                         
                             <div class="button">
-                              <a href="demo" class="btn btn-primary btn-outline hvr-fade animated bounce">Request Demo</a>
+                              <a href="https://ew.rosterfy.co/onboard_simple" class="btn btn-primary btn-outline hvr-fade animated bounce">Request Demo</a>
                             </div>
                         
                     </div><!--END OF INTRO MESSAGE-->
