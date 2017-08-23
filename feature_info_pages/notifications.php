@@ -27,7 +27,7 @@ include $file_base."template_files/header.php";
         <div class="row">
           <div data-aos="fade-right" data-aos-once="true" class="col-md-7 col-md-push-5">
             <h2 class="featurette-heading">Notification Manager</h2>
-            <p class="tech-lead">You control the branding images, colour schemes and email templates. This feature lets you publicly advertise event pages consistent with the branding requirements.</p>
+            <p class="tech-lead">From training reminders to sharing your social media links you can get creative to keep your users engaged. These will appear on the main portal page when a user logs in.</p>
           </div>
             <div data-aos="fade-right" data-aos-once="true" class="col-md-5 col-md-pull-7">
              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/User_Notice.png" alt="Scheduling and Group Management">
@@ -45,7 +45,7 @@ include $file_base."template_files/header.php";
               <p> Pop up boxes are used to alert your users to something new in the portal.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
-              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/User_Notice.png" alt="Scheduling and Group Management">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/.png" alt="Scheduling and Group Management">
             </div>
           </div>
       </div>
