@@ -14,7 +14,7 @@ include $file_base."template_files/header.php";
           <h1>Event Accreditation Software</h1>
           <p>Our flexible event accreditation software meets the growing demands of events both big and small.</p>
             <div class="button">
-              <a href="demo.php" class="btn btn-primary hvr-fade">Request Demo</a>
+              <a href="https://ew.rosterfy.co/onboard_simple" class="btn btn-primary hvr-fade">Request Demo</a>
               	<a href="#learnMore" class="learn-more"> Learn More <i class="fa fa-chevron-down"> </i></a> 
             </div>        
         </div>
@@ -160,7 +160,7 @@ include $file_base."template_files/header.php";
               <p class="lead">Request a free demo of Rosterfy Today.</p>
               
               <div class="button">
-               <a href="demo" class="btn btn-primary hvr-fade">Request a Demo</a>
+               <a href="https://ew.rosterfy.co/onboard_simple" class="btn btn-primary hvr-fade">Request a Demo</a>
             </div>
             </div>
             <div class="col-md-6 text-center">
