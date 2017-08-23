@@ -16,7 +16,7 @@ include $file_base."template_files/header.php";
           <p>Rosterfy is global-leading, digital workforce management platform. Enabling event organisers to employ a fully integrated scheduling software for their event staff and volunteers</p>
           
                 <div class="button">
-                   <a href="demo" class="btn btn-primary hvr-fade">Request Demo</a>
+                   <a href="https://ew.rosterfy.co/onboard_simple" class="btn btn-primary hvr-fade">Request Demo</a>
                    <a href="#learnMore" class="learn-more"> Learn More <i class="fa fa-chevron-down"> </i></a>   
                 </div>        
           
@@ -169,7 +169,7 @@ include $file_base."template_files/header.php";
               <p class="lead">Request a free demo of Rosterfy today.</p>
               
               <div class="button">
-               <a href="demo" class="btn btn-primary hvr-fade">Request a Demo</a>
+               <a href="http://ew.rosterfy.co/onboard_simple" class="btn btn-primary hvr-fade">Request a Demo</a>
             </div>
             </div>
             <div class="col-md-6 text-center">
