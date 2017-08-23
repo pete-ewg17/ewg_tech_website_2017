@@ -45,12 +45,11 @@ include $file_base."template_files/header.php";
               <p> Pop up boxes are used to alert your users to something new in the portal.</p>
             </div>
             <div class="col-md-5" data-aos="fade-left" data-aos-once="true">
-              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/.png" alt="Scheduling and Group Management">
+              <img class="featurette-image no-shadow img-responsive img-rounded" src="../assets/feature_info_images/Pop_Manager.png" alt="Scheduling and Group Management">
             </div>
           </div>
       </div>
     </div>
-      
    
       <!-- /END THE FEATURETTES -->
  <?php 
