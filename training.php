@@ -15,7 +15,7 @@ include $file_base."template_files/header.php";
 It is also possible to track whether these training modules have been opened, further giving you a piece of mind that staff members are adequately briefed prior to commencing shifts.</p>
               
                 <div class="button">
-                   <a href="demo" class="btn btn-primary hvr-fade">Request Demo</a>
+                   <a href="https://ew.rosterfy.co/onboard_simple" class="btn btn-primary hvr-fade">Request Demo</a>
                    <a href="#learnMore" class="learn-more"> Learn More <i class="fa fa-chevron-down"> </i></a>
                 </div>        
           
@@ -158,7 +158,7 @@ It is also possible to track whether these training modules have been opened, fu
               <p class="lead">Chat to our dedicated team to arrange a obligation-free trial of our online event training software.</p>
               
               <div class="button">
-               <a href="demo" class="btn btn-primary hvr-fade">Request a Demo</a>
+               <a href="https://ew.rosterfy.co/onboard_simple" class="btn btn-primary hvr-fade">Request a Demo</a>
             </div>
             </div>
             <div class="col-md-6 text-center">
