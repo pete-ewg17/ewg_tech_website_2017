@@ -59,7 +59,7 @@ include $file_base."template_files/header.php";
                 <li class="list-group-item"><a href="feature_info_pages/search.php" target="_blank"> <i class="fa fa-check"></i> Search Workforce Database</a></li>
                 <li class="list-group-item"><a href="feature_info_pages/userportal.php" target="_blank"><i class="fa fa-check"></i> Workforce Portals</a></li>
               </ul>
-              <a href="#" class="cta">Get Started</a>
+              <a href="https://rosterfy.co/onboard_simple" class="cta">Get Started</a>
             </div> <!-- END PLAN 1 -->
 
             <div class="plan plan3">
