@@ -124,7 +124,7 @@ src="https://www.facebook.com/tr?id=114806989013061&ev=PageView&noscript=1"
                             <li><a href="<?php echo $file_base; ?>training.php">Training</a></li>
                             </ul>
                         </li>    
-                    <li><a href="<?php echo $file_base; ?>pricing">Pricing.php</a></li>
+                    <li><a href="<?php echo $file_base; ?>pricing.php">Pricing</a></li>
 		    <li><a href="https://rosterfy.co/onboard_simple"><span class="text-info">Request Demo</span></a></li>
                     </ul>
             </div><!-- /.navbar-collapse -->
