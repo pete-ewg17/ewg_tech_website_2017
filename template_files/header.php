@@ -100,7 +100,7 @@ src="https://www.facebook.com/tr?id=114806989013061&ev=PageView&noscript=1"
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button>
-                <a class="navbar-brand topnav" href="<?php echo $file_base; ?>index.php"><img class="logo" src="<?php echo $file_base; ?>assets/ewg_tech_Logo.svg" alt="EWG Tech Logo"></a>
+                <a class="navbar-brand topnav" href="<?php echo $file_base; ?>index"><img class="logo" src="<?php echo $file_base; ?>assets/ewg_tech_Logo.svg" alt="EWG Tech Logo"></a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -109,7 +109,7 @@ src="https://www.facebook.com/tr?id=114806989013061&ev=PageView&noscript=1"
                           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home<span class="caret"></span></a>
 
                            <ul class="dropdown-menu">
-                             <li><a href="<?php echo $file_base; ?>index.php">Home</a></li>
+                             <li><a href="<?php echo $file_base; ?>index">Home</a></li>
                             <li><a href="https://eventworkforcegroup.com/">EWG Group</a></li>
             </ul>
                     
@@ -119,12 +119,12 @@ src="https://www.facebook.com/tr?id=114806989013061&ev=PageView&noscript=1"
                           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">What We Do<span class="caret"></span></a>
 
                            <ul class="dropdown-menu">
-                            <li><a href="<?php echo $file_base; ?>rosterfy.php">Rosterfy</a></li>
-                            <li><a href="<?php echo $file_base; ?>accreditation.php">Accreditation</a></li>
-                            <li><a href="<?php echo $file_base; ?>training.php">Training</a></li>
+                            <li><a href="<?php echo $file_base; ?>rosterfy">Rosterfy</a></li>
+                            <li><a href="<?php echo $file_base; ?>accreditation">Accreditation</a></li>
+                            <li><a href="<?php echo $file_base; ?>training">Training</a></li>
                             </ul>
                         </li>    
-                    <li><a href="<?php echo $file_base; ?>pricing.php">Pricing</a></li>
+                    <li><a href="<?php echo $file_base; ?>pricing">Pricing</a></li>
 		    <li><a href="https://rosterfy.co/onboard_simple"><span class="text-info">Request Demo</span></a></li>
                     </ul>
             </div><!-- /.navbar-collapse -->
