@@ -4,24 +4,24 @@ $title = "Rosterfy Rostering System / Rostering Software - Event Roster Tools & 
 $desc = "Cutting edge event roster tools. Includes event rostering software, event rostering system, and event registration software to manage your event staff online.";
 include $file_base."template_files/header.php";
 
-?>  
-      
+?>
+
    <!--THE FEATURETTES -->
-   
+
   <div class="content-section-a white-top">
     <div class="container">
       <div class="row featurette">
         <div class="col-md-6" data-aos="fade-left" data-aos-once="true">
           <h2>What is Rosterfy?</h2>
           <p>Rosterfy is global-leading, digital workforce management platform. Enabling event organisers to employ a fully integrated scheduling software for their event staff and volunteers</p>
-          
+
                 <div class="button">
-                   <a href="https://ew.rosterfy.co/onboard_simple" class="btn btn-primary hvr-fade">Request Demo</a>
-                   <a href="#learnMore" class="learn-more"> Learn More <i class="fa fa-chevron-down"> </i></a>   
-                </div>        
-          
-          
-                
+                   <a href="https://ew.rosterfy.co/onboard_simple" class="btn btn-primary hvr-fade">Get Your Free Trial</a>
+                   <a href="#learnMore" class="learn-more"> Learn More <i class="fa fa-chevron-down"> </i></a>
+                </div>
+
+
+
         </div>
         <div class="col-md-6" align="center" data-aos="fade-left" data-aos-once="true">
           <img class="img-responsive center-block" src="assets/images/rosterfy/rosterfy_login_3.png" alt="Rosterfy Responsive Image">
@@ -29,24 +29,24 @@ include $file_base."template_files/header.php";
       </div>
     </div>
   </div>
-     
+
   <!--CLIENTS-->
     <div class="content-section-a clients">
         <div class="container" data-aos="fade-left" data-aos-once="true">
-            
+
             <div class="row">
                 <div class="col-md-2 col-xs-4 client-1">
                     <img src="assets/images/logos/aspen.png" alt="Aspen Ski World Cup 2017" class="img-responsive"/>
                 </div>
-                
+
                  <div class="col-md-2 col-xs-4 client-2">
                     <img src="assets/images/logos/rlwc.png" alt="Rugby League World Cup Logo" class="img-responsive">
                 </div>
-                
+
                 <div class="col-md-2 col-xs-4 client-3">
                     <img src="assets/images/logos/sb_17.png" alt=" Houston Superbowl 51 Logo" class="img-responsive">
                 </div>
-            
+
                     <div class="col-md-2 col-xs-4 client-4">
                         <img src="assets/images/logos/red_frogs.png" alt="Red Frogs Events Logo" class="img-responsive">
                     </div>
@@ -59,11 +59,11 @@ include $file_base."template_files/header.php";
                         <img src="assets/images/logos/tough_mudder.png" alt="Tough Mudder Logo" class="img-responsive">
                     </div>
                 </div>
-            </div>       
+            </div>
         </div><!-- /.container -->
-        
+
     <!-- /.content-section-a -->
-    
+
     <!--BIG QUOTE-->
     <div class="content-section-d">
         <div class="container">
@@ -76,12 +76,12 @@ include $file_base."template_files/header.php";
                      <blockquote class="quote">
                         <p>“We have worked alongside the team at EWG Technology and their workforce management platform Rosterfy to set a new bar for the NFL by successfully delivering the largest ever volunteer workforce in Super Bowl history."</p>
                         <cite>Andy Newman - Super Bowl 51 Director of Workforce</cite>
-                     </blockquote>  
+                     </blockquote>
                 </div>
             </div><!--END ROW-->
         </div> <!--/.container -->
-    </div><!-- /.content-section-b -->   
-      
+    </div><!-- /.content-section-b -->
+
       <!--Custom Registration Form-->
       <div id="learnMore"></div>
       <div class="content-section-b blue">
@@ -97,8 +97,8 @@ include $file_base."template_files/header.php";
           </div>
         </div>
       </div>
-      
-      <!--Scheduling &amp; Group Management-->    
+
+      <!--Scheduling &amp; Group Management-->
       <div class="content-section-a white">
         <div class="container">
           <div class="row featurette">
@@ -112,7 +112,7 @@ include $file_base."template_files/header.php";
           </div>
       </div>
     </div>
-      
+
       <!--Enhanced Communication-->
       <div class="content-section-b blue">
        <div class="container">
@@ -127,7 +127,7 @@ include $file_base."template_files/header.php";
           </div>
         </div>
       </div>
-      
+
       <!--Workforce Portals-->
       <div class="content-section-a white">
         <div class="container">
@@ -142,13 +142,13 @@ include $file_base."template_files/header.php";
           </div>
       </div>
     </div>
-     
-     <!--Check in Timesheets--> 
+
+     <!--Check in Timesheets-->
       <div class="content-section-b blue">
        <div class="container">
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true" data-aos-offset="500">
-            <h2 class="featurette-heading">Check in Timesheets</h2> 
+            <h2 class="featurette-heading">Check in Timesheets</h2>
             <p class="tech-lead">Utilize our online or offline Check in modules to keep clean, real-time records.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true" data-aos-offset="500">
@@ -157,19 +157,19 @@ include $file_base."template_files/header.php";
           </div>
         </div>
   </div>
-      <!-- /END THE FEATURETTES --> 
+      <!-- /END THE FEATURETTES -->
 
-    <!--REQUEST A Demo-->                                             
-    <div id="prices"></div>      
+    <!--REQUEST A Demo-->
+    <div id="prices"></div>
     <div class="content-section-c">
         <div class="container" >
           <div class="row featurette" data-aos="fade-up" data-aos-once="true">
             <div class="col-md-6 text-center">
-              <h2>Request A Demo</h2>
+              <h2>Get Your Free Trial</h2>
               <p class="lead">Request a free demo of Rosterfy today.</p>
-              
+
               <div class="button">
-               <a href="http://ew.rosterfy.co/onboard_simple" class="btn btn-primary hvr-fade">Request a Demo</a>
+               <a href="http://ew.rosterfy.co/onboard_simple" class="btn btn-primary hvr-fade">Get Your Free Trial</a>
             </div>
             </div>
             <div class="col-md-6 text-center">
@@ -177,5 +177,5 @@ include $file_base."template_files/header.php";
             </div>
           </div>
       </div>
-    </div><!-- END OF REQUEST A DEMO-->                                             
+    </div><!-- END OF REQUEST A DEMO-->
 <?php include $file_base."template_files/footer.php"; ?>

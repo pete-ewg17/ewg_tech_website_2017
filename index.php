@@ -4,7 +4,7 @@ $title = "Event Technology Melbourne, Sydney, Perth, Adelaide, ACT Australia, UK
 $desc = "Event Workforce Group specialises in event technology and event software in Melbourne, Syndey, Perth, Adelaide, ACT Australia, UK, USA.";
 include $file_base."template_files/header.php";
 ?>
-    
+
     <!-- Header -->
     <a name="about"></a>
     <div class="intro-header">
@@ -14,30 +14,30 @@ include $file_base."template_files/header.php";
                     <div class="intro-message text-left">
                        <h4>Welcome to</h4>
                        <h1>Event Workforce Group Technology</h1>
-                        
+
                             <div class="rw-wrapper">
                                     <span>we simplify</span>
                                     <div class="rw-words rw-words-1">
                                         <span>Running Events</span>
                                         <span>Rostering</span>
-                                        <span>Accreditation</span>                                       
+                                        <span>Accreditation</span>
                                         <span>Event Training</span>
                                         <span>Management</span>
                                     </div>
                             </div>
-                          
-                        
-                        
+
+
+
                             <div class="button">
-                              <a href="https://ew.rosterfy.co/onboard_simple" class="btn btn-primary btn-outline hvr-fade animated bounce">Request Demo</a>
+                              <a href="https://ew.rosterfy.co/onboard_simple" class="btn btn-primary btn-outline hvr-fade animated bounce">Get Your Free Trial</a>
                             </div>
-                        
+
                     </div><!--END OF INTRO MESSAGE-->
                 </div><!--END OF COL-->
             </div><!--END OF ROW-->
         </div><!-- /.container -->
-    </div><!-- /.intro-header --> 
-    
+    </div><!-- /.intro-header -->
+
     <!--PAGE DOWN ARROW-->
     <div class="container">
        <div class="row arrow-down">
@@ -45,27 +45,27 @@ include $file_base."template_files/header.php";
                 <a href="#quote" class="down-arrow"><i class="fa fa-chevron-down"></i></a>
             </div>
         </div><!--END ROW-->
-      </div><!--END CONTAINER-->           
-    
+      </div><!--END CONTAINER-->
+
     <!-- Page Content -->
-    
+
     <!--CLIENTS-->
     <div class="content-section-a clients">
         <div class="container" data-aos="fade-left" data-aos-once="true">
-            
+
             <div class="row">
                 <div class="col-md-2 col-xs-4 client-1">
                     <img src="assets/images/logos/aspen.png" alt="Aspen World Cup Logo" class="img-responsive"/>
                 </div>
-                
+
                  <div class="col-md-2 col-xs-4 client-2">
                     <img src="assets/images/logos/rlwc.png" alt="Rugby League World Cup Logo" class="img-responsive">
                 </div>
-                
+
                 <div class="col-md-2 col-xs-4 client-3">
                     <img src="assets/images/logos/sb_17.png" alt="Superbowl 52 Logo" class="img-responsive">
                 </div>
-            
+
                     <div class="col-md-2 col-xs-4 client-4">
                         <img src="assets/images/logos/red_frogs.png" alt="Red Frogs Events Logo" class="img-responsive">
                     </div>
@@ -78,11 +78,11 @@ include $file_base."template_files/header.php";
                         <img src="assets/images/logos/tough_mudder.png" alt="Tough Mudder Logo" class="img-responsive">
                     </div>
                 </div>
-            </div>       
+            </div>
         </div><!-- /.container -->
-        
+
     <!-- /.content-section-a -->
-    
+
     <!--BIG QUOTE-->
     <div id="quote"></div>
     <div class="content-section-b">
@@ -95,13 +95,13 @@ include $file_base."template_files/header.php";
                          <blockquote class="big-quote">
                             <p>“We have worked alongside the team at EWG Technology and their workforce management platform Rosterfy to set a new bar for the NFL by successfully delivering the largest ever volunteer workforce in Super Bowl history."</p>
                             <cite>Andy Newman, Super Bowl LI Director of Workforce</cite>
-                         </blockquote>  
+                         </blockquote>
                     </div>
-                </div>   <!--END ROW-->     
+                </div>   <!--END ROW-->
             </div><!--/.container -->
         </div> <!-- /.content-section-b -->
-    
-    
+
+
     <!-- WHAT WE DO -->
     <div id="whatwedo"></div>
             <div class="container">
@@ -114,9 +114,9 @@ include $file_base."template_files/header.php";
            </div>
     <div class="thumbs">
             <!--Rosterfy-->
-            <div class="row row-eq-height" data-aos="fade-up" data-aos-once="true">  
+            <div class="row row-eq-height" data-aos="fade-up" data-aos-once="true">
                 <div class="col-md-4">
-                    <div class="thumbnail"> 
+                    <div class="thumbnail">
                       <img class="th-logo-1" src="assets/images/ipad.jpg" alt="Ipad">
                         <div class="caption">
                             <h3 class="head-acad">Rosterfy</h3>
@@ -137,8 +137,8 @@ include $file_base."template_files/header.php";
                                     <p><a href="accreditation.php" class="btn btn-primary btn-learn hvr-fade" role="button">Learn More</a></p>
                                 </div>
                             </div>
-                        </div>   
-                    </div>    
+                        </div>
+                    </div>
                 <!--Training-->
                   <div class="row-eq-height">
                    <div class="col-md-4">
@@ -149,12 +149,12 @@ include $file_base."template_files/header.php";
                                 <p><a href="training.php" class="btn btn-primary btn-learn hvr-fade" role="button">Learn More</a></p>
                             </div>
                         </div>
-                    </div>      
-                </div>    
+                    </div>
+                </div>
             </div>
         </div>
     </div>
-    
+
     <!--QUOTE CAROUSEL-->
         <div class="content-section-b">
             <div class="container">
@@ -170,8 +170,8 @@ include $file_base."template_files/header.php";
 
                           <!-- Wrapper for slides -->
                           <div class="carousel-inner" role="listbox">
-                           
-                           <!--FIRST ITEM--> 
+
+                           <!--FIRST ITEM-->
                            <div class="item active">
                                 <div class="row">
                                     <div class="col-md-3 quote-image-carousel-tm" align="center">
@@ -180,10 +180,10 @@ include $file_base."template_files/header.php";
                                     <div class="col-md-8">
                                          <p class="section-heading">"Volunteer retention numbers increased dramatically and the saving on paid volunteer wages was in excess of $1,000,000 in the first 12 months across 55 events globally."</p>
                                         <cite>Emma Duch - Workforce Director Tough Mudder</cite>
-                                    </div>     
+                                    </div>
                                 </div>
                               </div>
-                            <!--SECOND ITEM-->  
+                            <!--SECOND ITEM-->
                             <div class="item">
                               <div class="row">
                                <div class="col-md-3 quote-image-carousel" align="center">
@@ -194,7 +194,7 @@ include $file_base."template_files/header.php";
                                 <cite>Adam Barnes - Netball World Cup Operations Manager</cite>
                                 </div>
                               </div>
-                            </div>      
+                            </div>
                             <!--THIRD ITEM-->
                             <div class="item">
                                    <div class="row">
@@ -204,7 +204,7 @@ include $file_base."template_files/header.php";
                                     <div class="col-md-8">
                                         <p class="section-heading">"Ironman New Zealand have increased their volunteer database by over 600 in just 6 months and will look to increase these numbers globally while they enjoy the ease of Rosterfy."</p>
                                         <cite>Ironman New Zealand</cite>
-                                    </div>    
+                                    </div>
                               </div>
                             </div>
                             </div>
@@ -213,7 +213,7 @@ include $file_base."template_files/header.php";
                     </div>
                 </div>
             </div>
-    
+
     <!--STATS COUNTER-->
     <div class="container">
            <div class="row" data-aos="fade-up" data-aos-once="true">
@@ -232,7 +232,7 @@ include $file_base."template_files/header.php";
                       <p>Events</p>
                   </div>
                </div>
-               
+
                <div class="col-md-3">
                   <div class="counter-item">
                       <div><i class="fa fa-users"></i></div>
@@ -240,7 +240,7 @@ include $file_base."template_files/header.php";
                       <p>Users</p>
                   </div>
                </div>
-               
+
                <div class="col-md-3">
                   <div class="counter-item">
                       <div><i class="fa fa-check-square-o"></i></div>
@@ -248,7 +248,7 @@ include $file_base."template_files/header.php";
                       <p>Shifts</p>
                   </div>
                </div>
-               
+
                <div class="col-md-3">
                   <div class="counter-item">
                       <div><i class="fa fa-clock-o"></i></div>

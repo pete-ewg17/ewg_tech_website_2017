@@ -4,7 +4,7 @@ $title = "Event Training Software & System - Online Training Modules Melbourne, 
 $desc = "Cutting edge Event Training Software & System to manage your event workforce, contractors, volunteers, staff and more.  Includes Online Training Modules, training tracker, and more.";
 include $file_base."template_files/header.php";
 
-?> 
+?>
    <!--THE FEATURETTES -->
   <div class="content-section-a white-top">
     <div class="container">
@@ -13,12 +13,12 @@ include $file_base."template_files/header.php";
           <h1>Event Training Software &amp; Online Training Modules</h1>
           <p>We understand how important it is to have adequately trained staff with the correct knowledge; skills; and information on hand. Event training is a key component of our event technology software. Event Workforce Group Technology provides the tools to create online educational training modules and inductions to share with your contractors, workforce, and your wider event team. Each module has capability to incorporate tests or electronic quizzes on the content and further give you confidence that each worker or volunteer is prepared with the correct training for their shift.
 It is also possible to track whether these training modules have been opened, further giving you a piece of mind that staff members are adequately briefed prior to commencing shifts.</p>
-              
+
                 <div class="button">
-                   <a href="https://ew.rosterfy.co/onboard_simple" class="btn btn-primary hvr-fade">Request Demo</a>
+                   <a href="https://ew.rosterfy.co/onboard_simple" class="btn btn-primary hvr-fade">Get Your Free Trial</a>
                    <a href="#learnMore" class="learn-more"> Learn More <i class="fa fa-chevron-down"> </i></a>
-                </div>        
-          
+                </div>
+
         </div>
         <div class="col-md-5" align="center" data-aos="fade-left" data-aos-once="true">
           <img class="img-responsive center-block" src="assets/images/training/training_imac_1.png" alt="Training Portal on Computer">
@@ -26,24 +26,24 @@ It is also possible to track whether these training modules have been opened, fu
       </div>
     </div>
   </div>
-     
+
     <!--CLIENTS-->
     <div class="content-section-a clients">
         <div class="container" data-aos="fade-left" data-aos-once="true">
-            
+
             <div class="row">
                 <div class="col-md-2 col-xs-4 client-1">
                     <img src="assets/images/logos/aspen.png" alt="Aspen Ski World Cup 2017" class="img-responsive"/>
                 </div>
-                
+
                  <div class="col-md-2 col-xs-4 client-2">
                     <img src="assets/images/logos/rlwc.png" alt="Rugby League World Cup Logo" class="img-responsive">
                 </div>
-                
+
                 <div class="col-md-2 col-xs-4 client-3">
                     <img src="assets/images/logos/sb_17.png" alt=" Houston Superbowl 51 Logo" class="img-responsive">
                 </div>
-            
+
                     <div class="col-md-2 col-xs-4 client-4">
                         <img src="assets/images/logos/red_frogs.png" alt="Red Frogs Events Logo" class="img-responsive">
                     </div>
@@ -56,26 +56,26 @@ It is also possible to track whether these training modules have been opened, fu
                         <img src="assets/images/logos/tough_mudder.png" alt="Tough Mudder Logo" class="img-responsive">
                     </div>
                 </div>
-            </div>       
+            </div>
         </div><!-- /.container -->
         <!-- /.content-section-a -->
-    
+
     <!--BIG QUOTE-->
     <div class="content-section-d">
         <div class="container">
            <div class="row">
                 <div class="col-md-2 quote-image" align="center" data-aos="fade-left" data-aos-once="true">
-                     <img class="img-responsive" src="assets/images/logos/carousel_logos/GTR_Logo.png" alt="GTR Events">  
+                     <img class="img-responsive" src="assets/images/logos/carousel_logos/GTR_Logo.png" alt="GTR Events">
                 </div>
                 <div class="col-md-10" data-aos="fade-left" data-aos-once="true">
                      <blockquote class="quote">
                         <p>“As well as being easy to use, the workforce training platform taught our volunteers, contractors and paid staff everything they needed to know prior to the Cadel Evans Road Race. On top of that, the system saved us plenty of hours in organisation and was compliant with all important health and safety regulations."</p>
                         <cite>Matt Hilton - GTR Events Operations Manager</cite>
-                     </blockquote>  
+                     </blockquote>
                 </div>
             </div><!--END ROW-->
         </div> <!--/.container -->
-    </div><!-- /.content-section-b -->      
+    </div><!-- /.content-section-b -->
     <div id="learnMore"></div>
       <div class="content-section-b blue">
        <div class="container">
@@ -90,7 +90,7 @@ It is also possible to track whether these training modules have been opened, fu
           </div>
         </div>
       </div>
-      
+
 
       <div class="content-section-a white">
         <div class="container right">
@@ -105,7 +105,7 @@ It is also possible to track whether these training modules have been opened, fu
           </div>
       </div>
     </div>
-      
+
       <div class="content-section-b blue">
        <div class="container">
         <div class="row">
@@ -119,7 +119,7 @@ It is also possible to track whether these training modules have been opened, fu
           </div>
         </div>
       </div>
-      
+
       <div class="content-section-a white">
         <div class="container">
           <div class="row featurette">
@@ -133,12 +133,12 @@ It is also possible to track whether these training modules have been opened, fu
           </div>
       </div>
     </div>
-      
+
       <div class="content-section-b blue">
        <div class="container">
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true">
-            <h3 class="featurette-heading">Training On The Go</h3> 
+            <h3 class="featurette-heading">Training On The Go</h3>
             <p class="tech-lead">Staff and volunteer workforce can have access to the online training any time and anywhere on any device: mobile, laptop, iPad, tablet, computer or similar. This allows a more convenient way to train your staff.</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true">
@@ -146,19 +146,19 @@ It is also possible to track whether these training modules have been opened, fu
             </div>
           </div>
         </div>
-  </div><!-- /END THE FEATURETTES --> 
-       
-   <!--REQUEST A Demo-->                                             
-   <div id="prices"></div>      
+  </div><!-- /END THE FEATURETTES -->
+
+   <!--REQUEST A Demo-->
+   <div id="prices"></div>
     <div class="content-section-c">
         <div class="container" >
           <div class="row featurette" data-aos="fade-up" data-aos-once="true">
             <div class="col-md-6 text-center">
-              <h2>Request A Demo</h2>
+              <h2>Get Your Free Trial</h2>
               <p class="lead">Chat to our dedicated team to arrange a obligation-free trial of our online event training software.</p>
-              
+
               <div class="button">
-               <a href="https://ew.rosterfy.co/onboard_simple" class="btn btn-primary hvr-fade">Request a Demo</a>
+               <a href="https://ew.rosterfy.co/onboard_simple" class="btn btn-primary hvr-fade">Get Your Free Trial</a>
             </div>
             </div>
             <div class="col-md-6 text-center">
@@ -166,6 +166,6 @@ It is also possible to track whether these training modules have been opened, fu
             </div>
           </div>
       </div>
-    </div><!-- END OF REQUEST A TRIAL-->                 
+    </div><!-- END OF REQUEST A TRIAL-->
 
 <?php include $file_base."template_files/footer.php"; ?>
