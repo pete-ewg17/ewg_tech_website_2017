@@ -11,12 +11,10 @@ include $file_base."template_files/header.php";
       <div class="row featurette">
         <div class="col-md-7" data-aos="fade-left" data-aos-once="true">
           <h1>Event Training Software &amp; Online Training Modules</h1>
-          <p>We understand how important it is to have adequately trained staff with the correct knowledge; skills; and information on hand. Event training is a key component of our event technology software. Event Workforce Group Technology provides the tools to create online educational training modules and inductions to share with your contractors, workforce, and your wider event team. Each module has capability to incorporate tests or electronic quizzes on the content and further give you confidence that each worker or volunteer is prepared with the correct training for their shift.
-It is also possible to track whether these training modules have been opened, further giving you a piece of mind that staff members are adequately briefed prior to commencing shifts.</p>
+          <p>We understand how important it is to have adequately trained staff with the correct knowledge; skills; and information on hand. Event training is a key component of our event technology software. Event Workforce Group Technology provides the tools to create online educational training modules and inductions to share with your contractors, workforce, and your wider event team.</p>
 
                 <div class="button">
-                   <a href="https://ew.rosterfy.co/onboard_simple" class="btn btn-primary hvr-fade">Get Your Free Trial</a>
-                   <a href="#learnMore" class="learn-more"> Learn More <i class="fa fa-chevron-down"> </i></a>
+                   <a href="https://ew.rosterfy.co/onboard_simple" class="btn btn-primary hvr-fade">Get Started</a>
                 </div>
 
         </div>
@@ -154,11 +152,11 @@ It is also possible to track whether these training modules have been opened, fu
         <div class="container" >
           <div class="row featurette" data-aos="fade-up" data-aos-once="true">
             <div class="col-md-6 text-center">
-              <h2>Get Your Free Trial</h2>
-              <p class="lead">Chat to our dedicated team to arrange a obligation-free trial of our online event training software.</p>
+              <h2>Sign Up Now</h2>
+              <p class="lead">Sign up now to get the best of our online event training software.</p>
 
               <div class="button">
-               <a href="https://ew.rosterfy.co/onboard_simple" class="btn btn-primary hvr-fade">Get Your Free Trial</a>
+               <a href="https://ew.rosterfy.co/onboard_simple" class="btn btn-primary hvr-fade">Get Started</a>
             </div>
             </div>
             <div class="col-md-6 text-center">

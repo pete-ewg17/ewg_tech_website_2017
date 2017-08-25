@@ -165,11 +165,11 @@ include $file_base."template_files/header.php";
         <div class="container" >
           <div class="row featurette" data-aos="fade-up" data-aos-once="true">
             <div class="col-md-6 text-center">
-              <h2>Get Your Free Trial</h2>
-              <p class="lead">Request a free demo of Rosterfy today.</p>
+              <h2>Sign Up Now</h2>
+              <p class="lead">Sign up now to get the best of our online event training software.</p>
 
               <div class="button">
-               <a href="http://ew.rosterfy.co/onboard_simple" class="btn btn-primary hvr-fade">Get Your Free Trial</a>
+               <a href="http://ew.rosterfy.co/onboard_simple" class="btn btn-primary hvr-fade">Get Started</a>
             </div>
             </div>
             <div class="col-md-6 text-center">
