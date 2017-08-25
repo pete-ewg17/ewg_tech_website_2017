@@ -164,7 +164,7 @@ include $file_base."template_files/header.php";
     <div class="content-section-c">
         <div class="container" >
           <div class="row featurette" data-aos="fade-up" data-aos-once="true">
-            <div class="col-md-6 text-center">
+            <div class="col-md-6">
               <h2>Sign Up Now</h2>
               <p class="lead">Sign up now to get the best of our online event training software.</p>
 
