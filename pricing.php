@@ -138,7 +138,7 @@ include $file_base."template_files/header.php";
                             <li class="list-group-item"><a href="feature_info_pages/interview.php" target="_blank"><i class="fa fa-check"></i> Interview Platform</a></li>
                             <li class="list-group-item"><a href="feature_info_pages/notifications.php" target="_blank"><i class="fa fa-check"></i> Workforce Notifications</a></li>
                           </ul>
-                          <a href="https://eventworkforcegroup.com/technology/demo" class="cta">Contact US</a>
+                          <a href="https://eventworkforcegroup.com/technology/demo" class="cta">Contact Us</a>
                         </div> <!-- END PLAN 4 -->
 
           </div>
