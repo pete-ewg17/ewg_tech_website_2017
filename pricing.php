@@ -87,8 +87,6 @@ include $file_base."template_files/header.php";
                   <a href="https://rosterfy.co/onboard_simple" class="cta">Get Started</a>
                 </div> <!-- END PLAN 3 -->
 
-
-
                 <div class="plan plan3">
                   <div class="header">
                     <i class="fa fa-star icon"></i>

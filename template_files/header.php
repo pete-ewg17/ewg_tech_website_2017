@@ -1,4 +1,4 @@
-<?php 
+<?php
 if(!isset($file_base)) {
 	$file_base = "";
 }
@@ -58,7 +58,7 @@ if(!isset($header_extra)) {
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="<?php echo $file_base; ?>assets/ewg_favicon/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
-  
+
     <script>
  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -89,7 +89,7 @@ fbq('track', 'PageView');
 src="https://www.facebook.com/tr?id=114806989013061&ev=PageView&noscript=1"
 /></noscript>
 <!-- DO NOT MODIFY -->
-<!-- End Facebook Pixel Code -->    
+<!-- End Facebook Pixel Code -->
 </head>
 
 <body>
@@ -112,8 +112,8 @@ src="https://www.facebook.com/tr?id=114806989013061&ev=PageView&noscript=1"
                              <li><a href="<?php echo $file_base; ?>index">Home</a></li>
                             <li><a href="https://eventworkforcegroup.com/">EWG Group</a></li>
             </ul>
-                    
-                    
+
+
                        <!--DROP DOWN NAV-->
                         <li class="dropdown">
                           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">What We Do<span class="caret"></span></a>
@@ -123,8 +123,9 @@ src="https://www.facebook.com/tr?id=114806989013061&ev=PageView&noscript=1"
                             <li><a href="<?php echo $file_base; ?>accreditation">Accreditation</a></li>
                             <li><a href="<?php echo $file_base; ?>training">Training</a></li>
                             </ul>
-                        </li>    
+                        </li>
                     <li><a href="<?php echo $file_base; ?>pricing">Pricing</a></li>
+										<li><a href="<?php echo $file_base; ?>demo">Pricing</a></li>
 		    <li><a href="https://rosterfy.co/onboard_simple"><span class="text-info">Request Demo</span></a></li>
                     </ul>
             </div><!-- /.navbar-collapse -->
