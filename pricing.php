@@ -121,7 +121,11 @@ include $file_base."template_files/header.php";
 
                       <div class="price">
 
-                        <p><span class="special-text">From</span> $<span class="cost" data-orig='999'>999</span> <br> Per Month</p>
+
+                        <!-- <p><span class="special-text">From</span> $<span class="cost" data-orig='999'>999</span> <br> Per Month</p> -->
+                        <!-- <p><span class="cost" style="font-size: 1.7em; line-height: 1.1;">Get In Touch</span></p> -->
+
+                        <a href="https://eventworkforcegroup.com/technology/demo" class="cta">Contact Us</a>
 
                       </div>
                         <div class="description">
