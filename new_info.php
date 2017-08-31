@@ -5,7 +5,7 @@ $desc = "";
 $_GET['admin'] = true;
 include $file_base."template_files/header.php";
 
-?> 
+?>
    <!--THE FEATURETTES -->
   <div class="content-section-a white-top">
     <div class="container">
@@ -21,7 +21,7 @@ include $file_base."template_files/header.php";
       </div>
     </div>
   </div>
-        <!--BIG QUOTE--> 
+        <!--BIG QUOTE-->
     <div id="learnMore"></div>
       <div class="content-section-b blue">
        <div class="container">
@@ -36,21 +36,21 @@ include $file_base."template_files/header.php";
           </div>
         </div>
       </div>
-      
+
       <div class="content-section-d">
         <div class="container">
            <div class="row">
                 <div class="col-md-2 quote-image" align="center" data-aos="fade-left" data-aos-once="true">
-                    
+
                 </div>
                 <div class="col-md-10" data-aos="fade-left" data-aos-once="true">
                      <blockquote class="quote" style='font-size:4em'>
                        SO THANKYOU FROM everyone in the EWG family
-                                            </blockquote>  
+                                            </blockquote>
                 </div>
             </div><!--END ROW-->
         </div> <!--/.container -->
-    </div><!-- /.content-section-b -->     
+    </div><!-- /.content-section-b -->
 
       <div class="content-section-a white">
         <div class="container right">
@@ -65,13 +65,13 @@ include $file_base."template_files/header.php";
           </div>
       </div>
     </div>
-      
+
       <div class="content-section-b blue">
        <div class="container">
         <div class="row">
           <div class="col-md-7 col-md-push-5" data-aos="fade-right" data-aos-once="true">
             <h2 class="featurette-heading">And Bennett</h2>
-              <p>Bennett write your note here I hope michaela doesnt see this before you get your note in. michaela if you're reading this, Bennett is wri</p>
+              <p>Hey Langers - thanks so much for all your help over the past 2 years. Your passion and interest in shaping careers has been a huge asset to EWG. It has been a fun journey so far and really looking forward to an exciting future. Happy 2 years! Bennett</p>
           </div>
             <div class="col-md-5 col-md-pull-7" data-aos="fade-right" data-aos-once="true">
             <img class="featurette-image img-responsive img-rounded" src="assets/images/kariah-anniversary/k3.jpg" alt="Shift Specific Training">
@@ -79,7 +79,7 @@ include $file_base."template_files/header.php";
           </div>
         </div>
       </div>
-      
+
       <div class="content-section-a white">
         <div class="container">
           <div class="row featurette">
@@ -93,7 +93,7 @@ include $file_base."template_files/header.php";
           </div>
       </div>
     </div>
-      
+
       <div class="content-section-b blue">
        <div class="container">
         <div class="row">
@@ -106,7 +106,7 @@ include $file_base."template_files/header.php";
             </div>
           </div>
         </div>
-  </div><!-- /END THE FEATURETTES --> 
-       
+  </div><!-- /END THE FEATURETTES -->
+
 
 <?php include $file_base."template_files/footer.php"; ?>
