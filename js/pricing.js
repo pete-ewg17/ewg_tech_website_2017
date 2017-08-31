@@ -30,3 +30,7 @@ $(".chooseprice").change(function() {
         	}
         }
 });
+
+/*===========
+  Slider
+=============*/
