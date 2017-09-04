@@ -1,6 +1,6 @@
       <?php
       $file_base = "";
-      $title = "Pricing";
+      $title = "Latest Updates";
       $desc = "All your workforce needs";
       $header_extra = "<link href='css/pricing.css' rel='stylesheet'/>";
       include $file_base."template_files/header.php";
@@ -25,211 +25,138 @@
                  <div class="col-md-12"> <!--required for floating -->
             <!-- Nav tabs -->
             <ul class="nav nav-tabs tabs-left">
-              <li><a href="#home" data-toggle="tab">2017</a></li>
-              <li><a href="#profile" data-toggle="tab">2016</a></li>
-              <li class="active"><a href="#messages" data-toggle="tab">2015</a></li>
+              <li><a href="#2017" data-toggle="tab">2017</a></li>
+              <li><a href="#2016" data-toggle="tab">2016</a></li>
+              <li class="active"><a href="#2015" data-toggle="tab">2015</a></li>
             </ul>
           </div>
 
           <div class="container">
             <div class="row">
-          <div class="col-md-12">
+
             <!-- Tab panes-->
             <div class="tab-content">
               <br>
-              <div class="tab-pane" id="home">
-                <div class="content">
-                  <h4>2017</h4>
-                    <p>This is what happened</p>
+              <div class="tab-pane" id="2017">
+                <div class="col-md-12">
+                <h1 class="my-4">Page Heading
+                  <small>First Text</small>
+                </h1>
                 </div>
-                <div class="content">
-                  <h4>2017</h4>
-                    <p>This is what happened</p>
+
+                <div class="col-md-3">
+                  <h4>TEST
+                      <small>Date</small>
+                  </h4>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
-                <div class="content">
-                  <h4>2017</h4>
-                    <p>This is what happened</p>
+
+                <div class="col-md-3">
+                  <h4>TEST
+                      <small>Date</small>
+                  </h4>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
-                <div class="content">
-                  <h4>2017</h4>
-                    <p>This is what happened</p>
+
+                <div class="col-md-3">
+                  <h4>TEST
+                      <small>Date</small>
+                  </h4>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                </div>
+
+                <div class="col-md-3">
+                  <h4>TEST
+                      <small>Date</small>
+                  </h4>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
               </div>
-              <div class="tab-pane" id="profile">
-                <div class="content">
-                  <h4>2016</h4>
-                    <p>This is what happened</p>
+
+              <div class="tab-pane" id="2016">
+                <div class="col-md-12">
+                <h1 class="my-4">Page Heading
+                  <small>Third Text</small>
+                </h1>
                 </div>
-              </div>
-              <div class="tab-pane active" id="messages">
-                <div class="col-md-4 text-center">
-                <div class="content">
-                  <i class="fa fa-adjust" style="font-size: 10em; color: #999; margin: 10px 0;"></i>
-                  <p><span>27th Feb</span></p>
-                  <h4 style="color: #0082c2;">Update Blog Is Birthed</h4>
-                    <p>With so many new features, we need to keep you in the loop</p>
-                  </div>
+
+                <div class="col-md-3">
+                  <h4>TEST
+                      <small>Date</small>
+                  </h4>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
-                <div class="col-md-4 text-center">
-                <div class="content">
-                  <i class="fa fa-file-image-o" style="font-size: 10em; color: #999; margin: 10px 0;"></i>
-                  <p><span>2nd Mar</span></p>
-                  <h4 style="color: #0082c2;">Event Background Image</h4>
-                    <p>Change the event background image to suit the event</p>
-                  </div>
+
+                <div class="col-md-3">
+                  <h4>TEST
+                      <small>Date</small>
+                  </h4>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
-                <div class="col-md-4 text-center">
-                <div class="content">
-                  <i class="fa fa-clock-o" style="font-size: 10em; color: #999; margin: 10px 0;"></i>
-                  <p><span>20th Mar</span></p>
-                  <h4>International Timezone</h4>
-                    <p>As we expand globally, we have to keep up with everyone, so we added multiple timezone support.</p>
-                  </div>
+
+                <div class="col-md-3">
+                  <h4>TEST
+                      <small>Date</small>
+                  </h4>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
-                <div class="col-md-4 text-center">
-                <div class="content">
-                  <i class="fa fa-adjust" style="font-size: 10em; color: #999; margin: 10px 0;"></i>
-                  <p><span>27th Feb</span></p>
-                  <h4 style="color: #0082c2;">Update Blog Is Birthed</h4>
-                    <p>With so many new features, we need to keep you in the loop</p>
-                  </div>
-                </div>
-                <div class="col-md-4 text-center">
-                <div class="content">
-                  <i class="fa fa-file-image-o" style="font-size: 10em; color: #999; margin: 10px 0;"></i>
-                  <p><span>2nd Mar</span></p>
-                  <h4 style="color: #0082c2;">Event Background Image</h4>
-                    <p>Change the event background image to suit the event</p>
-                  </div>
-                </div>
-                <div class="col-md-4 text-center">
-                <div class="content">
-                  <i class="fa fa-clock-o" style="font-size: 10em; color: #999; margin: 10px 0;"></i>
-                  <p><span>20th Mar</span></p>
-                  <h4>International Timezone</h4>
-                    <p>As we expand globally, we have to keep up with everyone, so we added multiple timezone support.</p>
-                  </div>
-                </div>
-                <div class="col-md-4 text-center">
-                <div class="content">
-                  <i class="fa fa-adjust" style="font-size: 10em; color: #999; margin: 10px 0;"></i>
-                  <p><span>23rd Mar</span></p>
-                  <h4>Hotlinks</h4>
-                    <p>Many features are used a lot more than others, so we have put them all together in one place</p>
-                  </div>
+
+                <div class="col-md-3">
+                  <h4>TEST
+                      <small>Date</small>
+                  </h4>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
 
 
+              </div>
+              <div class="tab-pane active" id="2015">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-12">
+                    <h1 class="my-4">Page Heading
+                      <small>Secondary Text</small>
+                    </h1>
+                    </div>
+                    <div class="col-md-3">
+                      <h4>TEST
+                          <small>Date</small>
+                      </h4>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    </div>
 
-              <div class="col-md-4 text-center">
-              <div class="content">
-                <i class="fa fa-user" style="font-size: 10em; color: #999; margin: 10px 0;"></i>
-                <p><span>1st Apr</span></p>
-                <h4 style="color: #0082c2;">Update My Account Welcome</h4>
-                  <p>Customize the text on the my account page to match your audience requirements</p>
-                </div>
-              </div>
-              <div class="col-md-4 text-center">
-              <div class="content">
-                <i class="fa fa-plus" style="font-size: 10em; color: #999; margin: 10px 0;"></i>
-                <p><span>13th Apr</span></p>
-                <h4 style="color: #0082c2;">Add Group To Shift</h4>
-                  <p>Quickly add a group to a shift.</p>
-                </div>
-              </div>
-              <div class="col-md-4 text-center">
-              <div class="content">
-                <i class="fa fa-edit" style="font-size: 10em; color: #999; margin: 10px 0;"></i>
-                <p><span>20th Apr</span></p>
-                <h4 style="color: #0082c2;">Survey Functionality</h4>
-                  <p>Create and manage surveys using Rosterfy's new survey tool.</p>
-                </div>
-              </div>
-              <div class="col-md-4 text-center">
-              <div class="content">
-                <i class="fa fa-mobile" style="font-size: 10em; color: #999; margin: 10px 0;"></i>
-                <p><span>28th Apr</span></p>
-                <h4 style="color: #0082c2;">SMS to Email</h4>
-                  <p>Incoming SMS are now forwarded to your contact email address for simpler interaction with your users</p>
-                </div>
-              </div>
-              <div class="col-md-4 text-center">
-              <div class="content">
-                <i class="fa fa-user" style="font-size: 10em; color: #999; margin: 10px 0;"></i>
-                <p><span>1st May</span></p>
-                <h4 style="color: #0082c2;">Save Email to Draft</h4>
-                  <p>All email communications are now automatically saved in drafts.</p>
-                </div>
-              </div>
-              <div class="col-md-4 text-center">
-              <div class="content">
-                <i class="fa fa-plus" style="font-size: 10em; color: #999; margin: 10px 0;"></i>
-                <p><span>6th May</span></p>
-                <h4 style="color: #0082c2;">Check In &amp; Check Out</h4>
-                  <p>It is now possible to run your check-in/out on the fly with our new tool.</p>
-                </div>
-              </div>
-              <div class="col-md-4 text-center ">
-              <div class="content">
-                <i class="fa fa-edit" style="font-size: 10em; color: #999; margin: 10px 0;"></i>
-                <p><span>15th May</span></p>
-                <h4 style="color: #0082c2;">Checkpoints</h4>
-                  <p>Create different checkpoints that end users have to reach to unlock certain functionality.</p>
-                </div>
-              </div>
-              <div class="col-md-4 text-center">
-              <div class="content">
-                <i class="fa fa-mobile" style="font-size: 10em; color: #999; margin: 10px 0;"></i>
-                <p><span>20th May</span></p>
-                <h4 style="color: #0082c2;">Email Preview</h4>
-                  <p>We have updated the email preview to show you how it will look and allow you to scroll through each individual email including all merge fields.</p>
-                </div>
-              </div>
-              <div class="col-md-4 text-center">
-              <div class="content">
-                <i class="fa fa-user" style="font-size: 10em; color: #999; margin: 10px 0;"></i>
-                <p><span>1st May</span></p>
-                <h4 style="color: #0082c2;">Save Email to Draft</h4>
-                  <p>All email communications are now automatically saved in drafts.</p>
-                </div>
-              </div>
-              <div class="col-md-4 text-center ">
-              <div class="content">
-                <i class="fa fa-plus" style="font-size: 10em; color: #999; margin: 10px 0;"></i>
-                <p><span>6th May</span></p>
-                <h4 style="color: #0082c2;">Check In &amp; Check Out</h4>
-                  <p>It is now possible to run your check-in/out on the fly with our new tool.</p>
-                </div>
-              </div>
-              <div class="col-md-4 text-center ">
-              <div class="content">
-                <i class="fa fa-edit" style="font-size: 10em; color: #999; margin: 10px 0;"></i>
-                <p><span>15th May</span></p>
-                <h4 style="color: #0082c2;">Checkpoints</h4>
-                  <p>Create different checkpoints that end users have to reach to unlock certain functionality.</p>
-                </div>
-              </div>
-              <div class="col-md-4 text-center">
-              <div class="content">
-                <i class="fa fa-mobile" style="font-size: 10em; color: #999; margin: 10px 0;"></i>
-                <p><span>20th May</span></p>
-                <h4 style="color: #0082c2;">Email Preview</h4>
-                  <p>We have updated the email preview to show you how it will look and allow you to scroll through each individual email including all merge fields.</p>
-                </div>
-              </div>
-              </div>
-            </div>
-          </div>
+                    <div class="col-md-3">
+                      <h4>TEST
+                          <small>Date</small>
+                      </h4>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    </div>
+
+                    <div class="col-md-3">
+                      <h4>TEST
+                          <small>Date</small>
+                      </h4>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    </div>
+
+                    <div class="col-md-3">
+                      <h4>TEST
+                          <small>Date</small>
+                      </h4>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    </div>
+
+
+
+
+
         </div>
       </div>
+    </div>
+
+
+      </div>
               <!-- 2015 -->
-
-
-
-
-            </div>
-          </div>
-        </div>
 
           </section>
       <!-- /Plans -->
