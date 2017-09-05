@@ -44,6 +44,52 @@
                 </h1>
                 </div>
 
+                <div class="container ow-section">
+        <?php
+        $years = mysql_query("SELECT YEAR(created) as y FROM `features_blog` GROUP BY YEAR(created) ORDER BY created DESC");
+        while ($year = mysql_fetch_assoc($years)) {
+            ?>
+            <h3 class="year"><?php echo $year['y']; ?></h3>
+            <ul class="timeline">
+                <?php
+                $blogs = mysql_query("SELECT * FROM features_blog WHERE YEAR(created) = '{$year['y']}' ORDER BY created DESC LIMIT 0,40");
+                $i = 1;
+                while ($blog = mysql_fetch_assoc($blogs)) {
+                    if ($i % 2 == 0) {
+                        $side = "timeline-inverted even";
+                    } else {
+                        $side = "odd";
+                    }
+                    ?>
+                    <li class="<?php echo $side; ?>">
+                        <div class="timeline-badge ci"></div>
+                        <div class="timeline-panel">
+                            <div class='inner_panel_left'><img src="<?php echo $bucket_loc . $blog['thumbnail']; ?>"
+                                                               style="max-height:100px"></div>
+                            <div class='inner_panel_right'>
+                                <div class="timeline-heading">
+                                    <h4 class="timeline-title"><?php echo $blog['title']; ?>
+                                        <span><?php echo date("j M", strtotime($blog['created'])); ?></span></h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p><?php echo $blog['subtitle']; ?></p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+
+                    <?php
+                    $i++;
+                }
+                ?>
+
+            </ul>
+            <?php
+        }
+        ?>
+    </div>
+
+
                 <div class="col-md-3">
                   <h4>TEST
                       <small>Date</small>
