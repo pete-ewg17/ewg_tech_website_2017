@@ -153,7 +153,7 @@ include $file_base."template_files/header.php";
           <div class="row featurette" data-aos="fade-up" data-aos-once="true">
             <div class="col-md-6">
               <h2>Sign Up Now</h2>
-              <p class="lead">Sign up now to get the best of our online event training software.</p>
+              <p class="lead"> Sign up now to learn there is a better way to manage your workforce.</p>
 
               <div class="button">
                <a href="https://ew.rosterfy.co/onboard_simple" class="btn btn-primary hvr-fade">Get Started</a>
